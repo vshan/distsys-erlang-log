@@ -10,7 +10,7 @@ fi
 if [ ! -f "$1" ]; then
   echo "File $1 does not exist"
   exit 1
-then
+fi
 
 if [ ! -f modified ]; then
   echo 0 > modified
