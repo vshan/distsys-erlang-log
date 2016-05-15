@@ -19,7 +19,8 @@ while true; do
   curr=$(stat --format "%Y" "$1")
   if [ "$last_mod" != "$curr" ]; then
     echo "$curr" > modified
-    git add $1
+    cp $1 .
+    git add --all
     git commit -m "Log Update"
     git push origin master
   fi
