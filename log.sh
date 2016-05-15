@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # $1 is gonna be the log file name
 
 if [ "$#" != "1" ]; then
