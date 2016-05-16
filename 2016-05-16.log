@@ -140,3 +140,5 @@
 [10:17:12] <vinayb> So yes, with pure functions, testing becomes easier. No external condition can crash our system!
 [10:17:38] <vinayb> You can reason more easily about your function
 [10:18:31] <vinayb> With pure functions, composability becomes easier!
+[10:19:04] <vinayb> because of this very simple notion: If f, and g are pure, then so f o g and g o f!
+[10:19:08] <vinayb> * so are
