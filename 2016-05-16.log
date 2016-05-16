@@ -253,3 +253,4 @@
 [10:57:33] <vinayb> No, in practice, it's a mix of parallelism and concurrency.. WhatsApp has about 100 XEON servers, which each have about 4 cores.. 16 processors each.. :)
 [10:58:02] <rakshith_> 4 cores and 16 threads basically..
 [10:58:18] <rakshith_> ?
+[10:58:55] <vinayb> yeah. But then it gets blurred because your OS also does Multiplexing.. and then on top of that, even Erlang does multiplexing for its "processes"
