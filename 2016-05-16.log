@@ -212,3 +212,4 @@
 [10:44:38] <vinayb> in C, where you have line by line execution, Erlang has direct support for multiple threads (Erlang calls them "processes") which send messages to each other!
 [10:45:27] <vinayb> and now how are all those concepts related?
 [10:45:38] <vinayb> the thing is, each concept reinforces the other!
+[10:46:02] <rakshith_> on another note, even python has support for all of these isn't it?
