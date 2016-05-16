@@ -258,3 +258,4 @@
 [10:59:44] <vinayb> *!
 [10:59:50] <salman_> So shouldn't multiplexing make it slower?
 [11:00:11] <salman_> Instead of pure parallelism
+[11:00:50] <rakshith_> OS tries to minimize the idle time of each processor, and in the time thus saved, it multiplexes.. Am i right?
