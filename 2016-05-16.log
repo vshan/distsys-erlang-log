@@ -147,3 +147,6 @@
 [10:20:23] <vinayb> both f and g are impure: then you have to worry about external conditions in both f AND g! so any small crash can crash the other
 [10:20:33] <vinayb> this is how pure functions are so important
 [10:20:57] <vinayb> Functional programming is all about writing these pure functions, and composing them together :)
+[10:22:23] <vinayb> can anyone tell me if IO is pure or impure? ;)
+[10:22:31] <vinayb> by IO i mean scanf, printf etc
+[10:22:36] *** Joins: Pratyushgr (40e9adbd@gateway/web/freenode/ip.64.233.173.189)
