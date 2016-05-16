@@ -142,3 +142,4 @@
 [10:18:31] <vinayb> With pure functions, composability becomes easier!
 [10:19:04] <vinayb> because of this very simple notion: If f, and g are pure, then so f o g and g o f!
 [10:19:08] <vinayb> * so are
+[10:19:19] <vinayb> f o g = f(g(x))
