@@ -218,3 +218,6 @@
 [10:47:26] <vinayb> okay, back on track
 [10:47:40] <akshayrevankar> Ok.. one point about threading and concurrency that i asked before is. In case of concurrency the important factor is that the outcome of each individually running computation is independent of the others.. In case of threading, we basically run threads of different things performing at the same time. For example: I could have an IO operation which can be concurrent and handling different users but performing the same operation independent
 [10:47:40] <akshayrevankar> ly. Threading would be like there is a IO operation going on for a user and there is a spell check engine running. Both of them will be encapsulated into one but running in two threads with spell check continously using the data from the IO. Now these two encapsulated things run concurrently for different users
+[10:48:06] <vinayb> Exactly. 
+[10:48:17] <vinayb> So with pure functions, concurrency is very easy!
+[10:48:24] <akshayrevankar> yep
