@@ -213,3 +213,5 @@
 [10:45:27] <vinayb> and now how are all those concepts related?
 [10:45:38] <vinayb> the thing is, each concept reinforces the other!
 [10:46:02] <rakshith_> on another note, even python has support for all of these isn't it?
+[10:47:00] <vinayb> so does C, but it's very painful in python.. and if you try making 50 million threads in Python, your computer will die like Julius Caesar on May 15th ;)
+[10:47:18] <vinayb> But Erlang, 50 million processes is no big deal :)
