@@ -195,3 +195,4 @@
 [10:36:42] <vilas_m> No
 [10:36:50] <aditya_a_> no
 [10:36:51] <akshayrevankar> vinay can u tell the difference between threading and concurrency also
+[10:39:00] <vinayb> right, threading is a WAY to divide your program into multiple parts
