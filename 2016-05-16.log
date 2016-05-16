@@ -236,3 +236,6 @@
 [10:52:56] *** Quits: Pratyushgr (40e9adbd@gateway/web/freenode/ip.64.233.173.189) (Ping timeout: 250 seconds)
 [10:53:03] <akshayrevankar> i am asking questions here which target to vinay but are meant for others to search upon also
 [10:53:55] <vinayb> So you can visualize WhatsApp's each "connection" between person A to person B as an Erlang process!
+[10:54:24] <vinayb> yeah, akshayrevankar and me want you guys to become curious and search more :)
+[10:54:32] <vinayb> So this is why Erlang is important
+[10:54:40] <vinayb> This is why C is inadequate
