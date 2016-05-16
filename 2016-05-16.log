@@ -229,3 +229,5 @@
 [10:51:28] <vinayb> So this is why we are learning Distributed Systems with Erlang: it has native, and powerful support for concurrency and is a functional language
 [10:51:43] <vinayb> They don't know TCP/IP or XMPP
 [10:51:55] <vinayb> But Erlang can be implemented for both
+[10:52:06] <akshayrevankar> ok..
+[10:52:08] <vinayb> So, WhatsApp's backend is written in Erlang
