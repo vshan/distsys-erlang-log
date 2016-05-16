@@ -129,3 +129,5 @@
 [10:15:00] <vinayb> why is this good? can anyone tell me?
 [10:15:08] <vinayb> what's the advantage of pure functions?
 [10:15:12] <vinayb> you can guess anything
+[10:15:52] <vilas_m> On different systems, you get the same result regardless of other conditions?
+[10:15:52] <vinayb> anyone?
