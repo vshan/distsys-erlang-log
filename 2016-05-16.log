@@ -199,3 +199,5 @@
 [10:39:17] <vinayb> So you have threads running at the same time
 [10:39:42] <vinayb> if you only have one processor: they get MULTIPLEXED, and you have appearency of them running at the same time
 [10:39:58] <vinayb> otherwise, they actually get run at the same time, thanks to multiple processors
+[10:40:17] <vinayb> can anyone tell me why is concurrency or parallelism important?
+[10:40:25] <vinayb> *is important?
