@@ -301,3 +301,5 @@
 [11:19:46] <salman_> Where is it implemented
 [11:19:49] <salman_> ?
 [11:20:49] <vinayb> Erlang has TCP/IP "sockets", and it has Binary pattern matching which makes it very easy to make protocols on top of TCP/IP
+[11:21:02] *** Quits: rakshith_ (~hehaichi@117.202.66.206) (Quit: Leaving)
+[11:21:02] <vinayb> we'll talk more about this in later sessions :)
