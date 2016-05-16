@@ -209,3 +209,4 @@
 [10:42:44] <vinayb> now, let's bring it all together
 [10:43:04] <vinayb> today we talked about Distribution, functional concepts, concurrency, parallelism
 [10:43:19] <vinayb> Erlang is a beautiful language which has NATIVE support for all of that!
+[10:44:38] <vinayb> in C, where you have line by line execution, Erlang has direct support for multiple threads (Erlang calls them "processes") which send messages to each other!
