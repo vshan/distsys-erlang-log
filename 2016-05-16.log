@@ -262,3 +262,4 @@
 [11:01:02] <vinayb> Yes, but keep in mind that processors are idle too.. so in pure parallelism.. they'd just sit there wasting time like we do in lectures. Instead, by using multiplexing, when a processor is idle, we can put the other process on it!
 [11:01:09] <vinayb> exactly rakshith_ !
 [11:01:56] <salman_> okay
+[11:02:23] <vinayb> so now would you guys say C is enough?
