@@ -184,3 +184,5 @@
 [10:34:04] <vinayb> now, if you only have one processor, processor has to run one part for some time, then shift to another for some time.. and so on.. to give the APPEARENCE of them running at the same time
 [10:34:31] <vinayb> if you had two processors, then no need of appearence! both parts can actually run on each processor!
 [10:34:31] *** Joins: akshayrevankar (~akshayrev@117.215.134.228)
+[10:35:11] <vinayb> running one part for some time, then other, then other for some time.. on a single processor is called MULTIPLEXING
+[10:35:21] <vinayb> this is concurrency!
