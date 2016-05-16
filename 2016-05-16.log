@@ -274,3 +274,5 @@
 [11:04:56] <vinayb> Yes, it is better because, if we needed 50 million processors for handle 50 million message: first of all no money. second, lots of idle time being wasted. so mix is better :)
 [11:05:23] <vinayb> It's a fine balance between speed, cost and efficiency!
 [11:05:53] <aditya_a_> ok!
+[11:06:17] *** Quits: m_gautham (75ca2125@gateway/web/freenode/ip.117.202.33.37) (Quit: Page closed)
+[11:06:37] <vinayb> You guys can now try installing Erlang on Windows, or Linux if you have that.. you can ask me questions if you encounter any problems. 
