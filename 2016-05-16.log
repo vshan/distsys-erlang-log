@@ -224,3 +224,4 @@
 [10:48:58] <vinayb> because they don't have any side effects, you can a huge number of concurrent parts running, because they won't mess with each other!
 [10:49:04] <vinayb> *have a 
 [10:49:33] <vinayb> And with pure functions.. concurrency.. you can distribute them easily!
+[10:50:12] <vinayb> You'll have Reliability, Accessibility, Availability, regardless of 50 users or 50 million users!
