@@ -161,3 +161,6 @@
 [10:25:31] <vinayb> so what Functional Programming also allows you tu use impure functions
 [10:25:40] <vinayb> *to
 [10:25:45] <vinayb> *there's no what
+[10:26:02] <vinayb> *so functional programming also allows you to use impure functions
+[10:26:13] <vinayb> But, importantly, it SEPERATES them
+[10:26:24] <vinayb> you KNOW which are pure and which aren't
