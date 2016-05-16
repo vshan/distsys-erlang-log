@@ -157,3 +157,4 @@
 [10:24:16] <salman_> Okay.
 [10:24:18] <vinayb> like print_todays_date()
 [10:24:27] <vinayb> it will print something different every new day
+[10:25:07] <vinayb> and any program without IO is kinda useless :)
