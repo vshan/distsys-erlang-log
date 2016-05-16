@@ -250,3 +250,4 @@
 [10:56:23] <salman_> How do you differentiate where you use concurrency and where you use parallel?
 [10:56:33] <vinayb> when you know the underlying hardware
 [10:56:37] <rakshith_> You mean there are really 50 million processors out there?
+[10:57:33] <vinayb> No, in practice, it's a mix of parallelism and concurrency.. WhatsApp has about 100 XEON servers, which each have about 4 cores.. 16 processors each.. :)
