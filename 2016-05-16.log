@@ -146,3 +146,4 @@
 [10:19:57] <vinayb> if however
 [10:20:23] <vinayb> both f and g are impure: then you have to worry about external conditions in both f AND g! so any small crash can crash the other
 [10:20:33] <vinayb> this is how pure functions are so important
+[10:20:57] <vinayb> Functional programming is all about writing these pure functions, and composing them together :)
