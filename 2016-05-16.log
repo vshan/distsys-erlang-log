@@ -285,3 +285,4 @@
 [11:09:44] <salman_> Could you explain xmpp
 [11:09:53] <salman_> I understood tcp/ip
 [11:10:18] <salman_> And the stark difference between the two?
+[11:12:19] <vinayb> TCP/IP is a network protocol for communication in the Internet. XMPP is a chat protocol. You need to know the layered protocol model to appreciate the differences between the two, and XMPP is usually a layer on top of TCP/IP
