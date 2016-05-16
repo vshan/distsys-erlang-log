@@ -164,3 +164,4 @@
 [10:26:02] <vinayb> *so functional programming also allows you to use impure functions
 [10:26:13] <vinayb> But, importantly, it SEPERATES them
 [10:26:24] <vinayb> you KNOW which are pure and which aren't
+[10:27:10] <vinayb> this might seem totally unrelated to DS, but we'll see soon how they are related
