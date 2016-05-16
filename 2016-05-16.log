@@ -172,3 +172,4 @@
 [10:30:02] <salman_> No
 [10:30:11] <vinayb> Alright, put simply, concurrency means running somethings at the same time
 [10:30:38] <vinayb> In programs that you all are used to, program is run line by line
+[10:30:56] <vinayb> that's called sequential program flow
