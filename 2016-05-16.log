@@ -170,3 +170,5 @@
 [10:28:55] <rakshith_> like parallel programming?
 [10:29:46] <vinayb> Parallel and Concurreny are very related, but there's a slight difference ;)
 [10:30:02] <salman_> No
+[10:30:11] <vinayb> Alright, put simply, concurrency means running somethings at the same time
+[10:30:38] <vinayb> In programs that you all are used to, program is run line by line
