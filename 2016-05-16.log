@@ -235,3 +235,4 @@
 [10:52:53] <vinayb> 11 engineers for a service that has 1 BILLION messages every day!
 [10:52:56] *** Quits: Pratyushgr (40e9adbd@gateway/web/freenode/ip.64.233.173.189) (Ping timeout: 250 seconds)
 [10:53:03] <akshayrevankar> i am asking questions here which target to vinay but are meant for others to search upon also
+[10:53:55] <vinayb> So you can visualize WhatsApp's each "connection" between person A to person B as an Erlang process!
