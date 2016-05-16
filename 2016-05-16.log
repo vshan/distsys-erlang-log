@@ -294,3 +294,5 @@
 [11:16:10] <rakshith_> transport layer in ip suite / network layer in osi model
 [11:17:12] *** Quits: botbot2 (dfe4bef0@gateway/web/freenode/ip.223.228.190.240) (Ping timeout: 250 seconds)
 [11:17:40] <salman_> OKay what about XMPP
+[11:17:44] *** Quits: akshayrevankar (~akshayrev@117.215.134.228) (Quit: Leaving)
+[11:17:55] <vinayb> TCP Transport layer, IP network layer, XMPP application layer
