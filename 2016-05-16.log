@@ -272,3 +272,4 @@
 [11:04:00] <aditya_a_> So is this mix of concurrency and parallelism better than pure parallelism?
 [11:04:03] <vinayb> you can ask me questions
 [11:04:56] <vinayb> Yes, it is better because, if we needed 50 million processors for handle 50 million message: first of all no money. second, lots of idle time being wasted. so mix is better :)
+[11:05:23] <vinayb> It's a fine balance between speed, cost and efficiency!
