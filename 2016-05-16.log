@@ -153,3 +153,6 @@
 [10:22:55] <rakshith_> i guess not
 [10:23:09] <salman_> Pure?
 [10:23:26] <salman_> Because once given a value they can't be changed
+[10:24:04] <vinayb> IO is impure
+[10:24:16] <salman_> Okay.
+[10:24:18] <vinayb> like print_todays_date()
