@@ -49,3 +49,78 @@
 [09:42:22] <salman_> Yes I'll call him
 [09:42:24] <vinayb> Hello guys! Nice to meet you all
 [09:43:00] <vinayb> Alright, so the topic of this channel as well as this Summer Project is: "Distributed Systems Programming with Erlang"
+[09:44:01] <salman_> Pratyush is out he'll join us in some time.
+[09:44:38] <vinayb> Today, the agenda is to explain these four related, and important concepts: Functional Concepts, Distributed systems, Concurrency, Parallelism
+[09:44:53] <vinayb> and answer the question "Why Erlang?"
+[09:45:01] <vinayb> "Why should I learn a new programming language?"
+[09:45:40] <vinayb> Also, after we're done today, I'll send you links to download and setup Erlang. I'll be available on this channel if you run into problems.
+[09:45:59] *** Joins: Pratyushgr (40e9ad94@gateway/web/freenode/ip.64.233.173.148)
+[09:46:06] <vinayb> Does anyone have an idea about Distrbuted Systems here?
+[09:46:23] <Pratyushgr> No. Not me
+[09:46:33] <salman_> Yeah sort of
+[09:46:48] <salman_> Is it the way Google's Search Algorithm runs
+[09:46:55] <salman_> ?
+[09:47:21] <rakshith_> not exactly..
+[09:47:41] <vinayb> Right. That comes into the bigger picture of "Distributed Algorithms" but the idea is sorta same
+[09:47:59] <vinayb> Okay, so all of you know C
+[09:48:20] <vinayb> Now you might be wondering, I know C, I can solve problems with C, why should i bother with anything else
+[09:48:57] <vinayb> Let's see some problems that come up with that approach
+[09:48:59] *** Joins: rakshith (~hehaichi@117.202.66.206)
+[09:49:19] <vinayb> say you have one big C program for some work
+[09:49:57] <vinayb> Now, say it becomes very popular (assume it's hosted on the web), and some 50 million users want to use it
+[09:50:36] <vinayb> Since so many people start using it, somethings become problematic
+[09:50:54] <vinayb> Accessibility: 50 millionth person has to wait for all others to finish!
+[09:50:58] *** Quits: Pratyushgr (40e9ad94@gateway/web/freenode/ip.64.233.173.148) (Ping timeout: 250 seconds)
+[09:51:33] <vinayb> Reliability: 50 million people want to use it simultaneously, the immense load breaks the program, and it crashes!
+[09:52:08] <vinayb> Availability: Since it crashed, now no one can use it
+[09:52:46] <vinayb> Now, let's define Distributed Systems, and see how they deal with this pain points
+[09:53:30] <vinayb> Distributed Systems, put simply, are individual programs, all coordinating with each other by passing messages
+[09:54:01] <vinayb> Distributed Systems might be implemented as lots of tiny programs communicating with each other, but the outside impression if of "JUST ONE PROGRAM"
+[09:54:25] <vinayb> for example: everybody knows google.com, but google is implemented across lots and lots of servers
+[09:54:41] <vinayb> but you think of "google search" as one big entity
+[09:55:06] <vinayb> so that's the notion of distribution: dividing, communicating, yet giving the appearence of one big system
+[09:55:32] <vinayb> so those systems are "Distributed Systems": a collection of independent computers that appears to its users as a single coherent system
+[09:55:41] <vinayb> any doubts as of now?
+[09:55:47] <vilas_m> No
+[09:55:50] <salman_> Umm yeah
+[09:55:58] <rakshith_> no
+[09:56:03] <aditya_a> no
+[09:56:03] <salman_> Can u tell why  a program crashes?
+[09:56:15] <salman_> As in its independent code on each computer
+[09:56:21] <salman_> Why will it crash?
+[09:57:26] <vinayb> Our assumption is that it is running only on one computer. So if 50 million people try accessing it, now imagine 50 million * X MB of data needs to given, the CPU needs to process them.. it overwhelms the computer and it crashes
+[09:58:02] <vinayb> and by XMB of data, I mean physical RAM: which is only few gigabytes
+[09:58:16] <salman_> Oh okay
+[09:58:21] <vinayb> Distribution helps PREVENT this
+[09:58:22] <salman_> Please continue
+[09:58:36] <salman_> How?
+[09:58:49] <vinayb> Let's see that. So the pain points:
+[09:59:19] <vinayb> Accessibility: By having 100s of instances of a program, you make it more accessable to users.
+[09:59:30] <vinayb> which is obvious
+[09:59:49] <vinayb> Reliability: If one fails, there's still lots other instances
+[10:00:21] <vinayb> Availability: Say one component failed. Yet there are lots others which will ensure users can use the program
+[10:01:48] <vinayb> Now, let's talk a bit about Functional concepts. We'll see how it all relates to Distributed systems, and Concurrency, Parallelism
+[10:02:15] <vinayb> In a Functional programming language such as Erlang, there's no notion of mutable data
+[10:02:27] <vinayb> by mutable, i mean data that can be changed
+[10:06:14] <salman_> ok
+[10:06:16] *** Parts: aditya_a (75c04f5b@gateway/web/freenode/ip.117.192.79.91) ()
+[10:06:43] *** Joins: aditya_a_ (75c04f5b@gateway/web/freenode/ip.117.192.79.91)
+[10:06:54] <vinayb> so yes, Erlang has no variables!
+[10:09:46] *** Joins: m__gautham (75ca2125@gateway/web/freenode/ip.117.202.33.37)
+[10:09:54] *** Joins: botbot2 (dfe4bef0@gateway/web/freenode/ip.223.228.190.240)
+[10:10:25] <vinayb> hey guys sorry, had a technical glitch
+[10:10:39] *** Quits: m__gautham (75ca2125@gateway/web/freenode/ip.117.202.33.37) (Client Quit)
+[10:11:15] <vinayb> alright, so as i said: there's notion of variables in erlang
+[10:11:20] *** Quits: botBot_ (736337c3@gateway/web/freenode/ip.115.99.55.195) (Ping timeout: 250 seconds)
+[10:11:32] <vinayb> This property is called "Referential Transparency"
+[10:11:52] <vinayb> a function f(x) which returns the same value for some x, is referentially transparent!
+[10:11:55] <vinayb> eg:
+[10:12:05] <vinayb> f(x) = x + 5 is referentially transparent
+[10:12:13] <vinayb> however, todays_date() is not
+[10:12:18] <vinayb> as it changes every day
+[10:12:22] <vinayb> any doubts?
+[10:12:32] <salman_> no
+[10:12:40] <vilas_m> no
+[10:12:45] <m_gautham> no
+[10:12:59] <rakshith_> no
+[10:13:03] <aditya_a_> no
