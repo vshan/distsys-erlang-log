@@ -208,3 +208,4 @@
 [10:42:28] <vinayb> And it has real life importance too in the sense that you HAVE hardware support (multiple processors, in phones as well as computers), etc, so it is very important to know concurrent programming
 [10:42:44] <vinayb> now, let's bring it all together
 [10:43:04] <vinayb> today we talked about Distribution, functional concepts, concurrency, parallelism
+[10:43:19] <vinayb> Erlang is a beautiful language which has NATIVE support for all of that!
