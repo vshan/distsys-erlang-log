@@ -257,3 +257,4 @@
 [10:59:41] <vinayb> point being that with Erlang you can handle so many connections with only that much hardware@
 [10:59:44] <vinayb> *!
 [10:59:50] <salman_> So shouldn't multiplexing make it slower?
+[11:00:11] <salman_> Instead of pure parallelism
