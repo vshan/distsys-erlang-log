@@ -223,3 +223,4 @@
 [10:48:24] <akshayrevankar> yep
 [10:48:58] <vinayb> because they don't have any side effects, you can a huge number of concurrent parts running, because they won't mess with each other!
 [10:49:04] <vinayb> *have a 
+[10:49:33] <vinayb> And with pure functions.. concurrency.. you can distribute them easily!
