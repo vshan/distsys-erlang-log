@@ -231,3 +231,7 @@
 [10:51:55] <vinayb> But Erlang can be implemented for both
 [10:52:06] <akshayrevankar> ok..
 [10:52:08] <vinayb> So, WhatsApp's backend is written in Erlang
+[10:52:40] <vinayb> and only 11 engineers manage that codebase!
+[10:52:53] <vinayb> 11 engineers for a service that has 1 BILLION messages every day!
+[10:52:56] *** Quits: Pratyushgr (40e9adbd@gateway/web/freenode/ip.64.233.173.189) (Ping timeout: 250 seconds)
+[10:53:03] <akshayrevankar> i am asking questions here which target to vinay but are meant for others to search upon also
