@@ -246,3 +246,7 @@
 [10:55:50] <rakshith_> lol
 [10:55:54] <salman_> Or is it parallel?
 [10:56:15] <vinayb> It is parallel because of hardware support
+[10:56:18] <vinayb> it's a fine line
+[10:56:23] <salman_> How do you differentiate where you use concurrency and where you use parallel?
+[10:56:33] <vinayb> when you know the underlying hardware
+[10:56:37] <rakshith_> You mean there are really 50 million processors out there?
