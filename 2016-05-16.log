@@ -227,3 +227,5 @@
 [10:50:12] <vinayb> You'll have Reliability, Accessibility, Availability, regardless of 50 users or 50 million users!
 [10:51:02] <akshayrevankar> we have seen mostly erlang as most said in their IEEE response, that it is used for Whatsapp.. Has erlang been implemented for tcp/ip or is it just being used for xmpp ?
 [10:51:28] <vinayb> So this is why we are learning Distributed Systems with Erlang: it has native, and powerful support for concurrency and is a functional language
+[10:51:43] <vinayb> They don't know TCP/IP or XMPP
+[10:51:55] <vinayb> But Erlang can be implemented for both
