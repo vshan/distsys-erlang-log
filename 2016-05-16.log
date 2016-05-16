@@ -205,3 +205,5 @@
 [10:40:45] <rakshith_> to be able to do multiple tasks at the same time?
 [10:40:57] <salman_> Basically the code gets execcuted fasteer
 [10:41:02] <vinayb> Exactly!
+[10:42:28] <vinayb> And it has real life importance too in the sense that you HAVE hardware support (multiple processors, in phones as well as computers), etc, so it is very important to know concurrent programming
+[10:42:44] <vinayb> now, let's bring it all together
