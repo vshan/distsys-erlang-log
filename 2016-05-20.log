@@ -375,3 +375,4 @@
 [10:52:10] <vinayb> [2 | [1 | []]].
 [10:52:28] <vinayb> [3 | [2 | [1 | [] ] ] ].
 [10:52:47] <vinayb> just see how it gets done right to left
+[10:53:22] <vinayb> [1 | [] ]. returns [1]
