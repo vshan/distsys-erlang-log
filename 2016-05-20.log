@@ -278,3 +278,5 @@
 [10:29:43] <vinayb> Much, much more advanced than python. We'll learn more about pattern matching in the coming sessions :)
 [10:29:55] <gautham_> ok
 [10:29:57] <vinayb> Point = {4, 5}.
+[10:30:03] <vinayb> {X, _} = Point.
+[10:30:19] <vinayb> you can use the variable '_' when you want to ignore some values
