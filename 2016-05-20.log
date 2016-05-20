@@ -22,3 +22,5 @@
 [08:27:43] <vinayb> and you can get the logs from the link on the topic :)
 [08:29:01] <pratyushgr> yeah.
 [08:29:11] <pratyushgr> Thankx
+[08:31:39] <salman_> I had a doubt in installing Erlang on Linux
+[08:32:03] <salman_> All I did was sudo apt-get install erlang
