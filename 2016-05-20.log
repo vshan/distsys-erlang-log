@@ -325,3 +325,8 @@
 [10:40:18] <vinayb> Simple enough, right?
 [10:40:24] <adarsh_honawad> yeah
 [10:40:25] <vinayb> [97, 98, 99].
+[10:40:31] <vinayb> type that
+[10:40:31] <vinayb> what is evaluated?
+[10:40:50] <aditya> "abc"
+[10:40:52] <rakshith_> abc
+[10:40:57] <rakshith_> "abc"*
