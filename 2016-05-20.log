@@ -194,3 +194,6 @@
 [10:09:50] <vinayb> 5 =:= 5.0.
 [10:09:52] <vinayb> 5 == 5.0.
 [10:09:57] <vinayb> what's the difference?
+[10:10:17] <aditya> false,true
+[10:10:36] <salman_shah> The data types matter ?
+[10:10:42] <salman_shah> int and float
