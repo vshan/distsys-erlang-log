@@ -124,3 +124,4 @@
 [09:54:37] <vinayb> what's the output for the last one?
 [09:55:13] <rakshith> exception error
 [09:55:15] <aditya> exception error: no match of right hand side value 3
+[09:55:45] <vinayb> yep, it's an error, because variables are immutable in Erlang
