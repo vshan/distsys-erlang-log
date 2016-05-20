@@ -233,3 +233,7 @@
 [10:17:40] <salman_shah> refure?
 [10:17:47] <vinayb> While Erlang doesn't let you ADD anything with everything, it will let you COMPARE them
 [10:17:53] <vinayb> *refuse
+[10:19:15] <salman_shah> OKay one doubt!
+[10:19:19] <vinayb> go ahead
+[10:19:27] <salman_shah> I didn't get why 5=:= true
+[10:19:33] <salman_shah> Turns out to be false
