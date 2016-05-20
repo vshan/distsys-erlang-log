@@ -181,3 +181,6 @@
 [10:07:54] <vinayb> correct, similarly you can have
 [10:07:58] <vinayb> not false.
 [10:08:01] <vinayb> not (true and true).
+[10:08:15] <vinayb> testing for equality is also simple:
+[10:08:20] <vinayb> 5 =:= 5.
+[10:08:26] <vinayb> 1 =:= 0.
