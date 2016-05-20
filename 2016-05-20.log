@@ -1,0 +1,14 @@
+[07:55:40] *** Joins: salman_ (b63a6584@gateway/web/freenode/ip.182.58.101.132)
+[08:08:33] *** Joins: pratyushgr (7aa2348f@gateway/web/freenode/ip.122.162.52.143)
+[08:08:50] <pratyushgr> hello
+[08:12:38] <vinayb> hey pratyushgr 
+[08:13:45] <pratyushgr> actually i am not clear about "what is functional concepts"
+[08:14:16] <pratyushgr> the other day i got disconnected while it was being discussed
+[08:16:02] <vinayb> sorry, had a technical glitch. what doubt do you have?
+[08:16:22] <salman_> functional concepts
+[08:16:36] <vinayb> ya what in that?
+[08:16:48] <salman_> definition
+[08:16:56] <salman_> what it is..
+[08:17:25] <pratyushgr> yaa..what it is..
+[08:19:12] <vinayb> functional concepts relate to pure functions, which don't have any side effects, now side effects can mean touching on something other than the function. pure function returns always the same value for a given parameter. however you can't make a useful program using only pure functions. You need IO. So functional languages allow you to explicitly seperate the pure functions from the impure, and functio
+[08:19:18] <vinayb> nal programming is all about composing these functions together, like f o g, g o f etc/
