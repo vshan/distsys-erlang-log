@@ -249,3 +249,8 @@
 [10:21:54] <vinayb> Point = {4, 5}.
 [10:22:03] <vinayb> {4, 5} is a tuple
 [10:22:14] <vinayb> which gets bound to the variable Point
+[10:22:48] <vinayb> Similarly you can have
+[10:22:58] <vinayb> threeDPoint = {4, 5, 6}
+[10:22:59] <vinayb> .
+[10:23:04] <vinayb> don't forget the fullstop!
+[10:23:15] <vinayb> you get the idea
