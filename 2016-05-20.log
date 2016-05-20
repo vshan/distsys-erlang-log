@@ -105,3 +105,7 @@
 [09:50:00] <rakshith> 101 is 5 in binary?
 [09:50:14] <rakshith> I mean 5 is 101
 [09:50:15] <rakshith> :P
+[09:50:59] <vinayb> yep! so if you want to express integers in other bases than 10, just enter the number as `Base#Value`
+[09:51:10] <vinayb> you can try out 16#AE.
+[09:51:15] <vinayb> 8#0677.
+[09:51:17] <vinayb> etc
