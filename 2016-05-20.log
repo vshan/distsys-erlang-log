@@ -137,3 +137,4 @@
 [09:58:11] <aditya> variable 'Variable' is unbound
 [09:58:12] <rakshith> d
 [09:59:02] <vinayb> correct. So when the '=' operator is used on an unbound variable, it evaluates the RHS, and then BINDS the variable to it, forever!
+[09:59:38] <vinayb> except until you close the shell, of course
