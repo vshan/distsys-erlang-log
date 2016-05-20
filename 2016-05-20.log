@@ -379,3 +379,5 @@
 [10:54:05] <vinayb> then [2 | [1 | [] ]] becomes [2 | [1]] which becomes [2, 1]
 [10:54:16] <vinayb> doubts?
 [10:54:20] <rakshith_> nope
+[10:55:43] <adarsh_honawad> nope..
+[10:55:43] <vinayb> This is a little hint of how important recursion is to functional programming: Lists are defined a head preceding a tail, which, you guessed it, is itself a head followed by more heads
