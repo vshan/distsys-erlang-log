@@ -199,3 +199,6 @@
 [10:10:42] <salman_shah> int and float
 [10:11:13] <vinayb> yep! =:= checks for strict inequality, but since erlang doesn't care really if you want to use float or int, you can use == operator too
 [10:11:34] <salman_shah> okay.
+[10:11:49] <vinayb> similarly, there is /= also
+[10:12:01] <vinayb> which is
+[10:12:09] <vinayb> opposite of ==
