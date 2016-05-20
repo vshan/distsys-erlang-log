@@ -98,3 +98,5 @@
 [09:47:13] <adarsh_honawad> 2
 [09:47:50] <vinayb> Correct! so UNLIKE C, Erlang doesn't care if you enter floating point numbers or integers: both types are supported when dealing with arithmetic
 [09:48:26] <vinayb> However, if you want to have integer-to-integer division, you can use `div`, and for module operator, use `rem`
+[09:49:06] <vinayb> ok so what is returned when you type in 2#101.
+[09:49:06] <vinayb> ?
