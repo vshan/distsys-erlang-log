@@ -187,3 +187,6 @@
 [10:08:40] <vinayb> note: the operator is =:= and not == 
 [10:08:57] <vinayb> inequality:
 [10:09:01] <vinayb> 1 =/= 0.
+[10:09:28] <aditya> but even == works!
+[10:09:35] <vinayb> so instead of == and != in C, it is =:= and =/= in Erlang
+[10:09:38] <vinayb> yes it does!
