@@ -174,3 +174,10 @@
 [10:07:03] <vinayb> type all of those above ^
 [10:07:12] <vinayb> what are the returned value?
 [10:07:15] <vinayb> *values
+[10:07:37] <salman_shah> 1. false
+[10:07:41] <salman_shah> 2.true
+[10:07:47] <adarsh_honawad> 3.true
+[10:07:48] <aditya> false,true,true
+[10:07:54] <vinayb> correct, similarly you can have
+[10:07:58] <vinayb> not false.
+[10:08:01] <vinayb> not (true and true).
