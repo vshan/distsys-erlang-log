@@ -116,3 +116,8 @@
 [09:53:42] <vinayb> variables begin with an uppercase letter in erlang
 [09:53:52] *** Quits: gautham_ (75ca21f6@gateway/web/freenode/ip.117.202.33.246) (Ping timeout: 250 seconds)
 [09:53:54] <vinayb> try typing out these examples:
+[09:53:56] <vinayb> One.
+[09:53:59] <vinayb> One = 1.
+[09:54:10] <vinayb> Two = One + One.
+[09:54:20] <vinayb> Two = Two + 1.
+[09:54:23] *** Joins: gautham_ (75dd25de@gateway/web/freenode/ip.117.221.37.222)
