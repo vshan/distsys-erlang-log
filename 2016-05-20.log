@@ -190,3 +190,7 @@
 [10:09:28] <aditya> but even == works!
 [10:09:35] <vinayb> so instead of == and != in C, it is =:= and =/= in Erlang
 [10:09:38] <vinayb> yes it does!
+[10:09:44] <vinayb> try to evaluate these:
+[10:09:50] <vinayb> 5 =:= 5.0.
+[10:09:52] <vinayb> 5 == 5.0.
+[10:09:57] <vinayb> what's the difference?
