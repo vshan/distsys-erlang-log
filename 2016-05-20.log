@@ -78,3 +78,5 @@
 [09:42:34] <vinayb> we'll start off with them
 [09:42:35] *** Joins: gautham_ (75ca21f6@gateway/web/freenode/ip.117.202.33.246)
 [09:43:16] <vinayb> In the Erlang shell, expressions have to be terminated with a period followed by whitespace (line break, a space etc.)
+[09:43:28] *** Quits: sshah (b63a6584@gateway/web/freenode/ip.182.58.101.132) (Ping timeout: 250 seconds)
+[09:43:40] <vinayb> a little unusual syntax, but you'll get used to it
