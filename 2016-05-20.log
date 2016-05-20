@@ -202,3 +202,9 @@
 [10:11:49] <vinayb> similarly, there is /= also
 [10:12:01] <vinayb> which is
 [10:12:09] <vinayb> opposite of ==
+[10:12:32] <vinayb> let's come to comparison operators!
+[10:12:35] <vinayb> you have the usual:
+[10:12:37] <vinayb> 1 < 2.
+[10:12:40] <vinayb> 1 < 1.
+[10:12:42] <vinayb> 1 >= 1.
+[10:12:49] <vinayb> 1 =< 1.
