@@ -223,3 +223,5 @@
 [10:15:14] <vinayb> 5 + hey.
 [10:15:15] <Pratyushgr> oh.
 [10:15:21] <vinayb> what is returned?
+[10:15:32] <salman_shah> Not valid
+[10:15:41] <salman_shah> ** exception error: an error occurred when evaluating an arithmetic expression      in operator  +/2         called as 5 + hey
