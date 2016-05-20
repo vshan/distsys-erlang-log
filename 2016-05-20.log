@@ -282,3 +282,5 @@
 [10:30:19] <vinayb> you can use the variable '_' when you want to ignore some values
 [10:30:41] <vinayb> it is a special variable which is always UNBOUND and can never be binded to anything
 [10:31:13] <salman_shah> Btw it works for different data types as well ..... My tuple was Point2 = {4,5,hey}.
+[10:31:49] <vinayb> yeah, tuples can hold any data type!
+[10:32:02] <vinayb> atoms, integers, floats, anything
