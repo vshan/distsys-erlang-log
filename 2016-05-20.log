@@ -151,3 +151,5 @@
 [10:02:40] <vinayb> atoms_rule.
 [10:02:47] <vinayb> atoms_rule@erlang.
 [10:03:01] <vinayb> 'Atoms can be cheated!'.
+[10:03:32] <vinayb> if you don't want to start an atom with a small letter, if should be enclosed in single quotes
+[10:03:51] <vinayb> REMEMBER: Atoms aren't strings. Atoms are just atoms!
