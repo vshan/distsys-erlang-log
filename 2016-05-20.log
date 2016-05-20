@@ -345,3 +345,6 @@
 [10:44:18] <vinayb> hd([1,2,3,4,5]).
 [10:44:26] <vinayb> tl([1,2,3,4,5]).
 [10:44:29] <vinayb> what is returned?
+[10:45:13] <rakshith_> 1
+[10:45:19] <salman_shah> 5
+[10:45:20] <rakshith_> and [2,3,4,5]
