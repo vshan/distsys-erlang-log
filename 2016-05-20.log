@@ -160,3 +160,4 @@
 [10:04:57] <vinayb> const int RED = 2;
 [10:04:58] <vinayb> etc
 [10:05:23] <vinayb> Atoms let you just have those constants, you don't have to associate them with anything
+[10:05:57] <vinayb> any doubts?
