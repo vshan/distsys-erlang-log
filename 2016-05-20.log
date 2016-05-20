@@ -293,3 +293,5 @@
 [10:33:17] <Pratyushgr> now using X for Point
 [10:33:34] <vinayb> Pratyushgr, yes you are right! just assume i am having a new shell session everytime i give an example :)
 [10:33:41] <Pratyushgr> thus it over write
+[10:33:59] <vinayb> nope! X once bound can not be over written
+[10:34:06] <vinayb> Just think that i closed the shell and reopened it ;)
