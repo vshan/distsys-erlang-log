@@ -262,3 +262,5 @@
 [10:24:25] <vinayb> i'll pretend and say that was intentional of me :P
 [10:24:56] <salman_shah> I know :D
 [10:25:16] <vinayb> now let's come to one of the most powerful concepts in Erlang, and funtional languages, pattern matching!
+[10:25:42] <vinayb> evaluate this:
+[10:25:51] <vinayb> ThreeDPoint = {4, 5, 6}.
