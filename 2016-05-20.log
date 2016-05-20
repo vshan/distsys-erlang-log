@@ -157,3 +157,6 @@
 [10:04:40] <vinayb> In C, if you want to define some constants, you have to do
 [10:04:45] <vinayb> #define BLUE 1
 [10:04:50] <vinayb> or const int BLUE = 1;
+[10:04:57] <vinayb> const int RED = 2;
+[10:04:58] <vinayb> etc
+[10:05:23] <vinayb> Atoms let you just have those constants, you don't have to associate them with anything
