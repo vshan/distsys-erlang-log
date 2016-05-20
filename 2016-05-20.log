@@ -228,3 +228,5 @@
 [10:16:06] <Pratyushgr> error
 [10:16:09] <vinayb> yep! Erlang doesn't really like you misusing some of its fundamental types! The emulator returns a nice error message here. It tells us it doesn't like one of the two arguments used around the + operator!
 [10:17:00] <vinayb> however this is fine:
+[10:17:05] <vinayb> 5 =:= true.
+[10:17:21] <vinayb> why does it refure different types in some operations but not others?
