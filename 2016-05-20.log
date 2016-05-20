@@ -184,3 +184,6 @@
 [10:08:15] <vinayb> testing for equality is also simple:
 [10:08:20] <vinayb> 5 =:= 5.
 [10:08:26] <vinayb> 1 =:= 0.
+[10:08:40] <vinayb> note: the operator is =:= and not == 
+[10:08:57] <vinayb> inequality:
+[10:09:01] <vinayb> 1 =/= 0.
