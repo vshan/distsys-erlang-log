@@ -393,3 +393,8 @@
 [10:58:20] *** Joins: aditya_a (75d8eb3d@gateway/web/freenode/ip.117.216.235.61)
 [10:58:24] <vinayb> List Comprehensions in Erlang are about building sets from other sets
 [10:58:38] <vinayb> you guys remember your maths? ;)
+[10:58:48] <vinayb> set notation
+[10:58:53] <vinayb> it is similar to that!
+[10:58:56] <vinayb> so let's dive in
+[10:59:09] <vinayb> [2*N || N <- [1,2,3,4]].
+[10:59:14] <vinayb> what's the result?
