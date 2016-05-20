@@ -141,3 +141,6 @@
 [10:00:35] <vinayb> Just for TESTING/DEBUGGING reasons: it is possible to unbound a variable by doing f(Variable) 
 [10:00:40] <vinayb> only in the shell
 [10:01:06] <vinayb> Let's come to a fascinating data type called atoms
+[10:01:18] *** Joins: salman_shah (b63a6584@gateway/web/freenode/ip.182.58.101.132)
+[10:01:27] <vinayb> There is a reason why variable names can't begin with a lowercase character: atoms
+[10:01:40] <vinayb> Atoms are literals, constants with their own name for value
