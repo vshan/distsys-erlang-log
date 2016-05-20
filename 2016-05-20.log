@@ -369,3 +369,5 @@
 [10:50:35] <rakshith_> 2
 [10:50:43] <aditya> 2 and [3,4]
 [10:51:09] <vinayb> correct! so what we did was, we extracted the Tail, THEN got the new head and new tail of the earlier Tail
+[10:51:38] <vinayb> The | we used is named the cons operator (constructor)
+[10:51:53] <vinayb> In fact, any list can be built with only cons and values:
