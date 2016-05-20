@@ -24,3 +24,5 @@
 [08:29:11] <pratyushgr> Thankx
 [08:31:39] <salman_> I had a doubt in installing Erlang on Linux
 [08:32:03] <salman_> All I did was sudo apt-get install erlang
+[08:32:16] <salman_> And then all those folders started downloading
+[08:32:29] <salman_> Was there anything else to do as well?
