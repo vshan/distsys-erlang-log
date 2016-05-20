@@ -13,3 +13,4 @@
 [08:19:12] <vinayb> functional concepts relate to pure functions, which don't have any side effects, now side effects can mean touching on something other than the function. pure function returns always the same value for a given parameter. however you can't make a useful program using only pure functions. You need IO. So functional languages allow you to explicitly seperate the pure functions from the impure, and functio
 [08:19:18] <vinayb> nal programming is all about composing these functions together, like f o g, g o f etc/
 [08:23:19] <vinayb> any doubts?
+[08:23:49] <pratyushgr> yaa got it..
