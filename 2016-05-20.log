@@ -140,3 +140,4 @@
 [09:59:38] <vinayb> except until you close the shell, of course
 [10:00:35] <vinayb> Just for TESTING/DEBUGGING reasons: it is possible to unbound a variable by doing f(Variable) 
 [10:00:40] <vinayb> only in the shell
+[10:01:06] <vinayb> Let's come to a fascinating data type called atoms
