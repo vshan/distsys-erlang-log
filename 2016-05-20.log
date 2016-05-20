@@ -363,3 +363,6 @@
 [10:48:48] <vinayb> Tail.
 [10:49:07] <vinayb> returned values are 1 and [2,3,4]
 [10:49:13] <vinayb> now:
+[10:49:21] <vinayb> [NewHead|NewTail] = Tail.
+[10:49:23] <vinayb> NewHead.
+[10:49:27] <vinayb> What's returned?
