@@ -383,3 +383,9 @@
 [10:55:43] <vinayb> This is a little hint of how important recursion is to functional programming: Lists are defined a head preceding a tail, which, you guessed it, is itself a head followed by more heads
 [10:56:24] <vinayb> Think of it as an earthworm, you can slice it in half, and then you'll have two worms
 [10:57:08] *** Quits: aditya (75d8eb3d@gateway/web/freenode/ip.117.216.235.61) (Ping timeout: 250 seconds)
+[10:57:09] <vinayb> just to familiarize you all, ALL of these are equivalent:
+[10:57:14] <vinayb> [a, b, c, d]
+[10:57:14] <vinayb> [a, b, c, d | []]
+[10:57:14] <vinayb> [a, b | [c, d]]
+[10:57:14] <vinayb> [a, b | [c | [d]]]
+[10:57:14] <vinayb> [a | [b | [c | [d]]]]
