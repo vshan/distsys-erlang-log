@@ -305,3 +305,6 @@
 [10:36:14] *** Joins: rakshith_ (~hehaichi@117.192.110.99)
 [10:36:25] <vinayb> Lists are the bread and butter of functional languages.
 [10:36:43] <vinayb> They're undoubtedly the most used data structure in Erlang
+[10:36:49] <vinayb> however before we start
+[10:36:58] <vinayb> REPEAT with me: Lists are not Arrays!
+[10:37:12] <rakshith_> yeah!
