@@ -368,3 +368,4 @@
 [10:49:27] <vinayb> What's returned?
 [10:50:35] <rakshith_> 2
 [10:50:43] <aditya> 2 and [3,4]
+[10:51:09] <vinayb> correct! so what we did was, we extracted the Tail, THEN got the new head and new tail of the earlier Tail
