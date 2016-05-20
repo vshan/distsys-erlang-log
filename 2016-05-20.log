@@ -351,3 +351,7 @@
 [10:45:47] <vinayb> correct. and remember: 1 is not the same as [1]!
 [10:46:23] <vinayb> hd and tl are some builtin functions in the shell
 [10:46:30] <vinayb> there is length(List) too
+[10:47:15] <vinayb> Whenever you're processing a list, you usually want the head, so there's a nicer way to seperate the head from the tail of a list with the help of pattern matching:
+[10:47:24] <vinayb> [Head|Tail]
+[10:47:29] <vinayb> here's how you use it:
+[10:47:41] <vinayb> List = [2,3,4].
