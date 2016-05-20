@@ -113,3 +113,6 @@
 [09:51:58] <vinayb> does anyone remember what i said about variables in functional languages?
 [09:52:45] <rakshith> they're immutable
 [09:53:17] <vinayb> yep! so once you assign them a value you can't change it
+[09:53:42] <vinayb> variables begin with an uppercase letter in erlang
+[09:53:52] *** Quits: gautham_ (75ca21f6@gateway/web/freenode/ip.117.202.33.246) (Ping timeout: 250 seconds)
+[09:53:54] <vinayb> try typing out these examples:
