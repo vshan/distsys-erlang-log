@@ -138,3 +138,5 @@
 [09:58:12] <rakshith> d
 [09:59:02] <vinayb> correct. So when the '=' operator is used on an unbound variable, it evaluates the RHS, and then BINDS the variable to it, forever!
 [09:59:38] <vinayb> except until you close the shell, of course
+[10:00:35] <vinayb> Just for TESTING/DEBUGGING reasons: it is possible to unbound a variable by doing f(Variable) 
+[10:00:40] <vinayb> only in the shell
