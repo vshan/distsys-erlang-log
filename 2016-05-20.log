@@ -333,3 +333,4 @@
 [10:41:05] <vinayb> Uh oh! This is one of the most disliked things in Erlang: strings! Strings are lists and the notation is absolutely the exact same! Why do people dislike it? Because of this:
 [10:41:22] <vinayb> [97, 98, 99, 4, 5, 6].
 [10:41:25] <vinayb> [233].
+[10:41:34] <vinayb> Erlang will print lists of numbers as numbers only when at least one of them could not also represent a letter! 
