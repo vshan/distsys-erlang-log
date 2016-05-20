@@ -144,3 +144,4 @@
 [10:01:18] *** Joins: salman_shah (b63a6584@gateway/web/freenode/ip.182.58.101.132)
 [10:01:27] <vinayb> There is a reason why variable names can't begin with a lowercase character: atoms
 [10:01:40] <vinayb> Atoms are literals, constants with their own name for value
+[10:02:11] <vinayb> The atom 'cat' means "cat" and that's it. You can't play with it, you can't change it, you can't smash it to pieces, it's 
