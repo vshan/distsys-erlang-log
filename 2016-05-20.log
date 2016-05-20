@@ -17,3 +17,5 @@
 [08:24:21] <pratyushgr> can u give an example of pure function
 [08:25:19] <vinayb> f(x) = x + 5
 [08:25:50] <vinayb> whatever be value of x, for that x it will always give same value
+[08:26:36] <pratyushgr> ohk
+[08:26:44] <vinayb> todays_date() however is a function that always gives different values depending on which day it is
