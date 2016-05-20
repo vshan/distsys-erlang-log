@@ -128,3 +128,5 @@
 [09:56:12] <Pratyushgr> error
 [09:56:22] <vinayb> the '=' operator also checks for equality of both sides!
 [09:56:34] <vinayb> that's why Erlang says RHS not equal to LHS :P
+[09:56:57] <vinayb> you'll get a similar error if you try to do
+[09:57:01] <vinayb> 47 = 45 + 3.
