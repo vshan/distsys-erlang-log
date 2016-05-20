@@ -316,3 +316,6 @@
 [10:38:54] <vinayb> and you can have any type of data:
 [10:39:11] <vinayb> [1, 2, 3, {numbers, [4,5,6]}, 5.34, atom].
 [10:39:19] <vinayb> how many elements does the above list have?
+[10:39:41] <adarsh_honawad> 6
+[10:39:43] <gautham_> 6
+[10:39:43] <aditya> 6
