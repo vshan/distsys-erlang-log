@@ -313,3 +313,6 @@
 [10:38:17] <vinayb> Lists can contain data of any type, and you can append to a list, remove from it, etc
 [10:38:20] *** Quits: rakshith (~hehaichi@117.192.110.99) (Ping timeout: 260 seconds)
 [10:38:43] <vinayb> the basic notation is [Element1, Element2, ... , Elementn]
+[10:38:54] <vinayb> and you can have any type of data:
+[10:39:11] <vinayb> [1, 2, 3, {numbers, [4,5,6]}, 5.34, atom].
+[10:39:19] <vinayb> how many elements does the above list have?
