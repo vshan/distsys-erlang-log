@@ -398,3 +398,4 @@
 [10:58:56] <vinayb> so let's dive in
 [10:59:09] <vinayb> [2*N || N <- [1,2,3,4]].
 [10:59:14] <vinayb> what's the result?
+[10:59:39] <rakshith_> [2,4,8,16]
