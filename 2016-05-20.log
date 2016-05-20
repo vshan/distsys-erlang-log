@@ -349,3 +349,5 @@
 [10:45:19] <salman_shah> 5
 [10:45:20] <rakshith_> and [2,3,4,5]
 [10:45:47] <vinayb> correct. and remember: 1 is not the same as [1]!
+[10:46:23] <vinayb> hd and tl are some builtin functions in the shell
+[10:46:30] <vinayb> there is length(List) too
