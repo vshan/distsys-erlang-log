@@ -273,3 +273,5 @@
 [10:27:35] <Pratyushgr> ywah
 [10:27:54] <Pratyushgr> yeah*
 [10:28:29] <vinayb> So what happens here is, when we set the tuple {X, Y, Z} on the LHS of the '=' operator, the operator compares both values: {X, Y, Z} versus ThreeDPoint which is {4, 5, 6}. Erlang uses pattern matching to unpack the values from the tuple and distribute them to the UNBOUND variables of the LHS
+[10:29:01] <vinayb> you can also do this:
+[10:29:15] <gautham_> is it same way as python??
