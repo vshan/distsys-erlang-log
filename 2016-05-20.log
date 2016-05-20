@@ -355,3 +355,5 @@
 [10:47:24] <vinayb> [Head|Tail]
 [10:47:29] <vinayb> here's how you use it:
 [10:47:41] <vinayb> List = [2,3,4].
+[10:47:47] <vinayb> NewList = [1|List].
+[10:48:00] <vinayb> this is adding a new head to a list
