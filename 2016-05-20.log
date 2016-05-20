@@ -88,3 +88,5 @@
 [09:44:41] <vinayb> don't forget the fullstop!
 [09:45:06] <gautham_>  
 [09:45:37] <vinayb> similarly like C, there is *, +, - operators
+[09:46:29] <vinayb> like C, there are floating point values also:
+[09:46:32] <vinayb> 5 / 2.
