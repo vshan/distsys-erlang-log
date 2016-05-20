@@ -100,3 +100,4 @@
 [09:48:26] <vinayb> However, if you want to have integer-to-integer division, you can use `div`, and for module operator, use `rem`
 [09:49:06] <vinayb> ok so what is returned when you type in 2#101.
 [09:49:06] <vinayb> ?
+[09:49:19] <aditya> 5
