@@ -360,3 +360,6 @@
 [10:48:28] <vinayb> do this:
 [10:48:39] <vinayb> [Head|Tail] = NewList.
 [10:48:46] <vinayb> Head.
+[10:48:48] <vinayb> Tail.
+[10:49:07] <vinayb> returned values are 1 and [2,3,4]
+[10:49:13] <vinayb> now:
