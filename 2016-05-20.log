@@ -445,3 +445,4 @@
 [11:12:00] <vinayb> similar to ASCII values in C
 [11:12:07] <vinayb> but they aren't ASCII values
 [11:12:17] <vinayb> it's specific to Erlang
+[11:12:27] <vinayb> don't worry about it, we'll look more into Strings soon!
