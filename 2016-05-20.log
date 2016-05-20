@@ -246,3 +246,6 @@
 [10:21:02] <vinayb> so everything except false is true!
 [10:21:13] <vinayb> Let's move on to Tuples
 [10:21:37] <vinayb> A tuple is a way to organize data, it's a way to group together many terms when you know how many are there
+[10:21:54] <vinayb> Point = {4, 5}.
+[10:22:03] <vinayb> {4, 5} is a tuple
+[10:22:14] <vinayb> which gets bound to the variable Point
