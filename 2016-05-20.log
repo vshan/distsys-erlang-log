@@ -389,3 +389,4 @@
 [10:57:14] <vinayb> [a, b | [c, d]]
 [10:57:14] <vinayb> [a, b | [c | [d]]]
 [10:57:14] <vinayb> [a | [b | [c | [d]]]]
+[10:58:05] <vinayb> With this understood, we can come to List Comprehensions
