@@ -423,3 +423,4 @@
 [11:05:47] <vinayb> what's the returned value?
 [11:06:11] <salman_shah> [bombay,allahabad,chennai]
 [11:06:31] <rakshith_> similar to filter in python?
+[11:06:44] <vinayb> correct! so these are the ways you can use List Comprehensions!
