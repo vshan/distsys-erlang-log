@@ -310,3 +310,5 @@
 [10:37:12] <rakshith_> yeah!
 [10:37:38] <vinayb> Lists are NOT contiguously allocated regions of memory
 [10:37:44] <vinayb> which hold data of same type
+[10:38:17] <vinayb> Lists can contain data of any type, and you can append to a list, remove from it, etc
+[10:38:20] *** Quits: rakshith (~hehaichi@117.192.110.99) (Ping timeout: 260 seconds)
