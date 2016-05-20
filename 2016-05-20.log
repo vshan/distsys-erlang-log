@@ -376,3 +376,6 @@
 [10:52:28] <vinayb> [3 | [2 | [1 | [] ] ] ].
 [10:52:47] <vinayb> just see how it gets done right to left
 [10:53:22] <vinayb> [1 | [] ]. returns [1]
+[10:54:05] <vinayb> then [2 | [1 | [] ]] becomes [2 | [1]] which becomes [2, 1]
+[10:54:16] <vinayb> doubts?
+[10:54:20] <rakshith_> nope
