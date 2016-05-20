@@ -154,3 +154,6 @@
 [10:03:32] <vinayb> if you don't want to start an atom with a small letter, if should be enclosed in single quotes
 [10:03:51] <vinayb> REMEMBER: Atoms aren't strings. Atoms are just atoms!
 [10:04:22] <vinayb> so why atoms?
+[10:04:40] <vinayb> In C, if you want to define some constants, you have to do
+[10:04:45] <vinayb> #define BLUE 1
+[10:04:50] <vinayb> or const int BLUE = 1;
