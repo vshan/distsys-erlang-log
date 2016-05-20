@@ -74,3 +74,6 @@
 [09:41:34] <vinayb> yeah, erl is the erlang shell :)
 [09:41:57] <vinayb> okay then! let's start
 [09:42:17] <vinayb> Erlang is a relatively small and simple language (in the way C is simpler than C++)
+[09:42:27] <vinayb> there are a few basic data types
+[09:42:34] <vinayb> we'll start off with them
+[09:42:35] *** Joins: gautham_ (75ca21f6@gateway/web/freenode/ip.117.202.33.246)
