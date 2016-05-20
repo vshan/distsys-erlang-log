@@ -284,3 +284,6 @@
 [10:31:13] <salman_shah> Btw it works for different data types as well ..... My tuple was Point2 = {4,5,hey}.
 [10:31:49] <vinayb> yeah, tuples can hold any data type!
 [10:32:02] <vinayb> atoms, integers, floats, anything
+[10:32:13] <Pratyushgr> one  doubt
+[10:32:18] <vinayb> go ahead
+[10:32:35] <Pratyushgr> we used X in ThreeDPoint
