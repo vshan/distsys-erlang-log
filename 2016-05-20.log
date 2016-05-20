@@ -308,3 +308,5 @@
 [10:36:49] <vinayb> however before we start
 [10:36:58] <vinayb> REPEAT with me: Lists are not Arrays!
 [10:37:12] <rakshith_> yeah!
+[10:37:38] <vinayb> Lists are NOT contiguously allocated regions of memory
+[10:37:44] <vinayb> which hold data of same type
