@@ -72,3 +72,5 @@
 [09:40:43] <vinayb> if your shell hangs, do Ctrl+G and then type h
 [09:40:51] <rakshith> its called erl in my build
 [09:41:34] <vinayb> yeah, erl is the erlang shell :)
+[09:41:57] <vinayb> okay then! let's start
+[09:42:17] <vinayb> Erlang is a relatively small and simple language (in the way C is simpler than C++)
