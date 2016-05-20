@@ -16,3 +16,4 @@
 [08:23:49] <pratyushgr> yaa got it..
 [08:24:21] <pratyushgr> can u give an example of pure function
 [08:25:19] <vinayb> f(x) = x + 5
+[08:25:50] <vinayb> whatever be value of x, for that x it will always give same value
