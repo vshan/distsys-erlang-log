@@ -230,3 +230,6 @@
 [10:17:00] <vinayb> however this is fine:
 [10:17:05] <vinayb> 5 =:= true.
 [10:17:21] <vinayb> why does it refure different types in some operations but not others?
+[10:17:40] <salman_shah> refure?
+[10:17:47] <vinayb> While Erlang doesn't let you ADD anything with everything, it will let you COMPARE them
+[10:17:53] <vinayb> *refuse
