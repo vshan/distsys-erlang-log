@@ -342,3 +342,6 @@
 [10:43:17] <vinayb> [2,4,2] -- [2,4,2].
 [10:43:38] <vinayb> the last one gives us the empty list: []
 [10:44:05] <vinayb> Let's keep going. The first element of a list is named the Head, and the rest of the list is named the Tail.
+[10:44:18] <vinayb> hd([1,2,3,4,5]).
+[10:44:26] <vinayb> tl([1,2,3,4,5]).
+[10:44:29] <vinayb> what is returned?
