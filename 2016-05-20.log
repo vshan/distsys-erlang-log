@@ -297,3 +297,5 @@
 [10:34:06] <vinayb> Just think that i closed the shell and reopened it ;)
 [10:34:18] <Pratyushgr> ohkay!
 [10:34:35] <aditya> but d value of X is same right...4!
+[10:35:23] <vinayb> yeah, in my examples, i think Pratyushgr meant what if I done {X, _} = {100, 101}. or something in the SAME shell session
+[10:35:43] <vinayb> but coincidentally i used the same in each example
