@@ -213,3 +213,7 @@
 [10:13:18] <salman_shah> The order
 [10:13:28] <salman_shah> Its interchanged from the conventional one
 [10:13:39] <vinayb> yes! keep in mind, instead of <= it is =<
+[10:13:59] <vinayb> always leads to lots of syntax errors
+[10:13:59] <rakshith> any reason why its like that?
+[10:14:16] <salman_shah> Order of equality maybe
+[10:14:18] <vinayb> historical reasons, really
