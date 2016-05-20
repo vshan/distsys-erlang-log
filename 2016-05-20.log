@@ -61,3 +61,6 @@
 [09:37:35] <aditya> yes
 [09:37:49] <vinayb> Alright, so Erlang has a shell for interactive programming
 [09:38:05] <vinayb> it's called a REPL
+[09:38:11] <vinayb> A read-eval-print-lop
+[09:38:13] <vinayb> *loop
+[09:38:32] <vinayb> So you type in an expression, it evaluates it, and shows you the result!
