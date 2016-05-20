@@ -427,3 +427,4 @@
 [11:07:24] <vinayb> nope, there is list comprehensions itself in python, but map and filter are some classic functional programming concepts which we'll come to in due time :)
 [11:07:40] <vinayb> but yes, it is similar to filter
 [11:07:58] <vinayb> but list comprehensions in python aren't as powerful :P
+[11:08:15] <rakshith_> debatable :P
