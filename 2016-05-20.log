@@ -303,3 +303,5 @@
 [10:35:59] <aditya> ok!
 [10:36:11] <vinayb> okay let's come to lists!
 [10:36:14] *** Joins: rakshith_ (~hehaichi@117.192.110.99)
+[10:36:25] <vinayb> Lists are the bread and butter of functional languages.
+[10:36:43] <vinayb> They're undoubtedly the most used data structure in Erlang
