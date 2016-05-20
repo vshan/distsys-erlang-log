@@ -446,3 +446,7 @@
 [11:12:07] <vinayb> but they aren't ASCII values
 [11:12:17] <vinayb> it's specific to Erlang
 [11:12:27] <vinayb> don't worry about it, we'll look more into Strings soon!
+[11:12:53] <salman_shah> So 97 has value a, 98 has b .....
+[11:12:56] <salman_shah> And so on.
+[11:13:00] <vinayb> hey chinmay_dd, nice to see you here ;)
+[11:13:04] <vinayb> yep exactly
