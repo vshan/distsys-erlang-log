@@ -112,3 +112,4 @@
 [09:51:44] <vinayb> now, let's come to Variables in Erlang
 [09:51:58] <vinayb> does anyone remember what i said about variables in functional languages?
 [09:52:45] <rakshith> they're immutable
+[09:53:17] <vinayb> yep! so once you assign them a value you can't change it
