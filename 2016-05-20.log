@@ -419,3 +419,5 @@
 [11:04:15] <vinayb> correct!
 [11:04:25] <vinayb> now let's say we have this:
 [11:05:21] <vinayb> Weather = [{bangalore, rain}, {surathkal, storms}, {bombay, fog}, {delhi, sun}, {allahabad, fog}, {chennai, fog}].
+[11:05:41] <vinayb> FoggyPlaces = [X || {X, fog} <- Weather].
+[11:05:47] <vinayb> what's the returned value?
