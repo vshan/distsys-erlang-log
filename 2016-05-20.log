@@ -29,3 +29,5 @@
 [08:33:34] <vinayb> Does the erlang shell open when you type erl on the command line?
 [08:34:04] *** vinayb changes topic to 'Distributed Systems Programming with Erlang | Today's log: https://goo.gl/aRNIyA'
 [08:37:41] <salman_> Oh okay it does
+[08:37:55] <salman_> I'm assuming that's it right?
+[08:38:08] <vinayb> ya then everything is right
