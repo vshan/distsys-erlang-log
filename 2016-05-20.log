@@ -49,3 +49,5 @@
 [09:34:09] <adarsh_honawad> Hi vinay, i am adarsh
 [09:34:09] <vinayb> Alright, so has everyone gotten Erlang set up on their systems?
 [09:34:22] <vinayb> hey adarsh_honawad :)
+[09:34:29] <adarsh_honawad> yep
+[09:34:54] <vinayb> To those of you on Linux, type erl on the command line to open the erlang shell
