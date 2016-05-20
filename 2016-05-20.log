@@ -240,3 +240,6 @@
 [10:19:49] <salman_shah> .*
 [10:19:49] <vinayb> because Erlang isn't C! try running these too:
 [10:19:54] <vinayb> 0 == false.
+[10:20:13] <vinayb> so ONLY false is false and nothing else ;)
+[10:20:21] <Pratyushgr> yaa.!
+[10:20:23] <salman_shah> Oh okay
