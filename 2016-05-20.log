@@ -418,3 +418,4 @@
 [11:04:10] <aditya_a> [{1,1},{1,2},{1,3},{2,1},{2,2},{2,3},{3,1},{3,2},{3,3}]
 [11:04:15] <vinayb> correct!
 [11:04:25] <vinayb> now let's say we have this:
+[11:05:21] <vinayb> Weather = [{bangalore, rain}, {surathkal, storms}, {bombay, fog}, {delhi, sun}, {allahabad, fog}, {chennai, fog}].
