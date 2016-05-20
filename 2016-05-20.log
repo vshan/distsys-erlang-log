@@ -290,3 +290,6 @@
 [10:32:54] <Pratyushgr> and was assigned  value 4
 [10:32:56] <rakshith> are there lists in erlang?
 [10:33:10] <vinayb> we are coming to that next, rakshith 
+[10:33:17] <Pratyushgr> now using X for Point
+[10:33:34] <vinayb> Pratyushgr, yes you are right! just assume i am having a new shell session everytime i give an example :)
+[10:33:41] <Pratyushgr> thus it over write
