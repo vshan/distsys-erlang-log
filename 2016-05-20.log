@@ -64,3 +64,4 @@
 [09:38:11] <vinayb> A read-eval-print-lop
 [09:38:13] <vinayb> *loop
 [09:38:32] <vinayb> So you type in an expression, it evaluates it, and shows you the result!
+[09:39:10] <vinayb> type in help().
