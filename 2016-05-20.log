@@ -80,3 +80,6 @@
 [09:43:16] <vinayb> In the Erlang shell, expressions have to be terminated with a period followed by whitespace (line break, a space etc.)
 [09:43:28] *** Quits: sshah (b63a6584@gateway/web/freenode/ip.182.58.101.132) (Ping timeout: 250 seconds)
 [09:43:40] <vinayb> a little unusual syntax, but you'll get used to it
+[09:44:12] <vinayb> type in 2 + 15.
+[09:44:17] <vinayb> or any such expressions
+[09:44:27] <vinayb> 5 div 2.
