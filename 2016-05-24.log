@@ -406,3 +406,5 @@
 [11:06:31] <vinayb> yes vilas_m !
 [11:06:45] <aditya> is_alive(X) when X>=0 and X=<104 ->true; is_alive(_)->false.
 [11:06:52] <aditya> even with that
+[11:07:18] <vinayb> try using "," instead of "and"
+[11:07:21] <aditya>  syntax error before: '=<'
