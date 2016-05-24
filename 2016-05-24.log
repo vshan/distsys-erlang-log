@@ -417,3 +417,4 @@
 [11:09:16] <vinayb> instead of "and" you can try "," or "andalso"
 [11:09:28] <vinayb> instead of "or" you can try ";" or "orelse"
 [11:09:59] <Pratyushgr> ya andalso works
+[11:10:35] <vinayb> Pratyushgr: and is an old Erlang operator, andalso is preferred over it. Some implementations might prevent you from using and
