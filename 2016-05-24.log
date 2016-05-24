@@ -195,3 +195,6 @@
 [10:21:41] <vinayb> greet(dsadad, "Rohit").
 [10:21:51] <vinayb> what are the outputs?
 [10:22:15] *** Parts: vilas_m (dfeefbf8@gateway/web/freenode/ip.223.238.251.248) ()
+[10:22:23] <vinayb> ****greet(female, "Priya").
+[10:22:32] <vinayb> sorry, forgot to add end quote
+[10:22:41] <vinayb> salman-bhai: what are the outputs?
