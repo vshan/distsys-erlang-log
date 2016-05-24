@@ -102,3 +102,6 @@
 [09:55:35] <vinayb> let's define one more function
 [09:55:39] <vinayb> add this to your file too
 [09:55:52] <vinayb> greet_and_add_two(X) ->
+[09:55:56] <vinayb>   hello(),
+[09:55:57] <vinayb>   add(X,2).
+[09:56:23] <vinayb> alright! we're done with our first module!
