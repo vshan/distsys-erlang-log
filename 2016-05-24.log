@@ -367,3 +367,5 @@
 [10:57:07] <vinayb> Right! now let's say we have a function to check if a person is ALIVE
 [10:57:13] <vinayb> say people don't live past 104 :P
 [10:57:23] <salman-bhai> 37> erlang_module:is_adult(19). true
+[10:57:40] <vinayb> is_alive(X) when X =< 104 -> true;
+[10:57:49] <vinayb> is_alive(_) -> false.
