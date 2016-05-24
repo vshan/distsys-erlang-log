@@ -51,3 +51,5 @@
 [09:43:29] <vinayb> *:
 [09:43:38] <vinayb> erlang:element(2, {a,b,c}).
 [09:43:48] <vinayb> element(2, {a,b,c}).
+[09:44:03] <vinayb> they'll give the same result, as erlang module is always loaded in shell
+[09:44:18] <salman-bhai> b
