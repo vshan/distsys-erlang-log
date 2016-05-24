@@ -46,3 +46,8 @@
 [09:42:21] *** Joins: adarsh_h (6ad881a9@gateway/web/freenode/ip.106.216.129.169)
 [09:42:50] <vinayb> Functions from the "erlang" module are automatically imported when you use erlang
 [09:43:14] <vinayb> Every other function defined in a module you will ever use needs to be called the form Module:Function(Arguments)
+[09:43:21] <vinayb> if you open up your shell
+[09:43:25] <vinayb> you can try this;
+[09:43:29] <vinayb> *:
+[09:43:38] <vinayb> erlang:element(2, {a,b,c}).
+[09:43:48] <vinayb> element(2, {a,b,c}).
