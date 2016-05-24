@@ -249,3 +249,4 @@
 [10:35:27] *** Quits: adarsh_h (6ad881a9@gateway/web/freenode/ip.106.216.129.169) (Quit: Page closed)
 [10:35:38] <vinayb> m_gautham: after cd, did you try c(erlang_module). ? (notice the full stop, and there's no .erl part)
 [10:35:52] <m_gautham> yes
+[10:36:10] <vinayb> ok what's the error?
