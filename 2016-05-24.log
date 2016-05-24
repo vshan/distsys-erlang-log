@@ -115,3 +115,6 @@
 [09:58:20] <vinayb> cd("/path/to/your/file").
 [09:58:52] <vinayb> so whichever folder you saved your file in, put that in the cd() function
 [09:59:13] <vinayb> Windows users, don't forget, Windows paths have forward slashes
+[09:59:48] <vinayb> for Linux users if you saved it in a folder called erlang_codes in your home directory
+[09:59:52] <vinayb> then it would be
+[09:59:57] <vinayb> cd("~/erlang_codes").
