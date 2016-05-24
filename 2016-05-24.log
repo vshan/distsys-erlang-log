@@ -60,3 +60,7 @@
 [09:45:26] <salman-bhai> What did we just do?
 [09:45:35] <vinayb> When writing a module, you can declare two kinds of things: *functions* and *attributes*
 [09:45:49] <vinayb> We called a function in the form Module:Function(Arguments)
+[09:45:56] <salman-bhai> OKay ....
+[09:46:02] <salman-bhai> Go on
+[09:46:17] <vinayb> so, there's a module called "erlang" which has the function called element
+[09:46:22] <vinayb> that's what we did
