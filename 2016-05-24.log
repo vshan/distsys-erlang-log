@@ -81,3 +81,6 @@
 [09:49:56] <vinayb> -export([Function1/Arity, Function2/Arity, ..., FunctionN/Arity]).
 [09:50:04] <vinayb> Does any one know what arity is?
 [09:50:42] <aditya> no of arguments?
+[09:50:44] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
+[09:50:51] <vinayb> correct aditya !
+[09:51:12] <vinayb> so add this line to your file:
