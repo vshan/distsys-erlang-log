@@ -70,3 +70,6 @@
 [09:47:37] *** Joins: Pratyushgr (b640b3ae@gateway/web/freenode/ip.182.64.179.174)
 [09:47:46] <vinayb> in the first line of your file should be this: 
 [09:47:57] <vinayb> -module(Name).
+[09:48:07] <vinayb> so in our case, if you've saved the file as erlang_module.erl
+[09:48:11] <vinayb> then it should be
+[09:48:19] <vinayb> -module(erlang_module).
