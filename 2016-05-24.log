@@ -36,3 +36,5 @@
 [09:40:12] <vinayb> in the past session, we saw the erlang shell 
 [09:40:19] <vinayb> and how to run our expressions on it
 [09:40:38] <vinayb> But any sort of longform programming is not possible :P 
+[09:40:45] <vinayb> so we need to write in files
+[09:40:59] <vinayb> Modules are a bunch of functions regrouped in a single file, under a single name.
