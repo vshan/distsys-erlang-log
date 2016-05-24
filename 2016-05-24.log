@@ -371,3 +371,5 @@
 [10:57:49] <vinayb> is_alive(_) -> false.
 [10:58:02] <vinayb> nice work salman-bhai !
 [10:58:17] <vinayb> but however, if i put is_alive(-10) also this will work
+[10:58:33] <vinayb> and a person who is 10 years away from his birth is not alive :P
+[10:58:54] <vinayb> we can do this:
