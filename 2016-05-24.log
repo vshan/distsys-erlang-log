@@ -343,3 +343,6 @@
 [10:51:33] <vinayb> is_adult(2) -> false;
 [10:51:39] <vinayb> ...
 [10:51:39] <akshayrevankar> ....
+[10:51:47] <vinayb> is_adult(18) -> true;
+[10:51:59] <vinayb> is_adult(_) -> true;
+[10:52:07] <akshayrevankar> -1 :P
