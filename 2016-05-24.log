@@ -401,3 +401,5 @@
 [11:05:00] <vinayb> okay we'll wrap up for today guys
 [11:05:06] <vinayb> any questions?
 [11:05:31] <aditya> says syntax error for is_alive!
+[11:05:56] <vilas_m> Can we use functions in a module which has been defined in some other module?
+[11:06:15] <vinayb> My bad! after "false" in last line it should be a full stop, not a semi-colon!
