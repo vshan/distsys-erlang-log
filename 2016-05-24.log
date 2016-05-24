@@ -261,3 +261,4 @@
 [10:38:33] <vinayb> ya and make sure you have this line as the first line in file:
 [10:38:42] <vinayb> -module(erlang_module).
 [10:38:57] <m_gautham> ok
+[10:39:33] <m_gautham> working thanks
