@@ -131,3 +131,6 @@
 [10:01:42] <vinayb> erlang_module:greet_and_add_two(-3).
 [10:01:47] <vinayb> now, somebody post the outputs here!
 [10:04:35] <vinayb> vilas_m: Is the code running?
+[10:04:57] <vilas_m> yup! I was waiting for someone else to post it :P
+[10:05:02] <vilas_m> 1) 9
+[10:05:19] <vilas_m> 2) Hello world! ok
