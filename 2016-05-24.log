@@ -186,3 +186,5 @@
 [10:18:33] <vinayb> and full stop at the end!
 [10:19:40] <vinayb> so semicolon is to show that you're expression is done, but function definition is not!
 [10:19:59] <vinayb> and fullstop at the end shows that function definition is done
+[10:20:15] <vinayb> guys, don't forget to add greet/2 to export line!
+[10:20:39] <vinayb> then compile and run it again!
