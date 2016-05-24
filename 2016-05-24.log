@@ -258,3 +258,6 @@
 [10:37:57] <akshayrevankar> can you paste the contents of the file here?
 [10:38:04] <m_gautham> G:/
 [10:38:20] <vinayb> ok then do cd("G:/").
+[10:38:33] <vinayb> ya and make sure you have this line as the first line in file:
+[10:38:42] <vinayb> -module(erlang_module).
+[10:38:57] <m_gautham> ok
