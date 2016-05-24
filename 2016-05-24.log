@@ -309,3 +309,11 @@
 [10:47:19] <salman-bhai> I didn't look properly
 [10:47:21] <salman-bhai> My bad!
 [10:47:21] <vinayb> ;)
+[10:47:33] <salman-bhai> Yes please continue
+[10:47:43] <vinayb> so this is how pattern matching works
+[10:47:53] <vinayb> for anything of the form
+[10:47:59] <vinayb> function(Args)
+[10:47:59] <vinayb> if X then
+[10:47:59] <vinayb> Expression
+[10:47:59] <vinayb> else if Y then
+[10:47:59] <vinayb> Expression
