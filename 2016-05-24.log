@@ -346,3 +346,8 @@
 [10:51:47] <vinayb> is_adult(18) -> true;
 [10:51:59] <vinayb> is_adult(_) -> true;
 [10:52:07] <akshayrevankar> -1 :P
+[10:52:16] <vinayb> right? we can't be expected to cover all cases like this xD
+[10:52:22] <salman-bhai> Yess
+[10:52:23] <vinayb> so let's see GUARDS!
+[10:52:32] <vinayb> Guards are additional clauses that can go in a function's head to make pattern matching more expressive. 
+[10:52:46] <vinayb> so add this function to your file:
