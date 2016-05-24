@@ -44,3 +44,5 @@
 [09:41:58] <vinayb> these belong to the erlang module
 [09:42:14] <vinayb> as well as all of the arithmetic, logic and boolean operators
 [09:42:21] *** Joins: adarsh_h (6ad881a9@gateway/web/freenode/ip.106.216.129.169)
+[09:42:50] <vinayb> Functions from the "erlang" module are automatically imported when you use erlang
+[09:43:14] <vinayb> Every other function defined in a module you will ever use needs to be called the form Module:Function(Arguments)
