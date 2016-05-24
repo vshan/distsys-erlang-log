@@ -163,3 +163,4 @@
 [10:14:00] <vinayb> okay, you guys remember pattern matching from last session??
 [10:14:19] <vilas_m> Yup
 [10:14:38] <vinayb> let's see how we can use pattern matching in functions
+[10:15:11] <vinayb> let's see how we would write a "greet" function in a C-like language
