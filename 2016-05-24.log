@@ -299,3 +299,8 @@
 [10:45:09] <vinayb> that's because add() is already predefined in Erlang core module
 [10:45:39] <salman-bhai> 17> erlang_module:greet_and_add_two(-3). Hello, world!
 [10:45:44] <salman-bhai> What about this
+[10:45:56] <salman-bhai> -1*
+[10:46:05] <salman-bhai> THis isn't pre-defined ryt?
+[10:46:11] <vinayb> Are you sure you didn't use erlang_module ?
+[10:46:23] <vinayb> i mean erlang_module:greet_and_add_two(-3).
+[10:46:26] <salman-bhai> *The -1 is also there I forgot to copy it
