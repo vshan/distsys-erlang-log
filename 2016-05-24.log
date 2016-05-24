@@ -290,3 +290,4 @@
 [10:42:56] <vinayb> *two:
 [10:43:08] <vinayb> erlang_module:greet(female, "Priya").
 [10:43:22] <vinayb> elrang_module:greet(dsdad, "Prakash").
+[10:44:15] <salman-bhai> YUp working fine
