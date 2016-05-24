@@ -305,3 +305,7 @@
 [10:46:23] <vinayb> i mean erlang_module:greet_and_add_two(-3).
 [10:46:26] <salman-bhai> *The -1 is also there I forgot to copy it
 [10:46:40] <vinayb> greet_and_add_two(-3). is working without having to specify erlang_module: before it?
+[10:47:10] <salman-bhai> Oh yeah it isn't
+[10:47:19] <salman-bhai> I didn't look properly
+[10:47:21] <salman-bhai> My bad!
+[10:47:21] <vinayb> ;)
