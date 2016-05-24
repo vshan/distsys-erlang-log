@@ -234,3 +234,4 @@
 [10:30:43] <vinayb> don't put in the .erl part, only "c(erlang_module)."
 [10:30:52] <vinayb> and if you saved in Desktop
 [10:31:29] <vinayb> then path will probably be C:/Users/<YourName>/Desktop
+[10:31:52] <m_gautham> no module definition  error
