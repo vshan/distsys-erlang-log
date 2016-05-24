@@ -297,3 +297,5 @@
 [10:44:48] <salman-bhai> For adding the numbers
 [10:44:58] <salman-bhai> And it gave the right output
 [10:45:09] <vinayb> that's because add() is already predefined in Erlang core module
+[10:45:39] <salman-bhai> 17> erlang_module:greet_and_add_two(-3). Hello, world!
+[10:45:44] <salman-bhai> What about this
