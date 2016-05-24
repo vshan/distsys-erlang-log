@@ -357,3 +357,5 @@
 [10:54:21] <vinayb> notice how it comes before the function body
 [10:54:28] <vinayb> that is, before the arrow
 [10:54:41] <vinayb> also notice, how only in the finishing clause we add a full stop
+[10:54:53] <vinayb> for all clauses before that, they end with a semi-colon
+[10:55:10] <vinayb> which makes perfect sense :P full stop is to finish. Semi-colon is to seperate
