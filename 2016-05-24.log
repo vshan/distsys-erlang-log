@@ -88,3 +88,4 @@
 [09:51:27] <vinayb> and then let's define our first function!
 [09:51:33] <vinayb> add(A, B) ->
 [09:51:39] <vinayb>   A + B.
+[09:52:43] <vinayb> in Erlang, the syntax of a function follows the form Name(Args) -> Body., where Body is a bunch of Erlang expressions seperated by commas.
