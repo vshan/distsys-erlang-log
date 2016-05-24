@@ -337,3 +337,9 @@
 [10:50:47] <vinayb>     return false;
 [10:50:50] <vinayb> end
 [10:51:09] <vinayb> however, with pattern-matching how can we do this?
+[10:51:16] <vinayb> we can't be expected to do..
+[10:51:22] <vinayb> is_adult(0) -> false;
+[10:51:28] <vinayb> is_adult(1) -> false;
+[10:51:33] <vinayb> is_adult(2) -> false;
+[10:51:39] <vinayb> ...
+[10:51:39] <akshayrevankar> ....
