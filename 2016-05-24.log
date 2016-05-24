@@ -156,3 +156,6 @@
 [10:11:39] <adarsh_h> the arguments in the functions are like variables? starting with capital letter?
 [10:12:35] <vinayb> yep! when you call the function, whatever you passed as the parameter gets BOUND to that variable
 [10:12:37] <akshayrevankar> the difference in both the outputs is, the "Hello" actually is printed to your terminal/cmd by the io:format, whereas the ok part is the return of the io:format printed by the shell and not the io:format
+[10:12:57] <vinayb> nice working noticing the capital letters adarsh_h !
+[10:13:02] <vinayb> *work
+[10:13:13] <vinayb> yes, akshayrevankar is right
