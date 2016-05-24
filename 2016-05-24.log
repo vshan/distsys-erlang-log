@@ -351,3 +351,5 @@
 [10:52:23] <vinayb> so let's see GUARDS!
 [10:52:32] <vinayb> Guards are additional clauses that can go in a function's head to make pattern matching more expressive. 
 [10:52:46] <vinayb> so add this function to your file:
+[10:52:54] <vinayb> is_adult(X) when X >= 18 -> true;
+[10:53:03] <vinayb> is_adult(_) -> false.
