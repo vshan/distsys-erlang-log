@@ -425,3 +425,6 @@
 [11:11:58] <vinayb> salman-bhai: please add is_dead to export line 
 [11:12:00] <salman-bhai> Why this thing?
 [11:12:03] <salman-bhai> Yes I did
+[11:12:16] <salman-bhai> Like I said I changed only one bit of sytax
+[11:12:19] <salman-bhai> Syntax*
+[11:12:46] <salman-bhai> The semi-colon to orelse and it worked
