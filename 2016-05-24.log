@@ -383,3 +383,5 @@
 [11:00:56] <salman-bhai> What if I want to print something
 [11:00:59] <salman-bhai> Say not valid
 [11:01:10] <salman-bhai> I'll use io:format?
+[11:01:23] <vinayb> yes salman-bhai , you'll use io:format
+[11:01:30] <salman-bhai> Cool thanks
