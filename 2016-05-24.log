@@ -57,3 +57,6 @@
 [09:44:52] <vinayb> So let's talk about writing our own modules
 [09:45:07] <vinayb> right salman-bhai !
 [09:45:19] <salman-bhai> @vinayb
+[09:45:26] <salman-bhai> What did we just do?
+[09:45:35] <vinayb> When writing a module, you can declare two kinds of things: *functions* and *attributes*
+[09:45:49] <vinayb> We called a function in the form Module:Function(Arguments)
