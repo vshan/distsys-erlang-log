@@ -267,3 +267,8 @@
 [10:40:08] <vinayb> alright, let's move forward
 [10:40:13] <salman-bhai> What was my mistake?
 [10:40:34] <vinayb> did you add greet/2 to the file and then recompile by running c(erlang_module). again?
+[10:40:46] <vinayb> add export/2 to the export line
+[10:40:47] <salman-bhai> Yes.
+[10:40:51] <vinayb> *greet/2
+[10:41:00] <salman-bhai> 23> c(erlang_module).   {ok,erlang_module} 24> greet(male, "Ram"). ** exception error: undefined shell command greet/2
+[10:41:01] <vinayb> ok and did you define the function?
