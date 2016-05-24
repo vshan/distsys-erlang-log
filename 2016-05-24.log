@@ -78,3 +78,5 @@
 [09:49:19] <vinayb> so that you can use them in your program
 [09:49:23] <vinayb> shell*
 [09:49:32] <vinayb> it's of the form:
+[09:49:56] <vinayb> -export([Function1/Arity, Function2/Arity, ..., FunctionN/Arity]).
+[09:50:04] <vinayb> Does any one know what arity is?
