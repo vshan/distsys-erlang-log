@@ -237,3 +237,4 @@
 [10:31:52] <m_gautham> no module definition  error
 [10:32:29] <vinayb> m_gautham, did the cd() work?
 [10:32:35] <akshayrevankar> check ur current working dir by using pwd().
+[10:33:15] <vinayb> ya check if pwd(). and the folder where you saved the file match!
