@@ -91,3 +91,4 @@
 [09:52:43] <vinayb> in Erlang, the syntax of a function follows the form Name(Args) -> Body., where Body is a bunch of Erlang expressions seperated by commas.
 [09:52:55] <vinayb> There
 [09:53:13] <vinayb> *There's no Return in erlang functions!
+[09:53:44] <vinayb> Instead, the last logical expression of a function to be executed will have its value returned to te caller automatically without you having to mention it.
