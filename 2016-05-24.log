@@ -84,3 +84,7 @@
 [09:50:44] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
 [09:50:51] <vinayb> correct aditya !
 [09:51:12] <vinayb> so add this line to your file:
+[09:51:15] <vinayb> -export([add/2]).
+[09:51:27] <vinayb> and then let's define our first function!
+[09:51:33] <vinayb> add(A, B) ->
+[09:51:39] <vinayb>   A + B.
