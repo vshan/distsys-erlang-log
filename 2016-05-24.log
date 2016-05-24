@@ -272,3 +272,7 @@
 [10:40:51] <vinayb> *greet/2
 [10:41:00] <salman-bhai> 23> c(erlang_module).   {ok,erlang_module} 24> greet(male, "Ram"). ** exception error: undefined shell command greet/2
 [10:41:01] <vinayb> ok and did you define the function?
+[10:41:31] <salman-bhai> -module(erlang_module). -export([add/2, hello/0, greet_and_add_two/1, greet/2]).  add(A, B) -> A + B.  hello() -> io:format("Hello, world!~n").  greet_and_add_two(X) -> hello() , add (X,2).  greet(male, Name) -> io:format("Hello, Mr. ~s!", [Name]);  greet(female, Name) -> io:format("Hello, Mrs. ~s!", [Name]);  greet(_,Name) -> io:format("Hello, ~s!", [Name]).
+[10:41:34] <vinayb> run it as Module:Function(Arguments)
+[10:41:35] <vinayb> so 
+[10:41:41] <salman-bhai> Yes
