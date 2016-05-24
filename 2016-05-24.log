@@ -118,3 +118,7 @@
 [09:59:48] <vinayb> for Linux users if you saved it in a folder called erlang_codes in your home directory
 [09:59:52] <vinayb> then it would be
 [09:59:57] <vinayb> cd("~/erlang_codes").
+[10:00:12] <vinayb> okay, now type this:
+[10:00:19] <vinayb> c(erlang_module).
+[10:00:28] <vinayb> this will load our module in the shell!
+[10:00:43] <vinayb> then you call the functions!
