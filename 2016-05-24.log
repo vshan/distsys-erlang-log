@@ -180,3 +180,6 @@
 [10:17:27] <vinayb> greet(female, Name) ->
 [10:17:46] <vinayb>   io:format("Hello, Mrs. ~s!", [Name]);
 [10:17:54] <vinayb> greet(_, Name) ->
+[10:18:07] <vinayb>   io:format("Hello, ~s!", [Name]).
+[10:18:20] <vilas_m> semicolon?
+[10:18:25] <vinayb> notice the semicolons at the end of the first two clauses!
