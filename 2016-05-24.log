@@ -256,3 +256,5 @@
 [10:37:44] <vinayb> m_gautham: what does pwd(). return?
 [10:37:50] <vinayb> run pwd(). on the shell
 [10:37:57] <akshayrevankar> can you paste the contents of the file here?
+[10:38:04] <m_gautham> G:/
+[10:38:20] <vinayb> ok then do cd("G:/").
