@@ -250,3 +250,4 @@
 [10:35:38] <vinayb> m_gautham: after cd, did you try c(erlang_module). ? (notice the full stop, and there's no .erl part)
 [10:35:52] <m_gautham> yes
 [10:36:10] <vinayb> ok what's the error?
+[10:36:50] <m_gautham> no module defination
