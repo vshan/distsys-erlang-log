@@ -262,3 +262,6 @@
 [10:38:42] <vinayb> -module(erlang_module).
 [10:38:57] <m_gautham> ok
 [10:39:33] <m_gautham> working thanks
+[10:39:53] <vinayb> no problem!
+[10:40:04] <salman-bhai> greet(male, "Ram"). ** exception error: undefined shell command greet/2
+[10:40:08] <vinayb> alright, let's move forward
