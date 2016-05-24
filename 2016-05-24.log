@@ -184,3 +184,5 @@
 [10:18:20] <vilas_m> semicolon?
 [10:18:25] <vinayb> notice the semicolons at the end of the first two clauses!
 [10:18:33] <vinayb> and full stop at the end!
+[10:19:40] <vinayb> so semicolon is to show that you're expression is done, but function definition is not!
+[10:19:59] <vinayb> and fullstop at the end shows that function definition is done
