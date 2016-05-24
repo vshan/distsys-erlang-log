@@ -74,3 +74,7 @@
 [09:48:11] <vinayb> then it should be
 [09:48:19] <vinayb> -module(erlang_module).
 [09:49:01] <vinayb> then, we have another attribute called export
+[09:49:11] <vinayb> you always need to mention your defined functions in export
+[09:49:19] <vinayb> so that you can use them in your program
+[09:49:23] <vinayb> shell*
+[09:49:32] <vinayb> it's of the form:
