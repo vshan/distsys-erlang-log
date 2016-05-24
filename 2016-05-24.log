@@ -175,3 +175,5 @@
 [10:16:32] <vinayb> right, this would be in a C like language!
 [10:16:42] <vinayb> but in Erlang, using pattern matching, this becomes very easy!
 [10:16:51] <vinayb> type this in your file:
+[10:16:59] <vinayb> greet(male, Name) ->
+[10:17:16] <vinayb>   io:format("Hello, Mr. ~s!", [Name]);
