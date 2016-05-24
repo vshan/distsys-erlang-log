@@ -188,3 +188,7 @@
 [10:19:59] <vinayb> and fullstop at the end shows that function definition is done
 [10:20:15] <vinayb> guys, don't forget to add greet/2 to export line!
 [10:20:39] <vinayb> then compile and run it again!
+[10:20:43] <vinayb> and call the greet function
+[10:21:09] <vinayb> like
+[10:21:10] <vinayb> greet(male, "Ram").
+[10:21:10] <vinayb> greet(female, "Priya).
