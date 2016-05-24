@@ -38,3 +38,5 @@
 [09:40:38] <vinayb> But any sort of longform programming is not possible :P 
 [09:40:45] <vinayb> so we need to write in files
 [09:40:59] <vinayb> Modules are a bunch of functions regrouped in a single file, under a single name.
+[09:41:27] <vinayb> Additionally, all functions in Erlang must be defined in modules
+[09:41:44] <vinayb> You have already used modules, perhaps without realizing it
