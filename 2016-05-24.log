@@ -138,3 +138,6 @@
 [10:05:55] <vilas_m> 3) Hello world! -1
 [10:05:58] <adarsh_h> wheni type c(erlang_module). its giving me no module definition
 [10:06:21] <vinayb> you must save the file with the same name. so file name should be erlang_module.erl
+[10:06:33] <vinayb> and did you cd() to the folder having the file?
+[10:06:39] <vinayb> great question vilas_m !
+[10:06:43] <adarsh_h> its working now
