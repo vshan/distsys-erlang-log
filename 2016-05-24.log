@@ -92,3 +92,6 @@
 [09:52:55] <vinayb> There
 [09:53:13] <vinayb> *There's no Return in erlang functions!
 [09:53:44] <vinayb> Instead, the last logical expression of a function to be executed will have its value returned to te caller automatically without you having to mention it.
+[09:53:58] <vinayb> now, add this function to your file too:
+[09:54:04] <vinayb> hello() ->
+[09:54:18] <vinayb>   io:format("Hello, world!~n").
