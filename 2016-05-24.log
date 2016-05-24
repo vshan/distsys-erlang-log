@@ -106,3 +106,5 @@
 [09:55:57] <vinayb>   add(X,2).
 [09:56:23] <vinayb> alright! we're done with our first module!
 [09:56:39] <vinayb> can someone copy their file and post it here?
+[09:57:16] <vilas_m> -module(erlang_module).  -export([add/2, hello/0, greet_and_add_two/1]).  add(A, B) -> A + B.  hello() -> io:format("Hello, world!~n"). greet_and_add_two(X) -> hello(), add(X,2).
+[09:57:21] <vinayb> and remember guys, you have to add greet_and_add_two/1 to the export line!
