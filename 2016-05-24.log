@@ -280,3 +280,9 @@
 [10:41:47] <vinayb> .
 [10:41:54] <salman-bhai> Okay
 [10:41:54] <vinayb> is it running now?
+[10:42:17] <salman-bhai> Yes
+[10:42:26] <salman-bhai> What happened earlier?
+[10:42:30] <vinayb> paste the output here
+[10:42:31] <vinayb> for
+[10:42:43] <salman-bhai> 25> erlang_module:greet(male, "Ram"). Hello, Mr. Ram!ok
+[10:42:45] <vinayb> Since we didn't specify the module, Erlang didn't know where to look
