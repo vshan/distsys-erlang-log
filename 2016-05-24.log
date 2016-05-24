@@ -219,3 +219,6 @@
 [10:26:58] <vinayb> aditya: which drive and in that which folder did you save the file in?
 [10:27:01] <salman-bhai> 11> cd("~/erlang_codes"). /home/salman ok
 [10:27:26] <vinayb> ok and c(erlang_module). isn't working after that?
+[10:27:32] <salman-bhai> THis is what I'm getting.
+[10:27:54] <akshayrevankar> hes getting the home folder ^^, even after changing dir to erlang_codes
+[10:28:00] <vinayb> ok salman-bhai , just do cd("/home/salman/erlang_codes").
