@@ -410,3 +410,7 @@
 [11:07:21] <aditya>  syntax error before: '=<'
 [11:07:49] <aditya> ya works!
 [11:08:18] <Pratyushgr> ya and is not working for me either
+[11:08:34] <Pratyushgr> while "," worked
+[11:08:37] <Pratyushgr> why?
+[11:08:45] <vinayb> i'll introduce some new operators in next session, orelse and andalso
+[11:08:59] <vinayb> and and or are actually supposed to be used in a different context
