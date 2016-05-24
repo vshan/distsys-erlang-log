@@ -95,3 +95,4 @@
 [09:53:58] <vinayb> now, add this function to your file too:
 [09:54:04] <vinayb> hello() ->
 [09:54:18] <vinayb>   io:format("Hello, world!~n").
+[09:54:46] <vinayb> remember, don't forget to update your export line!
