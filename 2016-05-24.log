@@ -65,3 +65,5 @@
 [09:46:17] <vinayb> so, there's a module called "erlang" which has the function called element
 [09:46:22] <vinayb> that's what we did
 [09:46:55] <vinayb> alright guys, open a file and save it as erlang_module.erl
+[09:47:14] <vinayb> you can use any code editor you wish
+[09:47:26] <vinayb> or notepad too if you're feeling particularly brave
