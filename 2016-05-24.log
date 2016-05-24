@@ -286,3 +286,6 @@
 [10:42:31] <vinayb> for
 [10:42:43] <salman-bhai> 25> erlang_module:greet(male, "Ram"). Hello, Mr. Ram!ok
 [10:42:45] <vinayb> Since we didn't specify the module, Erlang didn't know where to look
+[10:42:54] <vinayb> ok run these twoL
+[10:42:56] <vinayb> *two:
+[10:43:08] <vinayb> erlang_module:greet(female, "Priya").
