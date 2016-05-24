@@ -149,3 +149,4 @@
 [10:09:01] <vinayb> in the greet_and_add_two() function, the last expression is add(-3,2)
 [10:09:05] <vinayb> which returns -1
 [10:09:30] <vilas_m> While entering c(erlang_module), I'm getting {ok, erlang_module}. What about this one?
+[10:10:01] <vinayb> ok is an atom which says that whatever you're trying to do has been successful 
