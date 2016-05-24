@@ -373,3 +373,7 @@
 [10:58:17] <vinayb> but however, if i put is_alive(-10) also this will work
 [10:58:33] <vinayb> and a person who is 10 years away from his birth is not alive :P
 [10:58:54] <vinayb> we can do this:
+[10:59:12] <vinayb> is_alive(X) when X >= 0 and X =< 104 ->
+[10:59:15] <vinayb>   true;
+[10:59:27] <vinayb> is_alive(_) -> 
+[10:59:27] <vinayb>   false;
