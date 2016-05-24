@@ -80,3 +80,4 @@
 [09:49:32] <vinayb> it's of the form:
 [09:49:56] <vinayb> -export([Function1/Arity, Function2/Arity, ..., FunctionN/Arity]).
 [09:50:04] <vinayb> Does any one know what arity is?
+[09:50:42] <aditya> no of arguments?
