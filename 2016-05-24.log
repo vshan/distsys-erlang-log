@@ -403,3 +403,6 @@
 [11:05:31] <aditya> says syntax error for is_alive!
 [11:05:56] <vilas_m> Can we use functions in a module which has been defined in some other module?
 [11:06:15] <vinayb> My bad! after "false" in last line it should be a full stop, not a semi-colon!
+[11:06:31] <vinayb> yes vilas_m !
+[11:06:45] <aditya> is_alive(X) when X>=0 and X=<104 ->true; is_alive(_)->false.
+[11:06:52] <aditya> even with that
