@@ -167,3 +167,8 @@
 [10:15:22] <vinayb> function greet(Gender, name)
 [10:15:28] <vinayb>   if Gender == male then
 [10:15:43] <vinayb>     print("Hello, Mr. %s!", Name)
+[10:15:54] <vinayb>   else if Gender == female then
+[10:16:09] <vinayb>     print("Hello, Mrs. %s!", Name)
+[10:16:11] <vinayb>   else
+[10:16:20] <vinayb>     print("Hello, %s!", Name)
+[10:16:22] <vinayb> end
