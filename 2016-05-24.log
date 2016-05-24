@@ -226,3 +226,6 @@
 [10:28:40] <vinayb> ok did you try cd("/home/salman/erlang_codes"). ?
 [10:28:40] <salman-bhai> c(erlang_module).                {ok,erlang_module}
 [10:29:01] <akshayrevankar> ya dont try ~
+[10:29:11] <vinayb> nice, now try running the functions
+[10:29:11] <salman-bhai> ok,erlang module
+[10:29:28] <m_gautham> c(erlang_module.erl) gives syntax error before:"." ??
