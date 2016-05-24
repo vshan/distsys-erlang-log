@@ -216,3 +216,6 @@
 [10:26:13] <adarsh_h> 1)Hello, Mr.Ram!ok
 [10:26:19] <salman-bhai> The name of the folder is erlang_codes
 [10:26:38] <vinayb> is cd("~/erlang_codes"). not working?
+[10:26:58] <vinayb> aditya: which drive and in that which folder did you save the file in?
+[10:27:01] <salman-bhai> 11> cd("~/erlang_codes"). /home/salman ok
+[10:27:26] <vinayb> ok and c(erlang_module). isn't working after that?
