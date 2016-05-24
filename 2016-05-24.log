@@ -418,3 +418,6 @@
 [11:09:28] <vinayb> instead of "or" you can try ";" or "orelse"
 [11:09:59] <Pratyushgr> ya andalso works
 [11:10:35] <vinayb> Pratyushgr: and is an old Erlang operator, andalso is preferred over it. Some implementations might prevent you from using and
+[11:11:30] <salman-bhai> 45> c(erlang_module).          {ok,erlang_module} 46> erlang_module:is_dead(45). ** exception error: undefined function erlang_module:is_dead/1 47> c(erlang_module).          {ok,erlang_module} 48> erlang_module:is_dead(45).
+[11:11:32] <vinayb> okay guys post your doubts here, i'll be back in a bit and answer them if any!
+[11:11:34] <Pratyushgr> ohkay.
