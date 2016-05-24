@@ -172,3 +172,6 @@
 [10:16:11] <vinayb>   else
 [10:16:20] <vinayb>     print("Hello, %s!", Name)
 [10:16:22] <vinayb> end
+[10:16:32] <vinayb> right, this would be in a C like language!
+[10:16:42] <vinayb> but in Erlang, using pattern matching, this becomes very easy!
+[10:16:51] <vinayb> type this in your file:
