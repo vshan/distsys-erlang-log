@@ -111,3 +111,5 @@
 [09:57:37] <vinayb> nice work vilas_m !
 [09:57:59] <vinayb> let's run our functions now
 [09:58:01] <vinayb> open up your erlang shell
+[09:58:11] <vinayb> then type this:
+[09:58:20] <vinayb> cd("/path/to/your/file").
