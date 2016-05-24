@@ -421,3 +421,7 @@
 [11:11:30] <salman-bhai> 45> c(erlang_module).          {ok,erlang_module} 46> erlang_module:is_dead(45). ** exception error: undefined function erlang_module:is_dead/1 47> c(erlang_module).          {ok,erlang_module} 48> erlang_module:is_dead(45).
 [11:11:32] <vinayb> okay guys post your doubts here, i'll be back in a bit and answer them if any!
 [11:11:34] <Pratyushgr> ohkay.
+[11:11:46] <salman-bhai> I changed ; to orelse
+[11:11:58] <vinayb> salman-bhai: please add is_dead to export line 
+[11:12:00] <salman-bhai> Why this thing?
+[11:12:03] <salman-bhai> Yes I did
