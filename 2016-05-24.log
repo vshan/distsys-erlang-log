@@ -53,3 +53,5 @@
 [09:43:48] <vinayb> element(2, {a,b,c}).
 [09:44:03] <vinayb> they'll give the same result, as erlang module is always loaded in shell
 [09:44:18] <salman-bhai> b
+[09:44:44] <salman-bhai> Is the result/answer
+[09:44:52] <vinayb> So let's talk about writing our own modules
