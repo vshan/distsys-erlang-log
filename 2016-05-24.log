@@ -135,3 +135,6 @@
 [10:05:02] <vilas_m> 1) 9
 [10:05:19] <vilas_m> 2) Hello world! ok
 [10:05:39] <vilas_m> ( Why does that ok appear in the output? )
+[10:05:55] <vilas_m> 3) Hello world! -1
+[10:05:58] <adarsh_h> wheni type c(erlang_module). its giving me no module definition
+[10:06:21] <vinayb> you must save the file with the same name. so file name should be erlang_module.erl
