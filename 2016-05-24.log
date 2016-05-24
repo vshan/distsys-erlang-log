@@ -177,3 +177,6 @@
 [10:16:51] <vinayb> type this in your file:
 [10:16:59] <vinayb> greet(male, Name) ->
 [10:17:16] <vinayb>   io:format("Hello, Mr. ~s!", [Name]);
+[10:17:27] <vinayb> greet(female, Name) ->
+[10:17:46] <vinayb>   io:format("Hello, Mrs. ~s!", [Name]);
+[10:17:54] <vinayb> greet(_, Name) ->
