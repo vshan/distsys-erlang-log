@@ -67,3 +67,6 @@
 [09:46:55] <vinayb> alright guys, open a file and save it as erlang_module.erl
 [09:47:14] <vinayb> you can use any code editor you wish
 [09:47:26] <vinayb> or notepad too if you're feeling particularly brave
+[09:47:37] *** Joins: Pratyushgr (b640b3ae@gateway/web/freenode/ip.182.64.179.174)
+[09:47:46] <vinayb> in the first line of your file should be this: 
+[09:47:57] <vinayb> -module(Name).
