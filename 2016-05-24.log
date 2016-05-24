@@ -143,3 +143,6 @@
 [10:06:43] <adarsh_h> its working now
 [10:07:00] <adarsh_h> forgot to save the notepad file Xd
 [10:07:12] <vinayb> so, Erlang always returns the value of the last expression in the body of the function definition
+[10:08:01] <vinayb> the format function from the io module just returns ok (an atom) to show that it's job of printing to the user's shell is done
+[10:08:25] <vinayb> in the hello() function, the format function is the last expression
+[10:08:28] <vinayb> so we get ok
