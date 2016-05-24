@@ -291,3 +291,7 @@
 [10:43:08] <vinayb> erlang_module:greet(female, "Priya").
 [10:43:22] <vinayb> elrang_module:greet(dsdad, "Prakash").
 [10:44:15] <salman-bhai> YUp working fine
+[10:44:22] *** Joins: rakshith (~hehaichi@117.192.96.212)
+[10:44:35] <salman-bhai> BUt in the first instance I didn't use the erlang_module command
+[10:44:43] <salman-bhai> Simply the function
+[10:44:48] <salman-bhai> For adding the numbers
