@@ -238,3 +238,6 @@
 [10:32:29] <vinayb> m_gautham, did the cd() work?
 [10:32:35] <akshayrevankar> check ur current working dir by using pwd().
 [10:33:15] <vinayb> ya check if pwd(). and the folder where you saved the file match!
+[10:33:30] <m_gautham> yes it is in right directory
+[10:33:45] <vinayb> ok, what did you save the file as? 
+[10:33:48] <aditya> desktop
