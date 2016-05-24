@@ -73,3 +73,4 @@
 [09:48:07] <vinayb> so in our case, if you've saved the file as erlang_module.erl
 [09:48:11] <vinayb> then it should be
 [09:48:19] <vinayb> -module(erlang_module).
+[09:49:01] <vinayb> then, we have another attribute called export
