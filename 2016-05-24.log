@@ -414,3 +414,5 @@
 [11:08:37] <Pratyushgr> why?
 [11:08:45] <vinayb> i'll introduce some new operators in next session, orelse and andalso
 [11:08:59] <vinayb> and and or are actually supposed to be used in a different context
+[11:09:16] <vinayb> instead of "and" you can try "," or "andalso"
+[11:09:28] <vinayb> instead of "or" you can try ";" or "orelse"
