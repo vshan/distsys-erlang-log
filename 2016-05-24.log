@@ -265,3 +265,5 @@
 [10:39:53] <vinayb> no problem!
 [10:40:04] <salman-bhai> greet(male, "Ram"). ** exception error: undefined shell command greet/2
 [10:40:08] <vinayb> alright, let's move forward
+[10:40:13] <salman-bhai> What was my mistake?
+[10:40:34] <vinayb> did you add greet/2 to the file and then recompile by running c(erlang_module). again?
