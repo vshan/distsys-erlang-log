@@ -40,3 +40,6 @@
 [09:40:59] <vinayb> Modules are a bunch of functions regrouped in a single file, under a single name.
 [09:41:27] <vinayb> Additionally, all functions in Erlang must be defined in modules
 [09:41:44] <vinayb> You have already used modules, perhaps without realizing it
+[09:41:51] <vinayb> hd() and tl()
+[09:41:58] <vinayb> these belong to the erlang module
+[09:42:14] <vinayb> as well as all of the arithmetic, logic and boolean operators
