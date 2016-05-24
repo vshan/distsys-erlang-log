@@ -223,3 +223,6 @@
 [10:27:54] <akshayrevankar> hes getting the home folder ^^, even after changing dir to erlang_codes
 [10:28:00] <vinayb> ok salman-bhai , just do cd("/home/salman/erlang_codes").
 [10:28:11] <salman-bhai> 12> c(erlang_module). erlang_module.erl: no such file or directory error
+[10:28:40] <vinayb> ok did you try cd("/home/salman/erlang_codes"). ?
+[10:28:40] <salman-bhai> c(erlang_module).                {ok,erlang_module}
+[10:29:01] <akshayrevankar> ya dont try ~
