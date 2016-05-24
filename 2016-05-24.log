@@ -353,3 +353,4 @@
 [10:52:46] <vinayb> so add this function to your file:
 [10:52:54] <vinayb> is_adult(X) when X >= 18 -> true;
 [10:53:03] <vinayb> is_adult(_) -> false.
+[10:54:17] <vinayb> so the when part is called a GUARD in a function head
