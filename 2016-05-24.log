@@ -96,3 +96,6 @@
 [09:54:04] <vinayb> hello() ->
 [09:54:18] <vinayb>   io:format("Hello, world!~n").
 [09:54:46] <vinayb> remember, don't forget to update your export line!
+[09:54:53] <vinayb> it should be
+[09:55:03] <vinayb> -export([add/2, hello/0]).
+[09:55:06] <vinayb> now
