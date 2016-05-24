@@ -122,3 +122,7 @@
 [10:00:19] <vinayb> c(erlang_module).
 [10:00:28] <vinayb> this will load our module in the shell!
 [10:00:43] <vinayb> then you call the functions!
+[10:00:53] <vinayb> in the format Module:Function(Arguments)
+[10:00:54] <vinayb> so:
+[10:01:02] <vinayb> erlang_module:add(7,2).
+[10:01:10] <vinayb> erlang_module:hell().
