@@ -113,3 +113,4 @@
 [09:58:01] <vinayb> open up your erlang shell
 [09:58:11] <vinayb> then type this:
 [09:58:20] <vinayb> cd("/path/to/your/file").
+[09:58:52] <vinayb> so whichever folder you saved your file in, put that in the cd() function
