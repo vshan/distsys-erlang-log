@@ -390,3 +390,6 @@
 [11:02:15] <vinayb> so:
 [11:02:30] <vinayb> is_alive(X) when X >= 0, X =< 104 ->
 [11:02:32] <vinayb>   true;
+[11:02:54] <vinayb> is_alive(_) ->
+[11:02:55] <vinayb>   false;
+[11:03:12] <vinayb> so as you can see, you can use comma instead of and, and semicolon instead of or
