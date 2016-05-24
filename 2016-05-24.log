@@ -387,3 +387,6 @@
 [11:01:30] <salman-bhai> Cool thanks
 [11:01:43] <vinayb> also, i want to add one more thing
 [11:02:13] <vinayb> instead of "and" you can use a comma "," and instead of "or" you can use semi-colon ";"
+[11:02:15] <vinayb> so:
+[11:02:30] <vinayb> is_alive(X) when X >= 0, X =< 104 ->
+[11:02:32] <vinayb>   true;
