@@ -317,3 +317,12 @@
 [10:47:59] <vinayb> Expression
 [10:47:59] <vinayb> else if Y then
 [10:47:59] <vinayb> Expression
+[10:48:02] <vinayb> else
+[10:48:06] <vinayb> we can write in Erlang
+[10:48:13] <vinayb> function(X) ->
+[10:48:17] <vinayb> Expression;
+[10:48:17] <vinayb> function(Y) ->
+[10:48:17] <vinayb> Expression;
+[10:48:17] <vinayb> function(_) ->
+[10:48:20] *** Quits: vilas_m (dfeefbf8@gateway/web/freenode/ip.223.238.251.248) (Ping timeout: 250 seconds)
+[10:48:20] <vinayb> Expression.
