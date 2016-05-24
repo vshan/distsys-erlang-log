@@ -183,3 +183,4 @@
 [10:18:07] <vinayb>   io:format("Hello, ~s!", [Name]).
 [10:18:20] <vilas_m> semicolon?
 [10:18:25] <vinayb> notice the semicolons at the end of the first two clauses!
+[10:18:33] <vinayb> and full stop at the end!
