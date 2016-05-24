@@ -327,3 +327,5 @@
 [10:48:20] *** Quits: vilas_m (dfeefbf8@gateway/web/freenode/ip.223.238.251.248) (Ping timeout: 250 seconds)
 [10:48:20] <vinayb> Expression.
 [10:48:48] *** Joins: vilas_m (dfeefbf8@gateway/web/freenode/ip.223.238.251.248)
+[10:49:40] <vinayb> alright, now let's say we have a function is_adult() 
+[10:49:52] <vinayb> in C it would be something like
