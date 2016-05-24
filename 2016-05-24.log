@@ -276,3 +276,7 @@
 [10:41:34] <vinayb> run it as Module:Function(Arguments)
 [10:41:35] <vinayb> so 
 [10:41:41] <salman-bhai> Yes
+[10:41:46] <vinayb> erlang_module:greet(male, "Ram")
+[10:41:47] <vinayb> .
+[10:41:54] <salman-bhai> Okay
+[10:41:54] <vinayb> is it running now?
