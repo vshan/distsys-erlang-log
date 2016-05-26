@@ -55,3 +55,6 @@
 [08:42:38] <vinayb> for the second one?
 [08:43:03] <aditya_a> yes
 [08:43:05] <rakshith> still_works
+[08:43:49] <vinayb> correct! everything seems to be working fine, right? if expressions are just like your if statements
+[08:43:53] <vinayb> now try this:
+[08:43:58] <vinayb> always_fails() ->
