@@ -138,3 +138,7 @@
 [09:10:33] <vinayb> correct rakshith !
 [09:10:42] <vinayb> you can try it out:
 [09:10:49] <vinayb> module_name:insert(1, []).
+[09:11:11] <vinayb> module_name:insert(5, [1,2,3,4]).
+[09:11:21] <vinayb> module_name:insert(9, [1,2,3,4,9]).
+[09:11:25] <vinayb> what are the outputs/
+[09:11:26] <vinayb> *?
