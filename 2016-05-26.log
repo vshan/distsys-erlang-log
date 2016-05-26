@@ -86,3 +86,6 @@
 [08:53:17] <aditya_a> 1)might_succeed  2)always_does
 [08:53:34] <salman-bhai> Oh waitt
 [08:53:42] <vinayb> correct aditya_a ! so the 'true' clause there acts as else in other languages
+[08:54:02] <vinayb> salman-bhai what happened? :P
+[08:54:21] <vinayb> right! so now as i said earlier if expressions, just like all expressions in Erlang, have to return something
+[08:54:23] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
