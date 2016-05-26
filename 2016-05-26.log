@@ -30,3 +30,7 @@
 [08:36:16] <rakshith> yeah
 [08:36:29] <aditya_a> yes
 [08:36:54] <gautham_> yes
+[08:37:22] <vinayb> alright. If *expressions* in Erlang are a little different, let's see how
+[08:37:28] <vinayb> open up your shell
+[08:37:31] <vinayb> and a file
+[08:37:39] <vinayb> add this function:
