@@ -120,3 +120,5 @@
 [09:04:14] <vinayb> alright, now let's go to case expressions
 [09:04:46] <vinayb> case expressions are extremely powerful! 
 [09:05:11] <vinayb> you can have complex pattern matching with each argument and have guards on top of it
+[09:05:24] <vinayb> let's implement a Set data structure on Lists
+[09:05:41] <vinayb> Set is a List where you can't have duplicate members
