@@ -100,3 +100,5 @@
 [08:56:05] <vinayb>           Animal == tree -> "bark";
 [08:56:13] <vinayb>       true -> "dsadas"
 [08:56:18] <vinayb>       end,
+[08:56:33] <vinayb>       {Animal, "says ", ++ Talk ++ "!"}.
+[08:56:59] <vinayb> sorry about the atrocious indentation, it's hard to, over IRC :P
