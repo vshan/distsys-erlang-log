@@ -102,3 +102,4 @@
 [08:56:18] <vinayb>       end,
 [08:56:33] <vinayb>       {Animal, "says ", ++ Talk ++ "!"}.
 [08:56:59] <vinayb> sorry about the atrocious indentation, it's hard to, over IRC :P
+[08:57:19] <vinayb> salman-bhai, rename your file to erlang_module1.erl
