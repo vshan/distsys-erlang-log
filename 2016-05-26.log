@@ -276,3 +276,4 @@
 [09:43:46] <vinayb> if you happen to convert one, and forget to convert another it will give you 11
 [09:44:02] <vinayb> so it leads to lots of bugs later 
 [09:44:06] <salman-bhai> Ah okay...
+[09:45:15] <vinayb> so these are all kinds of type systems you can have
