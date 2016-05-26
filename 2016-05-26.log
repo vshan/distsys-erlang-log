@@ -211,3 +211,5 @@
 [09:28:09] <rakshith> From erlang website
 [09:28:28] <vinayb> right! those are the various types in Erlang
 [09:28:54] <vinayb> now, what are the various kinds of Type Systems?
+[09:29:33] <vinayb> basically you can have a language's type systems in these four broad categories:
+[09:29:49] <vinayb> Strongly typed, weakly typed, statically typed, dynamically typed
