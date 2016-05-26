@@ -77,3 +77,5 @@
 [08:50:24] <vinayb>   if N =:= 2 -> might_succeed;
 [08:50:30] <vinayb>     true -> always_does
 [08:50:31] <vinayb>   end.
+[08:50:48] <vinayb> see that 'true' clause there? That's effectively the else
+[08:51:01] <vinayb> now try running this function
