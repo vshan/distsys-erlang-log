@@ -161,3 +161,5 @@
 [09:15:44] <vinayb>   clausen ...
 [09:15:51] <vinayb>  end.
 [09:16:12] <vinayb> and remember your clauses can have guards too!
+[09:17:03] <vinayb> let's see how we can combine them:
+[09:17:16] <vinayb> beach(Temperature) ->
