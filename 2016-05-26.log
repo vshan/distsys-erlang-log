@@ -136,3 +136,5 @@
 [09:10:05] <vinayb> correct aditya_a! The first two lines pattern match with an empty set, where we return a List with just that element
 [09:10:13] <rakshith> and then if X is a member of set ,return the set else append X and then return?
 [09:10:33] <vinayb> correct rakshith !
+[09:10:42] <vinayb> you can try it out:
+[09:10:49] <vinayb> module_name:insert(1, []).
