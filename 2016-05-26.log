@@ -262,3 +262,7 @@
 [09:40:54] <salman-bhai> How is weakly typeb bad? @vinayb
 [09:41:08] <salman-bhai> typed*
 [09:41:49] <vinayb> no rakshith , there is seperate types for them, it's just Erlang allows you to do operations between them
+[09:42:08] <vinayb> BUT for all intents and purposes: this allows you to write general programs
+[09:42:09] <salman-bhai> The =:= and ==
+[09:42:19] <vinayb> ya there is a distinction
+[09:42:23] <salman-bhai> THat's where Erlang separates them ryt, @Rakshith?
