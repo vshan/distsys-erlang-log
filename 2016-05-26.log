@@ -270,3 +270,5 @@
 [09:42:38] <rakshith> yeah
 [09:42:47] <vinayb> you never want "1" + 10 to give you 11
 [09:42:55] <vinayb> this can lead to lots and lots of bugs!
+[09:43:04] <vinayb> say you take the input from user as string
+[09:43:14] <vinayb> say you take two inputs
