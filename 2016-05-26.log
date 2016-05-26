@@ -114,3 +114,5 @@
 [09:00:27] <aditya_a> remove the ,
 [09:00:38] <rakshith> ah
 [09:01:11] <vinayb> ah yes, nice catch aditya_a ! remove the comma after "says "
+[09:02:49] <vinayb> so what are the outputs guys?
+[09:02:52] <aditya_a> {dog,"says bark!"}{tree,"says bark!"}{nothing,"says dsadas!"}
