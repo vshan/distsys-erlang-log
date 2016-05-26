@@ -34,3 +34,7 @@
 [08:37:28] <vinayb> open up your shell
 [08:37:31] <vinayb> and a file
 [08:37:39] <vinayb> add this function:
+[08:37:52] <vinayb> always_true() -> 
+[08:38:02] <vinayb>   if 1 =:= 1 ->
+[08:38:06] <vinayb>     works
+[08:38:13] <vinayb>   end.
