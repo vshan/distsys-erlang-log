@@ -219,3 +219,5 @@
 [09:31:35] <vinayb> for example
 [09:31:47] <vinayb> if you try doing "1" + 10 in Erlang
 [09:31:53] <vinayb> you'll get an error
+[09:32:14] <vinayb> because you're trying to add a String and an Integer, which is illegal in Erlang
+[09:32:24] <vinayb> Hence, Erlang is *strongly typed*.
