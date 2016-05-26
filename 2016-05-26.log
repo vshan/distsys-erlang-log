@@ -166,3 +166,5 @@
 [09:17:23] <vinayb>   case Temperature of 
 [09:17:38] <vinayb>     {celcius, N} when N >= 20, N =< 45 ->
 [09:17:49] <vinayb>       'favourable';
+[09:18:12] <vinayb>     {kelvin, N} when N >= 293, N =< 318 ->
+[09:18:22] <vinayb>       'scientifically favourable';
