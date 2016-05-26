@@ -169,3 +169,7 @@
 [09:18:12] <vinayb>     {kelvin, N} when N >= 293, N =< 318 ->
 [09:18:22] <vinayb>       'scientifically favourable';
 [09:18:41] <vinayb>     {fahrenheit, N} when N >= 68, N =< 113 ->
+[09:18:59] <vinayb>       'favourable in imperial countries';
+[09:19:09] <vinayb>     _ -> 
+[09:19:16] <vinayb>       'avoid beach'
+[09:19:20] <vinayb>   end.
