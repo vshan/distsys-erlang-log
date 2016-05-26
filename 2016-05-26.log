@@ -149,3 +149,6 @@
 [09:13:12] <vinayb> are you sure? ;)
 [09:13:26] <rakshith> How is it arranging itself aditya_a? :P
 [09:13:34] <rakshith> [5,1,2,3,4]
+[09:13:44] <vinayb> the output to second one is [5,1,2,3,4] as rakshith said
+[09:13:59] <vinayb> because we append it to the beginning in the line false -> [x|Set]
+[09:14:04] <vinayb> remember your pattern matching guys!
