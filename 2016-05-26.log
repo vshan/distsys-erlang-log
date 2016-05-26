@@ -70,3 +70,5 @@
 [08:47:47] <rakshith> exception error
 [08:48:00] <vinayb> correct! any guesses why that happens?
 [08:48:34] <rakshith> there is no else clause?
+[08:49:28] <vinayb> alright, remember how i said all expressions in Erlang are supposed to return something? that's true for if expressions too! When no matching clause can be found, it's an error because Erlang doesn't know what the expression should return
+[08:49:40] <vinayb> yes rakshith , in Erlang there is no else clause
