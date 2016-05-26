@@ -200,3 +200,12 @@
 [09:27:43] <salman-bhai> Atom
 [09:27:43] <rakshith>         | Atom
 [09:27:45] <rakshith>         | Bitstring
+[09:27:49] <rakshith>         | float()
+[09:27:53] <rakshith>         | Fun
+[09:27:55] <rakshith>         | Integer
+[09:27:57] <rakshith>         | List
+[09:27:59] <rakshith>         | Map
+[09:28:03] <rakshith>         | Tuple
+[09:28:05] <rakshith>         | Union
+[09:28:07] <rakshith>         | UserDefined
+[09:28:09] <rakshith> From erlang website
