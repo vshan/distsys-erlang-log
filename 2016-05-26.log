@@ -244,3 +244,7 @@
 [09:36:24] <vinayb> Dynamically typed vs Statically typed
 [09:36:58] <vinayb> Statically typed means you're explicitly specifying what type some variable is, what type a function returns, etc
 [09:37:02] <vinayb> eg: C
+[09:37:14] <vinayb> you can't just do x, you have to do int x, float y etc
+[09:37:23] <vinayb> you have to specify the return type
+[09:37:34] <vinayb> you have to specify what types the parameters are 
+[09:37:43] <vinayb> it can be cumbersome at times
