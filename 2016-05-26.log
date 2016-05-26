@@ -25,3 +25,5 @@
 [08:34:38] *** vinayb changes topic to 'Distributed Systems Programming with Erlang | Today's log: https://goo.gl/fEkQJ3'
 [08:35:32] <vinayb> okay let's begin
 [08:35:37] <vinayb> today's session won't be too long
+[08:35:46] <vinayb> So let's come to if expressions
+[08:36:04] <vinayb> everybody here knows if statements in C right?
