@@ -277,3 +277,31 @@
 [09:44:02] <vinayb> so it leads to lots of bugs later 
 [09:44:06] <salman-bhai> Ah okay...
 [09:45:15] <vinayb> so these are all kinds of type systems you can have
+[09:45:47] <vinayb> and to finish off today's session, the way you comment a line in Erlang is
+[09:45:53] <vinayb> %%
+[09:46:12] <vinayb> two percentage symbols
+[09:46:21] <salman-bhai> %%Thank_you_:p
+[09:46:32] <aditya_a> %%Thankyou!!!
+[09:46:38] <vinayb> and that's all for today :)
+[09:46:44] <vinayb> you're welcome guys!
+[09:46:50] <rakshith> %%Thanks!
+[09:46:52] <vinayb> Please play around with ifs and case!
+[09:47:01] <vinayb> you can do lots of fun things with them :)
+[09:47:17] <vinayb> especially combined with Pattern Matching
+[09:47:50] <vinayb> Next session, we'll see Recursion, one of the landmark, if not THE landmark powerhouse in Functional Languages
+[09:48:01] <vinayb> See ya everyone!
+[09:48:21] <salman-bhai> See ya, bye!
+[09:48:30] *** Quits: salman-bhai (b63a36dd@gateway/web/freenode/ip.182.58.54.221) (Quit: Page closed)
+[09:48:45] <rakshith> no loops in functional languages right?
+[09:49:02] <vinayb> yes, no such things as loops in functional languages. 
+[09:49:22] <vinayb> The property of iterating over something is captured using Recursion, we'll see eventually :)
+[09:50:14] *** Quits: aditya_a (3d031604@gateway/web/freenode/ip.61.3.22.4) (Quit: Page closed)
+[09:51:26] <rakshith> yeah.. But recursion has an inherent disadvantage right? In every call separate memory is created and also the previous data also has to be stored. Might lead to stack overflow?
+[09:52:08] <rakshith> esp if the recursion is very deep
+[09:52:24] <vinayb> Functional language compilers do a lot of optimization in behind. There is something called tail recursion which prevents a lot of these memory issues
+[09:52:33] <vinayb> FL Compilers do a lot of magic behind the scenes
+[09:53:21] <rakshith> Aha!
+[09:53:44] <vinayb> we'll get to it soon ;)
+[09:53:53] <vinayb> and i'll go over in detail about it
+[09:54:00] <rakshith> about?
+[09:54:13] <vinayb> Recursion, tradeoffs, advantages etc
