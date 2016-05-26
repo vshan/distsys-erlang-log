@@ -152,3 +152,4 @@
 [09:13:44] <vinayb> the output to second one is [5,1,2,3,4] as rakshith said
 [09:13:59] <vinayb> because we append it to the beginning in the line false -> [x|Set]
 [09:14:04] <vinayb> remember your pattern matching guys!
+[09:14:22] <vinayb> *[X|Set]
