@@ -58,3 +58,7 @@
 [08:43:49] <vinayb> correct! everything seems to be working fine, right? if expressions are just like your if statements
 [08:43:53] <vinayb> now try this:
 [08:43:58] <vinayb> always_fails() ->
+[08:44:15] <vinayb>   if 1 =:= 2, 1 =:= 1 ->
+[08:44:17] <vinayb>     fails
+[08:44:19] <vinayb>   end.
+[08:44:25] <vinayb> what's the output?
