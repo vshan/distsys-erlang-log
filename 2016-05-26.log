@@ -89,3 +89,6 @@
 [08:54:02] <vinayb> salman-bhai what happened? :P
 [08:54:21] <vinayb> right! so now as i said earlier if expressions, just like all expressions in Erlang, have to return something
 [08:54:23] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
+[08:54:29] <vinayb> now, that can be captured too
+[08:54:37] <vinayb> try this function:
+[08:54:41] <salman-bhai> 7> c(erlang_module1). erlang_module1.beam: Module name 'erlang_module' does not match file name 'erlang_module1'
