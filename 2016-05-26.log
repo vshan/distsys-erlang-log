@@ -163,3 +163,6 @@
 [09:16:12] <vinayb> and remember your clauses can have guards too!
 [09:17:03] <vinayb> let's see how we can combine them:
 [09:17:16] <vinayb> beach(Temperature) ->
+[09:17:23] <vinayb>   case Temperature of 
+[09:17:38] <vinayb>     {celcius, N} when N >= 20, N =< 45 ->
+[09:17:49] <vinayb>       'favourable';
