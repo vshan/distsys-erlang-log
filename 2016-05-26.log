@@ -47,3 +47,7 @@
 [08:41:35] <vinayb> right!
 [08:41:38] <vinayb> now redefine it
 [08:41:41] <vinayb> always_works() ->
+[08:41:57] <vinayb>   if 1 =:= 2; 1 =:= 1 ->
+[08:42:05] <vinayb>     still_works
+[08:42:07] <vinayb>   end.
+[08:42:15] <vinayb> what's the output?
