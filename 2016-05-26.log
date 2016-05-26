@@ -1,0 +1,23 @@
+[07:55:11] *** Joins: rakshith (~hehaichi@103.194.14.43)
+[08:10:38] <vinayb> hey guys!
+[08:18:00] <vinayb> help_me(Animal) ->
+[08:18:01] <vinayb> Talk = if Animal == cat  -> "meow";
+[08:18:01] <vinayb> Animal == beef -> "mooo";
+[08:18:01] <vinayb> Animal == dog  -> "bark";
+[08:18:01] <vinayb> Animal == tree -> "bark";
+[08:18:03] <vinayb> true -> "fgdadfgna"
+[08:18:05] <vinayb> end,
+[08:18:07] <vinayb> {Animal, "says " ++ Talk ++ "!"}.
+[08:19:16] *** Joins: aditya (3d031604@gateway/web/freenode/ip.61.3.22.4)
+[08:19:19] *** Joins: gautham_ (75c671ab@gateway/web/freenode/ip.117.198.113.171)
+[08:20:52] *** Quits: rakshith (~hehaichi@103.194.14.43) (Ping timeout: 258 seconds)
+[08:21:26] *** Joins: rakshith (67c20e2b@gateway/web/freenode/ip.103.194.14.43)
+[08:22:49] *** Joins: rakshith_ (~hehaichi@103.194.14.43)
+[08:23:28] *** Parts: rakshith (67c20e2b@gateway/web/freenode/ip.103.194.14.43) ()
+[08:23:41] *** Quits: rakshith_ (~hehaichi@103.194.14.43) (Client Quit)
+[08:24:00] *** Joins: rakshith (~hehaichi@103.194.14.43)
+[08:29:12] *** Quits: aditya (3d031604@gateway/web/freenode/ip.61.3.22.4) (Quit: Page closed)
+[08:29:41] *** Joins: aditya_a (3d031604@gateway/web/freenode/ip.61.3.22.4)
+[08:31:00] <vinayb> hey guys we'll start in 5 mins
+[08:31:47] <vinayb> how's all of yours vacations going? :P
+[08:32:51] <rakshith> What's the idea behind assignments? :P
