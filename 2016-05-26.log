@@ -79,3 +79,5 @@
 [08:50:31] <vinayb>   end.
 [08:50:48] <vinayb> see that 'true' clause there? That's effectively the else
 [08:51:01] <vinayb> now try running this function
+[08:51:25] <vinayb> module_name:maybe_true(2).
+[08:51:35] <vinayb> module_name:maybe_true(3).
