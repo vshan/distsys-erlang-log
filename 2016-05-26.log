@@ -153,3 +153,4 @@
 [09:13:59] <vinayb> because we append it to the beginning in the line false -> [x|Set]
 [09:14:04] <vinayb> remember your pattern matching guys!
 [09:14:22] <vinayb> *[X|Set]
+[09:15:06] <vinayb> so that's the syntax of case...of expressions
