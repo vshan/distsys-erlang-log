@@ -176,3 +176,4 @@
 [09:20:22] <vinayb> what's the output to these?:
 [09:20:41] <vinayb> beach({celcius, 30}).
 [09:20:56] <vinayb> beach({kelvin, 300}).
+[09:21:22] <vinayb> beach({fahrenheit, 200}).
