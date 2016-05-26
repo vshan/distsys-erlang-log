@@ -74,3 +74,6 @@
 [08:49:40] <vinayb> yes rakshith , in Erlang there is no else clause
 [08:49:52] <vinayb> so this is how else clauses are made in Erlang:
 [08:50:12] <vinayb> maybe_true(N) ->
+[08:50:24] <vinayb>   if N =:= 2 -> might_succeed;
+[08:50:30] <vinayb>     true -> always_does
+[08:50:31] <vinayb>   end.
