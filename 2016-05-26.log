@@ -185,3 +185,7 @@
 [09:24:11] <vinayb> correct rakshith , aditya_a and salman-bhai !
 [09:24:34] <vinayb> so this is how we can combine Pattern Matching, Guards, Case expressions etc
 [09:25:06] <vinayb> so we're pretty much done with the syntax of Erlang :D
+[09:25:18] <vinayb> this is all there is to it!
+[09:25:21] <vinayb> we'll see more soon
+[09:25:25] <vinayb> in Concurrency
+[09:25:33] <vinayb> but in normal Erlang, this is all there is
