@@ -43,3 +43,7 @@
 [08:40:58] <salman-bhai> Sorry for being late.
 [08:41:06] <vinayb> no problem.
 [08:41:10] <vinayb> guys, what's the output?
+[08:41:27] <rakshith> works
+[08:41:35] <vinayb> right!
+[08:41:38] <vinayb> now redefine it
+[08:41:41] <vinayb> always_works() ->
