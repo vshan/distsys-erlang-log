@@ -190,3 +190,4 @@
 [09:25:25] <vinayb> in Concurrency
 [09:25:33] <vinayb> but in normal Erlang, this is all there is
 [09:25:52] <vinayb> Before we move on to Recursion and Higher Order Functions, I want to talk a bit about types
+[09:26:27] <vinayb> Can anyone tell what are the different kinds of types?
