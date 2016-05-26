@@ -116,3 +116,4 @@
 [09:01:11] <vinayb> ah yes, nice catch aditya_a ! remove the comma after "says "
 [09:02:49] <vinayb> so what are the outputs guys?
 [09:02:52] <aditya_a> {dog,"says bark!"}{tree,"says bark!"}{nothing,"says dsadas!"}
+[09:03:27] <vinayb> correct! now you've seen how to bind the result of an if expression to a variable, just like it's possible to do with any other expression
