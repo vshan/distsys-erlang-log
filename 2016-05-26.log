@@ -118,3 +118,4 @@
 [09:02:52] <aditya_a> {dog,"says bark!"}{tree,"says bark!"}{nothing,"says dsadas!"}
 [09:03:27] <vinayb> correct! now you've seen how to bind the result of an if expression to a variable, just like it's possible to do with any other expression
 [09:04:14] <vinayb> alright, now let's go to case expressions
+[09:04:46] <vinayb> case expressions are extremely powerful! 
