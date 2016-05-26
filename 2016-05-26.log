@@ -133,3 +133,6 @@
 [09:07:49] <vinayb> before we proceed, tell me what do the first two lines do?
 [09:09:10] <aditya_a> for an empty list we get a list  with only X
 [09:09:14] <rakshith> insert the element into the list and then call the same function with X and Set?
+[09:10:05] <vinayb> correct aditya_a! The first two lines pattern match with an empty set, where we return a List with just that element
+[09:10:13] <rakshith> and then if X is a member of set ,return the set else append X and then return?
+[09:10:33] <vinayb> correct rakshith !
