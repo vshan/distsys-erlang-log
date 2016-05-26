@@ -127,3 +127,6 @@
 [09:06:09] <vinayb>   [X];
 [09:06:17] <vinayb> insert(X, Set) ->
 [09:06:25] <vinayb>   case lists:member(X, Set) of 
+[09:06:32] <vinayb>     true -> Set;
+[09:06:40] <vinayb>     false -> [X|Set]
+[09:06:43] <vinayb>   end.
