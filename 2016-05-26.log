@@ -213,3 +213,5 @@
 [09:28:54] <vinayb> now, what are the various kinds of Type Systems?
 [09:29:33] <vinayb> basically you can have a language's type systems in these four broad categories:
 [09:29:49] <vinayb> Strongly typed, weakly typed, statically typed, dynamically typed
+[09:31:07] <vinayb> Strongly typed means, the language won't do too many implicit type conversions for you
+[09:31:18] <vinayb> it means, there are a lot of types
