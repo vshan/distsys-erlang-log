@@ -146,3 +146,6 @@
 [09:12:16] <vinayb> btw lists:member/2 is a function defined in lists module which checks if an element exists in a List
 [09:12:45] <vinayb> correct aditya_a ! so as you can see in the last output, an additional 9 did not get added to the List
 [09:12:46] <aditya_a> *[1,2,3,4] for second one!
+[09:13:12] <vinayb> are you sure? ;)
+[09:13:26] <rakshith> How is it arranging itself aditya_a? :P
+[09:13:34] <rakshith> [5,1,2,3,4]
