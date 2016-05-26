@@ -253,3 +253,6 @@
 [09:38:45] <aditya_a> dynamic
 [09:38:46] <rakshith> dynamic
 [09:39:17] <salman-bhai> dynamic
+[09:40:02] <vinayb> correct! So Erlang is a strongly, dynamically typed language! Which happens to be a very good combination: You can generalize what your inputs are, your outputs are, it's less cumbersome, but being strongly typed, there ARE types in the background preventing you from doing illegal actions!
+[09:40:07] <vinayb> Best of both worlds!
+[09:40:18] <vinayb> Erlang: strongly, dynamically typed
