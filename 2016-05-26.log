@@ -131,3 +131,5 @@
 [09:06:40] <vinayb>     false -> [X|Set]
 [09:06:43] <vinayb>   end.
 [09:07:49] <vinayb> before we proceed, tell me what do the first two lines do?
+[09:09:10] <aditya_a> for an empty list we get a list  with only X
+[09:09:14] <rakshith> insert the element into the list and then call the same function with X and Set?
