@@ -106,3 +106,7 @@
 [08:57:42] <salman-bhai> JUst did
 [08:57:51] <salman-bhai> Ohwait
 [08:58:11] <vinayb> guys, i want the output to these:
+[08:58:46] <vinayb> module_name:animal_sounds(dog).
+[08:58:46] <vinayb> module_name:animal_sounds(tree).
+[08:58:46] <vinayb> module_name:animal_sounds(nothing).
+[08:58:50] <salman-bhai> Wait I'll pm u
