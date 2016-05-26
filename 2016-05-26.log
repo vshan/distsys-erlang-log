@@ -191,3 +191,12 @@
 [09:25:33] <vinayb> but in normal Erlang, this is all there is
 [09:25:52] <vinayb> Before we move on to Recursion and Higher Order Functions, I want to talk a bit about types
 [09:26:27] <vinayb> Can anyone tell what are the different kinds of types?
+[09:27:41] <rakshith> Type :: any()                 %% The top type, the set of all Erlang terms
+[09:27:42] <rakshith>         | none()                %% The bottom type, contains no terms
+[09:27:42] <rakshith>         | pid()
+[09:27:42] <rakshith>         | port()
+[09:27:42] <rakshith>         | reference()
+[09:27:42] <rakshith>         | []                    %% nil
+[09:27:43] <salman-bhai> Atom
+[09:27:43] <rakshith>         | Atom
+[09:27:45] <rakshith>         | Bitstring
