@@ -266,3 +266,7 @@
 [09:42:09] <salman-bhai> The =:= and ==
 [09:42:19] <vinayb> ya there is a distinction
 [09:42:23] <salman-bhai> THat's where Erlang separates them ryt, @Rakshith?
+[09:42:32] <vinayb> salman-bhai: , weakly typed language are not that great because
+[09:42:38] <rakshith> yeah
+[09:42:47] <vinayb> you never want "1" + 10 to give you 11
+[09:42:55] <vinayb> this can lead to lots and lots of bugs!
