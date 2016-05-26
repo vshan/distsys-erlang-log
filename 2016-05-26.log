@@ -251,3 +251,5 @@
 [09:38:25] <vinayb> Dynamically typed is the exact opposite: you don't have to specify explicitly what type a variable is, what type a function returns, etc
 [09:38:36] <vinayb> is Erlang dynamically typed or statically? ;)
 [09:38:45] <aditya_a> dynamic
+[09:38:46] <rakshith> dynamic
+[09:39:17] <salman-bhai> dynamic
