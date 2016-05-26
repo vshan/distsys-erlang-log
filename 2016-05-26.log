@@ -261,3 +261,4 @@
 [09:40:36] <vinayb> JavaScript: weakly, dynamically typed
 [09:40:54] <salman-bhai> How is weakly typeb bad? @vinayb
 [09:41:08] <salman-bhai> typed*
+[09:41:49] <vinayb> no rakshith , there is seperate types for them, it's just Erlang allows you to do operations between them
