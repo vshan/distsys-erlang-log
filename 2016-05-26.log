@@ -242,3 +242,5 @@
 [09:36:10] <vinayb> Now, ;et
 [09:36:15] <vinayb> *Now, let's come to
 [09:36:24] <vinayb> Dynamically typed vs Statically typed
+[09:36:58] <vinayb> Statically typed means you're explicitly specifying what type some variable is, what type a function returns, etc
+[09:37:02] <vinayb> eg: C
