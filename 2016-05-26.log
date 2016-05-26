@@ -113,3 +113,4 @@
 [09:00:16] <rakshith> syntax error before ++
 [09:00:27] <aditya_a> remove the ,
 [09:00:38] <rakshith> ah
+[09:01:11] <vinayb> ah yes, nice catch aditya_a ! remove the comma after "says "
