@@ -97,3 +97,6 @@
 [08:55:25] <vinayb>   Talk = if Animal == cat -> "meow";
 [08:55:45] <vinayb>           Animal == cow -> "mooo";
 [08:55:55] <vinayb>         Animal == dog -> "bark";
+[08:56:05] <vinayb>           Animal == tree -> "bark";
+[08:56:13] <vinayb>       true -> "dsadas"
+[08:56:18] <vinayb>       end,
