@@ -95,3 +95,5 @@
 [08:55:01] <salman-bhai> error
 [08:55:02] <vinayb> animal_sounds(Animal) ->
 [08:55:25] <vinayb>   Talk = if Animal == cat -> "meow";
+[08:55:45] <vinayb>           Animal == cow -> "mooo";
+[08:55:55] <vinayb>         Animal == dog -> "bark";
