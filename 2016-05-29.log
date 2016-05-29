@@ -208,3 +208,5 @@
 [12:34:02] <akshayrevankar> you very need to know the existence of all elements :D so it cant be lower... :P
 [12:34:17] <vilas_m> Yea xD
 [12:34:20] <akshayrevankar> so ya.. what could be the major disadvantage...
+[12:34:49] <aditya> No idea!
+[12:35:01] <akshayrevankar> so you can see that to get the final result you need to travel till the last recursive call and start returning all the values back.. right?
