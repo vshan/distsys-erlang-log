@@ -396,3 +396,4 @@
 [13:31:16] <akshayrevankar> and this will give you an insight into the importance of tail recursion
 [13:31:19] <salman-bhai> -> tail_factorial(N-1,N*past)
 [13:31:28] <salman-bhai> Ah okay
+[13:32:26] <akshayrevankar> ok @vilas, can u write the fibonacci function using recursion (normal)
