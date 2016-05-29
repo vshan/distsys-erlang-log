@@ -532,3 +532,5 @@
 [14:09:03] <aditya> {55874862,267914296}{0,267914296}
 [14:09:05] <akshayrevankar> not milli
 [14:09:20] <akshayrevankar> so you get the time required in microseconds and the results
+[14:09:34] <akshayrevankar> so its a handy tool to check your code runtime
+[14:09:44] <salman-bhai> Why is it different?
