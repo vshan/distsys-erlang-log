@@ -131,3 +131,6 @@
 [12:12:42] <akshayrevankar> ok cool...
 [12:13:35] <akshayrevankar> so this is a list [1,2,3,4] can you tell me the most expanded way in which i can represent it in erlang ie.. composing it of a basic single sized list element..
 [12:15:05] <salman-bhai> [4|[3 | [2 | [1 | [] ] ] ]]
+[12:15:18] <salman-bhai> Did you mean this?
+[12:15:39] <salman-bhai> The order should be reversed*
+[12:15:40] <vilas_m> The order should be reverse right?
