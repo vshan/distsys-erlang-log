@@ -116,3 +116,4 @@
 [12:06:02] <vilas_m> For every number, if the zero case was first then it would have to be checked each time? I was thinking it could skip checking for 0 if the zero case was later.
 [12:06:24] <vilas_m> Oh ok
 [12:07:30] <akshayrevankar> ya i agree.. its nearly the same... its just once case where it goes down.. not a big deal here.. doesnt matter to us much.. but when we see further examples, we will understand more about the timing..
+[12:08:01] <akshayrevankar> ok so we wrote our first recursion function which was factorial..
