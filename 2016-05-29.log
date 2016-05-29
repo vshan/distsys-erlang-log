@@ -413,3 +413,5 @@
 [13:34:27] <salman-bhai> fib(1) -> 0; fib(2) -> 1;
 [13:35:32] <akshayrevankar> ya..
 [13:35:32] <salman-bhai> fib(N) -> fib(N-1) + fib(N-2).
+[13:36:18] <salman-bhai> fib(N) when N > 2 -> fib(N-1) + fib(N-2).
+[13:36:32] <salman-bhai> That's it.
