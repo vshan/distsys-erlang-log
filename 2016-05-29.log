@@ -299,3 +299,5 @@
 [13:06:31] <m_gautham> ok :)
 [13:06:38] <salman-bhai> sure
 [13:06:40] <akshayrevankar> ok
+[13:07:37] <akshayrevankar> as salman said as you guys have learnt C, thats what would happen.. the function call stack keeps increasing
+[13:07:47] <akshayrevankar> only the local calculation is reduced..
