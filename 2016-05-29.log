@@ -93,3 +93,4 @@
 [11:59:40] <akshayrevankar> fac(0)->1.
 [12:00:07] <akshayrevankar> for erlang it is like, first check if its a Number N, if yes execute the first statement..
 [12:00:18] <akshayrevankar> elseif N=0 then return 1
+[12:00:36] <akshayrevankar> so you notice that the first statement is always true, the second will never get executed.
