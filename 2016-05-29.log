@@ -214,3 +214,4 @@
 [12:35:25] <akshayrevankar> till u reach the length([])
 [12:36:10] <akshayrevankar> but you know that you can  do the 1+1 and then next stage the 2+1 and so on..
 [12:36:55] <akshayrevankar> see the 1+1 computation wont happen, because the second line has to return (1+ length([3 | [4]]))..
+[12:37:18] <akshayrevankar> it cant just say that.. for now you take the 1, and then i will send the rest for you to calculate later.. right? :D
