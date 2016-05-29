@@ -41,3 +41,5 @@
 [11:43:04] <akshayrevankar> ok.. can someone identify a small correction in code written by vilas..
 [11:43:21] <aditya> o factorial!
 [11:43:34] <akshayrevankar> correct aditya..
+[11:43:47] <akshayrevankar> just a matter of n==0 instead of n==1
+[11:44:07] <akshayrevankar> so this condition of n==0 is called the base case for recursion..
