@@ -122,3 +122,4 @@
 [12:09:13] <akshayrevankar> i want adarsh and gautham to reply..
 [12:09:34] <akshayrevankar> first start by thinking of the base condition.. what could that be?
 [12:10:18] <aditya> length([]) -> 0; I  think?
+[12:10:42] <akshayrevankar> yes correct... length of an empty list is 0..
