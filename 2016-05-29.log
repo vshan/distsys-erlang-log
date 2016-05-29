@@ -94,3 +94,7 @@
 [12:00:07] <akshayrevankar> for erlang it is like, first check if its a Number N, if yes execute the first statement..
 [12:00:18] <akshayrevankar> elseif N=0 then return 1
 [12:00:36] <akshayrevankar> so you notice that the first statement is always true, the second will never get executed.
+[12:01:15] <akshayrevankar> so you either do it by giving a condition that fac(N) when N>0
+[12:01:16] <akshayrevankar> OR
+[12:01:24] <akshayrevankar> you write fac(0)->1;
+[12:01:26] <akshayrevankar> and then
