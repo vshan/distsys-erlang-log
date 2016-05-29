@@ -210,3 +210,5 @@
 [12:34:20] <akshayrevankar> so ya.. what could be the major disadvantage...
 [12:34:49] <aditya> No idea!
 [12:35:01] <akshayrevankar> so you can see that to get the final result you need to travel till the last recursive call and start returning all the values back.. right?
+[12:35:15] <akshayrevankar> the initial 1 + length([2 | [3,4]]) wontget complete
+[12:35:25] <akshayrevankar> till u reach the length([])
