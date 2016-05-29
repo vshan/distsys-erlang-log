@@ -88,3 +88,6 @@
 [11:58:52] <akshayrevankar> the pattern matching works in the same order as you write the statement..
 [11:59:09] <akshayrevankar> you can consider it to be like a if-elseif ladder..
 [11:59:18] <akshayrevankar> Imagine this situation:
+[11:59:24] <akshayrevankar> your code is:
+[11:59:34] <akshayrevankar> fac(N)->N*fac(N-1);
+[11:59:40] <akshayrevankar> fac(0)->1.
