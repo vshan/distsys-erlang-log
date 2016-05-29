@@ -36,3 +36,5 @@
 [11:40:31] <akshayrevankar> aditya can write down the C like
 [11:40:39] <akshayrevankar> and vilas the recursion based
 [11:41:19] <akshayrevankar> I want others to also acknowledge and reply... dont be a spectator only.. If you dont know anything, ask of immediately..
+[11:41:34] <aditya> fact=1; while(n){ fact*=n; n--;}
+[11:41:55] <vilas_m> int fact (int n) { if(n==1) return 1; else return(n*fact(n-1)); }
