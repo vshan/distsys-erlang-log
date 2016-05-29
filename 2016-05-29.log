@@ -201,3 +201,6 @@
 [12:31:40] <akshayrevankar> so now can anyone tell me what is the disadvantage of the above way of doing the recursion?
 [12:32:33] <vilas_m> Order N for finding the length of a list?
 [12:32:56] <akshayrevankar> ok.. do you have a lower order for doing it? o.O
+[12:32:58] <vilas_m> Ok No :P Sorry
+[12:33:15] <akshayrevankar> :D
+[12:33:25] <vilas_m> Na. Was thinking in terms of log N lines :P
