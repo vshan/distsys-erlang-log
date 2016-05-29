@@ -218,3 +218,4 @@
 [12:37:46] <akshayrevankar> a return means the computation in that part is done and value is completely returned..
 [12:38:38] <akshayrevankar> did u understand that?
 [12:38:42] <vilas_m> Yup
+[12:39:31] <akshayrevankar> it looks above as if the 1 +1 and 1+ 1 + 1could be calculated.. but it cant as the the 1+ is bound to the next function call.. it has to be calculated and then only it can be returned..
