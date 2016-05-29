@@ -272,3 +272,5 @@
 [12:57:15] <akshayrevankar> which is our result
 [12:57:20] <salman-bhai> yeah
 [12:57:52] <akshayrevankar> ok.. now do you find a reduction in call stack or the function local variable or both?
+[12:59:24] <salman-bhai> function local variable
+[12:59:35] <akshayrevankar> ok others..
