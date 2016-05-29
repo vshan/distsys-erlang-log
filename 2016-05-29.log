@@ -45,3 +45,5 @@
 [11:44:07] <akshayrevankar> so this condition of n==0 is called the base case for recursion..
 [11:44:19] <akshayrevankar> which is when the recursion stops..
 [11:44:54] <akshayrevankar> today we will first start by writing a factorial code in erlang..
+[11:45:16] *** Joins: m_gautham (75dd6f0f@gateway/web/freenode/ip.117.221.111.15)
+[11:45:17] <akshayrevankar> guys make a erl file with module name "recursion"
