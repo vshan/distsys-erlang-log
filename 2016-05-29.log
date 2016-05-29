@@ -325,3 +325,7 @@
 [13:12:49] <akshayrevankar> correct?
 [13:13:29] <akshayrevankar> so obviously you will have a order N function call.. but the return wouldnt need to propagate back in the same way as it came
 [13:13:34] <aditya> In d earlier recursion it was func1=1+func2 so they werent equal?
+[13:13:58] <akshayrevankar> ya is the value returned by func1 same as func 2
+[13:14:01] <akshayrevankar> no right
+[13:14:11] <akshayrevankar> if the value returned by func2 was 4
+[13:14:17] <akshayrevankar> the value by func1 will be 5
