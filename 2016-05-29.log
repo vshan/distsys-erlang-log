@@ -290,3 +290,5 @@
 [13:04:18] <akshayrevankar> 5:  tail_length([],4)->4.
 [13:04:31] <akshayrevankar> ok so see in function 4, the value is the result of function 5..
 [13:04:42] <akshayrevankar> so when 4 is returned, it will be returned to the call of function 4..
+[13:05:02] <akshayrevankar> then function 4 will return the value to its call at function 3..
+[13:05:23] <akshayrevankar> though we have 2 values stored.. the function call will till need to propagate N times right?
