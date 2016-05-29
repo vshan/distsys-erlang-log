@@ -345,3 +345,6 @@
 [13:16:01] <salman-bhai> yes
 [13:16:11] <akshayrevankar> so what should the tail_length([1,2,3,4],0) return? the same value which will be returned by tail_length([2,3,4],1+0)
 [13:16:20] <akshayrevankar> correct?
+[13:16:29] <salman-bhai> yes
+[13:16:34] <akshayrevankar> now the next call is tail_length([2,3,4],1+0)
+[13:16:45] <akshayrevankar> which calls ail_length([3,4],1+1).
