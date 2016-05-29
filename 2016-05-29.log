@@ -415,3 +415,6 @@
 [13:35:32] <salman-bhai> fib(N) -> fib(N-1) + fib(N-2).
 [13:36:18] <salman-bhai> fib(N) when N > 2 -> fib(N-1) + fib(N-2).
 [13:36:32] <salman-bhai> That's it.
+[13:36:44] <akshayrevankar> ok cool
+[13:36:52] <akshayrevankar> N>2 doesnt matter
+[13:36:56] <akshayrevankar> the previous one will do
