@@ -249,3 +249,4 @@
 [12:50:07] <akshayrevankar> ok so now lets trace the function..
 [12:50:42] <akshayrevankar> can someone write the first 2 trace for tail_length([1,2,3,4]).
 [12:50:50] <akshayrevankar> @vilas
+[12:51:31] <vilas_m> tail_length([1,2,3,4],0) = tail_length([2,3,4],1).
