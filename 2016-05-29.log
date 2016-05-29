@@ -171,3 +171,5 @@
 [12:25:01] <akshayrevankar> ahh. thats right
 [12:25:08] <akshayrevankar> thats why i asked :D
 [12:25:51] <akshayrevankar> I know its difficult for you guys to understand how to get the functions, but with more examples, you will get the trick to do it..
+[12:26:27] <akshayrevankar> so our function is length([])->0; length([_|L])->1+length(L).
+[12:26:32] <akshayrevankar> so lets trace this..
