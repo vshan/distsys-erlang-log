@@ -452,3 +452,6 @@
 [13:50:00] <akshayrevankar> ?
 [13:50:15] <salman-bhai> I didn't understand
 [13:50:18] <salman-bhai> How?
+[13:50:52] <akshayrevankar> ya see.. now in this you need the last two values for your next computation
+[13:50:54] <akshayrevankar> right?
+[13:51:05] <akshayrevankar> so your function call needs to keep in two values..
