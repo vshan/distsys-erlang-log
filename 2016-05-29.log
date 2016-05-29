@@ -114,3 +114,4 @@
 [12:05:44] <akshayrevankar> if you do it as fac(0)->1; fac(N)->N*fac(N-1). this would involve two pattern matching..
 [12:06:00] <akshayrevankar> so i guess the 2nd one is faster..
 [12:06:02] <vilas_m> For every number, if the zero case was first then it would have to be checked each time? I was thinking it could skip checking for 0 if the zero case was later.
+[12:06:24] <vilas_m> Oh ok
