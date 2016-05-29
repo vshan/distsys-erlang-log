@@ -475,3 +475,5 @@
 [13:56:28] <akshayrevankar>  tail_fib(N, Result, Next) -> tail_fib(N-1, Next, Result+Next).
 [13:56:45] <akshayrevankar> #### COPY THE ABOVE TO IT.. ITS THE SAME AS WE WROTE BEFORE..
 [13:57:39] <akshayrevankar> is everyone done with saving the file?
+[13:58:56] <aditya> 1 min
+[13:59:01] <akshayrevankar> ok
