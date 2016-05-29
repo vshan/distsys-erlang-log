@@ -76,3 +76,4 @@
 [11:53:56] <vilas_m> fac(N) when N >=1 -> N*fac(N-1).
 [11:55:22] <akshayrevankar> yes both are correct..
 [11:55:42] <akshayrevankar> we can even write fac(N) -> N*fac(N-1).
+[11:56:37] <akshayrevankar> but can anyone tell me what should be kept in mind while writing the above statement?
