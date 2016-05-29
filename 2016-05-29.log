@@ -519,3 +519,4 @@
 [14:06:45] <akshayrevankar> timer:tc(fib,fib,[43]).
 [14:06:50] <akshayrevankar> timer:tc(fib,fib2,[43]).
 [14:06:53] <akshayrevankar> try both
+[14:07:44] <akshayrevankar> and outputs here please :D
