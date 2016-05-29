@@ -81,3 +81,5 @@
 [11:56:57] <salman-bhai> It can't be negative
 [11:57:06] <vilas_m> It should follow the base case?
 [11:57:20] <akshayrevankar> ya.. thats true.. for now we will consider that user is sensible to not input negative :D
+[11:57:49] <akshayrevankar> fac(N) -> N*fac(N-1). I wrote this statement without any condition right?
+[11:58:02] <salman-bhai> Yes
