@@ -288,3 +288,5 @@
 [13:03:57] <akshayrevankar> 3: tail_length([3,4], 2) = tail_length([4], 3).
 [13:04:10] <akshayrevankar> 4: tail_length([4], 3) = tail_length([], 4).
 [13:04:18] <akshayrevankar> 5:  tail_length([],4)->4.
+[13:04:31] <akshayrevankar> ok so see in function 4, the value is the result of function 5..
+[13:04:42] <akshayrevankar> so when 4 is returned, it will be returned to the call of function 4..
