@@ -319,3 +319,5 @@
 [13:11:52] <akshayrevankar> i mean see
 [13:11:56] <akshayrevankar> consider function 3
 [13:12:06] <akshayrevankar> tail_length([3,4], 2) = tail_length([4], 1+2).
+[13:12:20] <akshayrevankar> you already did this 1+2 calulation and called the function 4 right?
+[13:12:27] <salman-bhai> yess
