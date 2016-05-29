@@ -152,3 +152,5 @@
 [12:18:35] <akshayrevankar> :P
 [12:18:59] <akshayrevankar> ok.. our task: ot find the number of elements in a list..
 [12:19:03] <akshayrevankar> to*
+[12:19:22] <akshayrevankar> so we have the base case length([])->0;
+[12:19:51] <akshayrevankar> so now we need to break the list [1,2,3,4] into its smaller elements..
