@@ -445,3 +445,7 @@
 [13:46:10] <akshayrevankar> ok
 [13:46:24] <akshayrevankar> so i will give a solution of mine.. there might be different ways
 [13:46:30] <akshayrevankar> tell me what you notice in my solution
+[13:46:44] <akshayrevankar> fib2(N) -> tail_fib(N, 0, 1).
+[13:46:53] <akshayrevankar>  tail_fib(1, Result, _) -> Result;
+[13:46:54] <akshayrevankar> tail_fib(N, Result, Next) -> tail_fib(N-1, Next, Result+Next).
+[13:47:04] <akshayrevankar> so what do you notice here
