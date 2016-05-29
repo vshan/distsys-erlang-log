@@ -364,3 +364,5 @@
 [13:21:03] <akshayrevankar> ok before we wind up..
 [13:21:18] <akshayrevankar> can you write the tail recursion for factorial
 [13:21:39] <akshayrevankar> @gautham?
+[13:22:00] *** Quits: pratyushgr (dfb085e9@gateway/web/freenode/ip.223.176.133.233) (Ping timeout: 250 seconds)
+[13:22:00] <akshayrevankar> follow the exact same pattern as length
