@@ -467,3 +467,8 @@
 [13:54:51] <salman-bhai> PLease continue
 [13:54:54] <akshayrevankar> ok..
 [13:55:04] <akshayrevankar> so now make a file fib.erl
+[13:55:59] <akshayrevankar> -module(fib).
+[13:56:03] <akshayrevankar>  -export([fib/1,fib2/1]).
+[13:56:14] <akshayrevankar> fib(1) -> 0; fib(2) -> 1; fib(N) -> fib(N-1) + fib(N-2).
+[13:56:21] <akshayrevankar>  fib2(N) -> tail_fib(N, 0, 1).
+[13:56:26] <akshayrevankar>  tail_fib(1, Result, _) -> Result;
