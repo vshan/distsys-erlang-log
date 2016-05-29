@@ -450,3 +450,5 @@
 [13:46:54] <akshayrevankar> tail_fib(N, Result, Next) -> tail_fib(N-1, Next, Result+Next).
 [13:47:04] <akshayrevankar> so what do you notice here
 [13:50:00] <akshayrevankar> ?
+[13:50:15] <salman-bhai> I didn't understand
+[13:50:18] <salman-bhai> How?
