@@ -368,3 +368,5 @@
 [13:22:00] <akshayrevankar> follow the exact same pattern as length
 [13:22:32] <akshayrevankar> if anyone doesnt know how to do it.. then they can freely tell..
 [13:22:41] <akshayrevankar> you will need more examples to understand..
+[13:24:06] <akshayrevankar> this was your original length function:
+[13:24:13] <akshayrevankar> length([]) -> 0; length([_|T]) -> 1 + length(T).
