@@ -515,3 +515,7 @@
 [14:05:52] <aditya> yes!
 [14:06:02] <akshayrevankar> ya now a quick tool
 [14:06:11] <akshayrevankar> you can
+[14:06:35] <akshayrevankar> use the timer:tc function to check the time.. it takes in argument: module, function name, list of parameters
+[14:06:45] <akshayrevankar> timer:tc(fib,fib,[43]).
+[14:06:50] <akshayrevankar> timer:tc(fib,fib2,[43]).
+[14:06:53] <akshayrevankar> try both
