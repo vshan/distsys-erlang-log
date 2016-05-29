@@ -391,3 +391,4 @@
 [13:29:54] <akshayrevankar> yep..
 [13:30:04] <akshayrevankar> aditya's answer is perfect
 [13:30:29] <akshayrevankar> so you saw that the pattern to convert a normal recursion to tail recursion is nearly the same..
+[13:30:44] <salman-bhai> tail_factorial(N) -> tail_factorial(N,0). tail_factorial(0,past) -> past; tail_factorial(N,past
