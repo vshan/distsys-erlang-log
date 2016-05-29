@@ -125,3 +125,4 @@
 [12:10:42] <akshayrevankar> yes correct... length of an empty list is 0..
 [12:11:01] <akshayrevankar> does everyone agree to it?
 [12:11:16] <vilas_m> Yup
+[12:11:44] <akshayrevankar> like did u guys understand how we got the base condition.. recursion is all about firstly finding the base condition and then moving up to construct the entire function..
