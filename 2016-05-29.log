@@ -308,3 +308,5 @@
 [13:09:14] <akshayrevankar> think of the function call 1: above
 [13:09:21] <akshayrevankar> it calls to function 2:
 [13:09:28] <akshayrevankar> which is again equal to function 3:
+[13:09:37] <akshayrevankar> so when we know all of these are just equal..
+[13:10:02] <akshayrevankar> why should i remember to return the value from function 3 to function 2, when i can just return it to function 1 directly
