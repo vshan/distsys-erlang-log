@@ -117,3 +117,5 @@
 [12:06:24] <vilas_m> Oh ok
 [12:07:30] <akshayrevankar> ya i agree.. its nearly the same... its just once case where it goes down.. not a big deal here.. doesnt matter to us much.. but when we see further examples, we will understand more about the timing..
 [12:08:01] <akshayrevankar> ok so we wrote our first recursion function which was factorial..
+[12:08:25] <akshayrevankar> now lets move onto another very simple example which is finding the number of elements in a list..
+[12:08:37] <akshayrevankar> can anyone come up with a solution for it..?
