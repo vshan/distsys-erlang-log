@@ -25,3 +25,5 @@
 [11:36:20] <akshayrevankar> so last time rakshith asked if there exists any looping constructs in erlang..
 [11:36:24] *** Joins: adarsh_h (6ace890c@gateway/web/freenode/ip.106.206.137.12)
 [11:36:35] <akshayrevankar> as vinay said, there are no looping constructs.. like for or while
+[11:36:51] <akshayrevankar> so we make the use of recursion in implementing of loops..
+[11:37:17] <akshayrevankar> so can someone recall and list what all you guys coded using recursion in your CO110 course
