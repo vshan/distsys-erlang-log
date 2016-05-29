@@ -216,3 +216,5 @@
 [12:36:55] <akshayrevankar> see the 1+1 computation wont happen, because the second line has to return (1+ length([3 | [4]]))..
 [12:37:18] <akshayrevankar> it cant just say that.. for now you take the 1, and then i will send the rest for you to calculate later.. right? :D
 [12:37:46] <akshayrevankar> a return means the computation in that part is done and value is completely returned..
+[12:38:38] <akshayrevankar> did u understand that?
+[12:38:42] <vilas_m> Yup
