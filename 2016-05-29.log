@@ -38,3 +38,4 @@
 [11:41:19] <akshayrevankar> I want others to also acknowledge and reply... dont be a spectator only.. If you dont know anything, ask of immediately..
 [11:41:34] <aditya> fact=1; while(n){ fact*=n; n--;}
 [11:41:55] <vilas_m> int fact (int n) { if(n==1) return 1; else return(n*fact(n-1)); }
+[11:43:04] <akshayrevankar> ok.. can someone identify a small correction in code written by vilas..
