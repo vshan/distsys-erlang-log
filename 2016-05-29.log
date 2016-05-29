@@ -253,3 +253,5 @@
 [12:51:56] <vilas_m> tail_length([2,3,4], 1) = tail_length([3,4] , 2).
 [12:52:26] <akshayrevankar> ok salman bhai..  the next two
 [12:53:25] <salman-bhai> tsil_length([3,4], 2) = tail-length([4], 3).
+[12:53:42] <salman-bhai> tsil_length([3,4], 2) = tail_length([4], 3). *
+[12:53:51] <salman-bhai> tail_length([3,4], 2) = tail_length([4], 3). **
