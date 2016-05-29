@@ -49,3 +49,5 @@
 [11:45:17] <akshayrevankar> guys make a erl file with module name "recursion"
 [11:45:50] <akshayrevankar> gautham, please go through the log :)
 [11:46:38] <akshayrevankar> ok, lets write our function for factorial using recursion..
+[11:46:56] <akshayrevankar> you know the base case which is fac(0) = 1
+[11:47:06] <akshayrevankar> so what would be the equivalent statement in erlang?
