@@ -279,3 +279,4 @@
 [13:00:37] <akshayrevankar> 's statement
 [13:00:38] <akshayrevankar> :D
 [13:01:07] <vilas_m> Not really. The operations of 1+1.. have been reduced. So i feel there's a reduction in call stack.
+[13:01:54] <akshayrevankar> ok vilas why do you think so.. still the return values will propagate from the last calculation right.. it has to return the values to the previous functions even though there is no addition work.
