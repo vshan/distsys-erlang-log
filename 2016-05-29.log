@@ -242,3 +242,5 @@
 [12:48:13] <akshayrevankar> we had length([])->0;
 [12:48:27] <akshayrevankar> length([_|L])->1+length(L).
 [12:48:38] <akshayrevankar> IN CASE OF TAIL RECURSION, we will have
+[12:48:49] <akshayrevankar> tail_length(L) -> tail_length(L,0).
+[12:49:04] <akshayrevankar> tail_length([], past) -> past;
