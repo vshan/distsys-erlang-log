@@ -263,3 +263,7 @@
 [12:55:44] <akshayrevankar> :\
 [12:55:50] <salman-bhai> Ya one sec
 [12:55:53] <salman-bhai> Wait
+[12:56:36] <salman-bhai> tail_length([4], 3) = tail_length([], 4).
+[12:56:46] <salman-bhai> How about now?
+[12:56:51] <akshayrevankar> ah good :D
+[12:57:03] <salman-bhai> SHould I continue
