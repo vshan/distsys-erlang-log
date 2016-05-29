@@ -32,3 +32,4 @@
 [11:39:16] <vilas_m> X^n
 [11:39:20] <akshayrevankar> yes.. you implemented the funtions as you mentioned using recursion.. you were explictly taught some functions using recursion..
 [11:39:38] <akshayrevankar> but what are you actually doing there in reality.. can the same function be implemented using a while loop?
+[11:40:11] <akshayrevankar> can one of you write down a C like code here for a while loop based factorial and a recursion based
