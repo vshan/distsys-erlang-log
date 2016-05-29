@@ -192,3 +192,6 @@
 [12:29:21] <akshayrevankar> we are 2/3rd done :)
 [12:29:28] <m_gautham> yes but what will be export??
 [12:29:40] <akshayrevankar> ya what will be the export..?
+[12:29:58] <m_gautham> length/1 doesnt work
+[12:30:05] <akshayrevankar> is it ?
+[12:30:21] <vilas_m> length/1 should work right? One list as one element?
