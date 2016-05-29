@@ -77,3 +77,6 @@
 [11:55:22] <akshayrevankar> yes both are correct..
 [11:55:42] <akshayrevankar> we can even write fac(N) -> N*fac(N-1).
 [11:56:37] <akshayrevankar> but can anyone tell me what should be kept in mind while writing the above statement?
+[11:56:47] <salman-bhai> N negative?
+[11:56:57] <salman-bhai> It can't be negative
+[11:57:06] <vilas_m> It should follow the base case?
