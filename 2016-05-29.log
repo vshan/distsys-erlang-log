@@ -281,3 +281,7 @@
 [13:01:07] <vilas_m> Not really. The operations of 1+1.. have been reduced. So i feel there's a reduction in call stack.
 [13:01:54] <akshayrevankar> ok vilas why do you think so.. still the return values will propagate from the last calculation right.. it has to return the values to the previous functions even though there is no addition work.
 [13:03:03] <vilas_m> Yea, the function is called the same number of times, but you are storing only 2 variables in the stack each time
+[13:03:24] <akshayrevankar> uh.. no.. and yes..
+[13:03:26] <akshayrevankar> ok see
+[13:03:42] <akshayrevankar> 1: tail_length([1,2,3,4],0) = tail_length([2,3,4],1).
+[13:03:49] <akshayrevankar> 2: tail_length([2,3,4], 1) = tail_length([3,4] , 2).
