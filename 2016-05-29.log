@@ -370,3 +370,5 @@
 [13:22:41] <akshayrevankar> you will need more examples to understand..
 [13:24:06] <akshayrevankar> this was your original length function:
 [13:24:13] <akshayrevankar> length([]) -> 0; length([_|T]) -> 1 + length(T).
+[13:24:21] <akshayrevankar> ##
+[13:24:27] <akshayrevankar> the new tail recursion became:
