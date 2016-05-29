@@ -165,3 +165,7 @@
 [12:22:53] <akshayrevankar> if i have length(input) , how can i get the head and tail BY PATTERN MATCHING?
 [12:23:22] <vilas_m> Write a list as say [ _ | L ]. And find the length of L
 [12:24:04] <akshayrevankar> ok can you write the function @vilas..?
+[12:24:36] <vilas_m> length([ ] ) -> 0; length( [  _ | L ] ) -> length(L).
+[12:24:46] *** Quits: adarsh_h (6ace890c@gateway/web/freenode/ip.106.206.137.12) (Quit: Page closed)
+[12:24:51] <vilas_m> damn sorry 1 + length(L)
+[12:25:01] <akshayrevankar> ahh. thats right
