@@ -98,3 +98,5 @@
 [12:01:16] <akshayrevankar> OR
 [12:01:24] <akshayrevankar> you write fac(0)->1;
 [12:01:26] <akshayrevankar> and then
+[12:01:35] <akshayrevankar> fac(N)->N*fac(N-1);
+[12:01:43] <akshayrevankar> can you tell me which way is preferable and why?
