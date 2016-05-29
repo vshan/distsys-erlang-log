@@ -29,3 +29,5 @@
 [11:37:17] <akshayrevankar> so can someone recall and list what all you guys coded using recursion in your CO110 course
 [11:38:16] <vilas_m> Factorial, binary search, sum upto n, nCr.
 [11:38:45] <aditya> fibonacci,sumofdigits
+[11:39:16] <vilas_m> X^n
+[11:39:20] <akshayrevankar> yes.. you implemented the funtions as you mentioned using recursion.. you were explictly taught some functions using recursion..
