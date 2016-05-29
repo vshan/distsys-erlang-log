@@ -80,3 +80,4 @@
 [11:56:47] <salman-bhai> N negative?
 [11:56:57] <salman-bhai> It can't be negative
 [11:57:06] <vilas_m> It should follow the base case?
+[11:57:20] <akshayrevankar> ya.. thats true.. for now we will consider that user is sensible to not input negative :D
