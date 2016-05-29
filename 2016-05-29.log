@@ -285,3 +285,6 @@
 [13:03:26] <akshayrevankar> ok see
 [13:03:42] <akshayrevankar> 1: tail_length([1,2,3,4],0) = tail_length([2,3,4],1).
 [13:03:49] <akshayrevankar> 2: tail_length([2,3,4], 1) = tail_length([3,4] , 2).
+[13:03:57] <akshayrevankar> 3: tail_length([3,4], 2) = tail_length([4], 3).
+[13:04:10] <akshayrevankar> 4: tail_length([4], 3) = tail_length([], 4).
+[13:04:18] <akshayrevankar> 5:  tail_length([],4)->4.
