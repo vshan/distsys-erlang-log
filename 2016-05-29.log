@@ -323,3 +323,5 @@
 [13:12:27] <salman-bhai> yess
 [13:12:47] <akshayrevankar> now whatever value the function 4 returns will be equation to the value function 3 returns
 [13:12:49] <akshayrevankar> correct?
+[13:13:29] <akshayrevankar> so obviously you will have a order N function call.. but the return wouldnt need to propagate back in the same way as it came
+[13:13:34] <aditya> In d earlier recursion it was func1=1+func2 so they werent equal?
