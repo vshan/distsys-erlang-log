@@ -376,3 +376,7 @@
 [13:25:05] <akshayrevankar> tail_length(L) -> tail_length(L,0).
 [13:25:09] <akshayrevankar> tail_length([], last) -> last;
 [13:25:10] <akshayrevankar>  tail_length([_|L], last) -> tail_length(L,last+1).
+[13:25:22] <akshayrevankar> so NOW.. FOR FACTORIAL
+[13:25:36] <akshayrevankar> we had:
+[13:25:41] <akshayrevankar> fac(0) -> 1; fac(N) -> N*fac(N-1).
+[13:25:48] <akshayrevankar> SO TAIL RECURSION FUNCTION IS?
