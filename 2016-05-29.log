@@ -380,3 +380,7 @@
 [13:25:36] <akshayrevankar> we had:
 [13:25:41] <akshayrevankar> fac(0) -> 1; fac(N) -> N*fac(N-1).
 [13:25:48] <akshayrevankar> SO TAIL RECURSION FUNCTION IS?
+[13:27:00] <salman-bhai> tail_factorial(L) -> tail_factorial(L,0).
+[13:27:15] <vilas_m> L,1 i think.
+[13:27:18] <aditya> fac(N) -> fac(N,1). fac(0,past) -> past; fac(N,past) -> fac(N-1,N*past).
+[13:27:20] <salman-bhai> tail_factorial(L) -> tail_factorial(L,0).
