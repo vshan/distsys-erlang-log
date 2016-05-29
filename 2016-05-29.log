@@ -316,3 +316,6 @@
 [13:11:19] <akshayrevankar> ya go on..
 [13:11:25] <salman-bhai> But how is it equal
 [13:11:31] <salman-bhai> WHat do u mean by equal?
+[13:11:52] <akshayrevankar> i mean see
+[13:11:56] <akshayrevankar> consider function 3
+[13:12:06] <akshayrevankar> tail_length([3,4], 2) = tail_length([4], 1+2).
