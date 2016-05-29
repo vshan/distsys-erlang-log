@@ -229,3 +229,7 @@
 [12:44:50] <akshayrevankar> i guess the term "area" i used was a bit misleading..
 [12:45:15] <akshayrevankar> ohk.. mainly the two things where we are utilising the memory is the temporary 1+ part
 [12:45:24] <akshayrevankar> and the stack..
+[12:45:33] <akshayrevankar> can anyone tell me where we are using the stack here?
+[12:45:56] <aditya> function call?
+[12:45:59] <salman-bhai> the function
+[12:46:02] <salman-bhai> call
