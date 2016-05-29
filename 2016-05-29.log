@@ -212,3 +212,4 @@
 [12:35:01] <akshayrevankar> so you can see that to get the final result you need to travel till the last recursive call and start returning all the values back.. right?
 [12:35:15] <akshayrevankar> the initial 1 + length([2 | [3,4]]) wontget complete
 [12:35:25] <akshayrevankar> till u reach the length([])
+[12:36:10] <akshayrevankar> but you know that you can  do the 1+1 and then next stage the 2+1 and so on..
