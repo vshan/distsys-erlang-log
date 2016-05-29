@@ -481,3 +481,4 @@
 [13:59:53] <aditya> ya done
 [13:59:59] <akshayrevankar> ok others..?
 [14:00:07] <akshayrevankar> i presume its done..
+[14:00:28] <akshayrevankar> ok so open your erlang shell and load the module using c('fib').
