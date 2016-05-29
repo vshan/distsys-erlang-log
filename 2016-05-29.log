@@ -239,3 +239,6 @@
 [12:47:11] <akshayrevankar> so its a huge computation work right?
 [12:47:26] <akshayrevankar> so thats where we inttroduce the concept of tail recursion..
 [12:48:03] <akshayrevankar> so.. i will start of with the example so that its easier for you guys to understand..
+[12:48:13] <akshayrevankar> we had length([])->0;
+[12:48:27] <akshayrevankar> length([_|L])->1+length(L).
+[12:48:38] <akshayrevankar> IN CASE OF TAIL RECURSION, we will have
