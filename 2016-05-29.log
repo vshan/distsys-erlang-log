@@ -355,3 +355,5 @@
 [13:18:11] <akshayrevankar> so basically the return of the first call will be equal to the return of the last call.
 [13:18:15] <salman-bhai> So tail_length([1,2,3,4],0) will return what tail_length([],4).
 [13:18:28] <salman-bhai> returns*
+[13:18:37] <akshayrevankar> ya exactly..
+[13:18:44] <salman-bhai> Awesome...
