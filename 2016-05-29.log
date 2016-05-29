@@ -311,3 +311,8 @@
 [13:09:37] <akshayrevankar> so when we know all of these are just equal..
 [13:10:02] <akshayrevankar> why should i remember to return the value from function 3 to function 2, when i can just return it to function 1 directly
 [13:10:42] <akshayrevankar> and then when function 5 is executed.. it knows that it is equal to the value to be returned at function 1, because there are no intermediate calculations at all
+[13:11:11] <salman-bhai> Sorry to interrupt
+[13:11:13] <akshayrevankar> so the same value 4 instead of senselessly propagting back N times, is just sent returned to the function 1
+[13:11:19] <akshayrevankar> ya go on..
+[13:11:25] <salman-bhai> But how is it equal
+[13:11:31] <salman-bhai> WHat do u mean by equal?
