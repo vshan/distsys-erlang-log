@@ -31,3 +31,4 @@
 [11:38:45] <aditya> fibonacci,sumofdigits
 [11:39:16] <vilas_m> X^n
 [11:39:20] <akshayrevankar> yes.. you implemented the funtions as you mentioned using recursion.. you were explictly taught some functions using recursion..
+[11:39:38] <akshayrevankar> but what are you actually doing there in reality.. can the same function be implemented using a while loop?
