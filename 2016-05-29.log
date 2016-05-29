@@ -528,3 +528,7 @@
 [14:08:42] <aditya> still waiting..
 [14:08:44] <akshayrevankar> {16009370,267914296}, {1,267914296}
 [14:08:59] <akshayrevankar> sorry
+[14:09:02] <akshayrevankar> its in microseconds dude
+[14:09:03] <aditya> {55874862,267914296}{0,267914296}
+[14:09:05] <akshayrevankar> not milli
+[14:09:20] <akshayrevankar> so you get the time required in microseconds and the results
