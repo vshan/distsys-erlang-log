@@ -372,3 +372,7 @@
 [13:24:13] <akshayrevankar> length([]) -> 0; length([_|T]) -> 1 + length(T).
 [13:24:21] <akshayrevankar> ##
 [13:24:27] <akshayrevankar> the new tail recursion became:
+[13:24:59] <salman-bhai> wAIT
+[13:25:05] <akshayrevankar> tail_length(L) -> tail_length(L,0).
+[13:25:09] <akshayrevankar> tail_length([], last) -> last;
+[13:25:10] <akshayrevankar>  tail_length([_|L], last) -> tail_length(L,last+1).
