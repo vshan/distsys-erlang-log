@@ -360,3 +360,5 @@
 [13:19:23] <akshayrevankar> so i neednt tell my tail_length([],4) to remember from where it was called. i just say go till the last call you can and then you return it to the first call.. i dont care about the intermediate calls anymore once they are executed..
 [13:19:29] <akshayrevankar> there is no need to trace back..
 [13:20:13] <akshayrevankar> but if u try to implement tail recursion in C, it just doesnt matter.. because it does implement this intelligent thinking on not doing a complete retrace even if the values returned as same..
+[13:20:46] <akshayrevankar> thats why actually vilas's intuition was right.. and salman's C concept was perfect :D
+[13:21:03] <akshayrevankar> ok before we wind up..
