@@ -406,3 +406,6 @@
 [13:33:10] <akshayrevankar> sorry i mean the Nth fibonacci number
 [13:33:10] <salman-bhai> Oh any N
 [13:33:21] <salman-bhai> Yeah yeah..
+[13:33:38] <akshayrevankar> fibonacci sequence: 0 1 1 2 3 5 8 13 21 ...
+[13:33:47] <akshayrevankar> so what's the base case
+[13:33:52] <aditya> fib(1)->0; fib(2)->1;
