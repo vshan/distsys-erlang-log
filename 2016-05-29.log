@@ -247,3 +247,4 @@
 [12:49:24] <akshayrevankar> tail_len([_|L], past) -> tail_len(L,past+1).
 [12:49:46] <akshayrevankar> tail_length([_|L], past) -> tail_length(L,past+1).      ***correct the len to length
 [12:50:07] <akshayrevankar> ok so now lets trace the function..
+[12:50:42] <akshayrevankar> can someone write the first 2 trace for tail_length([1,2,3,4]).
