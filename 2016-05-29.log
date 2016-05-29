@@ -156,3 +156,6 @@
 [12:19:51] <akshayrevankar> so now we need to break the list [1,2,3,4] into its smaller elements..
 [12:20:13] <akshayrevankar> how can we split the list into two lists, one with a single element and the rest into another
 [12:20:16] <akshayrevankar> ?
+[12:20:34] <salman-bhai> [] and [1,2,3,4] ?
+[12:20:40] <aditya> [H|T]
+[12:20:42] <vilas_m> The header and rest of the list [ 1 | L ]
