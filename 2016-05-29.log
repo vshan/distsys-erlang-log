@@ -350,3 +350,5 @@
 [13:16:45] <akshayrevankar> which calls ail_length([3,4],1+1).
 [13:16:59] <salman-bhai> Ah .... understood
 [13:17:04] <akshayrevankar> so what will tail_length([2,3,4],1+0) return, the same value as tail_length([3,4],2+1).
+[13:17:50] <akshayrevankar> so basically tail_length([1,2,3,4],0) will return the same value as tail_length([2,3,4],1) which will again be the same as tail_length([3,4],2+1)
+[13:17:53] <akshayrevankar> and so on..
