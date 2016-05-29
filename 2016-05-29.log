@@ -267,3 +267,7 @@
 [12:56:46] <salman-bhai> How about now?
 [12:56:51] <akshayrevankar> ah good :D
 [12:57:03] <salman-bhai> SHould I continue
+[12:57:11] <salman-bhai> ?
+[12:57:12] <akshayrevankar> so the final result is tail_length([],4)->4.
+[12:57:15] <akshayrevankar> which is our result
+[12:57:20] <salman-bhai> yeah
