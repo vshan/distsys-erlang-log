@@ -74,3 +74,4 @@
 [11:53:41] <akshayrevankar> so what would be the erlang equivalent?
 [11:53:50] <aditya> fac(N) when N > 0 -> N*fac(N-1).
 [11:53:56] <vilas_m> fac(N) when N >=1 -> N*fac(N-1).
+[11:55:22] <akshayrevankar> yes both are correct..
