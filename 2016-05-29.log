@@ -362,3 +362,5 @@
 [13:20:13] <akshayrevankar> but if u try to implement tail recursion in C, it just doesnt matter.. because it does implement this intelligent thinking on not doing a complete retrace even if the values returned as same..
 [13:20:46] <akshayrevankar> thats why actually vilas's intuition was right.. and salman's C concept was perfect :D
 [13:21:03] <akshayrevankar> ok before we wind up..
+[13:21:18] <akshayrevankar> can you write the tail recursion for factorial
+[13:21:39] <akshayrevankar> @gautham?
