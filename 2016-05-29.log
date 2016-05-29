@@ -310,3 +310,4 @@
 [13:09:28] <akshayrevankar> which is again equal to function 3:
 [13:09:37] <akshayrevankar> so when we know all of these are just equal..
 [13:10:02] <akshayrevankar> why should i remember to return the value from function 3 to function 2, when i can just return it to function 1 directly
+[13:10:42] <akshayrevankar> and then when function 5 is executed.. it knows that it is equal to the value to be returned at function 1, because there are no intermediate calculations at all
