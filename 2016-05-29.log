@@ -429,3 +429,5 @@
 [13:40:38] <salman-bhai> wait
 [13:40:41] <salman-bhai> Almost done
 [13:40:45] <akshayrevankar> ya ok
+[13:41:34] <salman-bhai> fib(N) -> fib([ ],N).
+[13:41:42] <salman-bhai> Is this how we start?
