@@ -397,3 +397,9 @@
 [13:31:19] <salman-bhai> -> tail_factorial(N-1,N*past)
 [13:31:28] <salman-bhai> Ah okay
 [13:32:26] <akshayrevankar> ok @vilas, can u write the fibonacci function using recursion (normal)
+[13:32:37] <salman-bhai> DO we have to generate 1,1,2,3,5,8,13...
+[13:32:39] <salman-bhai> ?
+[13:32:45] <akshayrevankar> 0 1 1 2 3 5
+[13:32:48] <akshayrevankar> yeah
+[13:32:53] <salman-bhai> Till how many numbers?
+[13:32:53] <akshayrevankar> so what are the base cases
