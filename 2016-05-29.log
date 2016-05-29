@@ -472,3 +472,5 @@
 [13:56:14] <akshayrevankar> fib(1) -> 0; fib(2) -> 1; fib(N) -> fib(N-1) + fib(N-2).
 [13:56:21] <akshayrevankar>  fib2(N) -> tail_fib(N, 0, 1).
 [13:56:26] <akshayrevankar>  tail_fib(1, Result, _) -> Result;
+[13:56:28] <akshayrevankar>  tail_fib(N, Result, Next) -> tail_fib(N-1, Next, Result+Next).
+[13:56:45] <akshayrevankar> #### COPY THE ABOVE TO IT.. ITS THE SAME AS WE WROTE BEFORE..
