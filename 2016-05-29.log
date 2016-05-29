@@ -85,3 +85,6 @@
 [11:58:02] <salman-bhai> Yes
 [11:58:28] <akshayrevankar> if i write this statement above fac(0)->1 , then the function will go into a infinite recursion
 [11:58:35] <akshayrevankar> #NOTE
+[11:58:52] <akshayrevankar> the pattern matching works in the same order as you write the statement..
+[11:59:09] <akshayrevankar> you can consider it to be like a if-elseif ladder..
+[11:59:18] <akshayrevankar> Imagine this situation:
