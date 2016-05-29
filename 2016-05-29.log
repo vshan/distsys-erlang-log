@@ -352,3 +352,6 @@
 [13:17:04] <akshayrevankar> so what will tail_length([2,3,4],1+0) return, the same value as tail_length([3,4],2+1).
 [13:17:50] <akshayrevankar> so basically tail_length([1,2,3,4],0) will return the same value as tail_length([2,3,4],1) which will again be the same as tail_length([3,4],2+1)
 [13:17:53] <akshayrevankar> and so on..
+[13:18:11] <akshayrevankar> so basically the return of the first call will be equal to the return of the last call.
+[13:18:15] <salman-bhai> So tail_length([1,2,3,4],0) will return what tail_length([],4).
+[13:18:28] <salman-bhai> returns*
