@@ -53,3 +53,5 @@
 [11:47:06] <akshayrevankar> so what would be the equivalent statement in erlang?
 [11:48:47] <aditya> fac(0) -> 1;
 [11:49:01] <akshayrevankar> yes correct aditya..
+[11:49:26] <akshayrevankar> its as simple as that..
+[11:49:49] <akshayrevankar> do others have a doubt with regard to that ^^^ ?
