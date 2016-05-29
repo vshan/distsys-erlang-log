@@ -52,3 +52,4 @@
 [11:46:56] <akshayrevankar> you know the base case which is fac(0) = 1
 [11:47:06] <akshayrevankar> so what would be the equivalent statement in erlang?
 [11:48:47] <aditya> fac(0) -> 1;
+[11:49:01] <akshayrevankar> yes correct aditya..
