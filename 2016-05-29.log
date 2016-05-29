@@ -274,3 +274,4 @@
 [12:57:52] <akshayrevankar> ok.. now do you find a reduction in call stack or the function local variable or both?
 [12:59:24] <salman-bhai> function local variable
 [12:59:35] <akshayrevankar> ok others..
+[12:59:40] <salman-bhai> You still have to call the function the same number of times
