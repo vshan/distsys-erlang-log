@@ -255,3 +255,4 @@
 [12:53:25] <salman-bhai> tsil_length([3,4], 2) = tail-length([4], 3).
 [12:53:42] <salman-bhai> tsil_length([3,4], 2) = tail_length([4], 3). *
 [12:53:51] <salman-bhai> tail_length([3,4], 2) = tail_length([4], 3). **
+[12:54:56] <salman-bhai> taile_length([4], 3) = tail_length(4).
