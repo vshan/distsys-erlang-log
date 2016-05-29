@@ -83,3 +83,5 @@
 [11:57:20] <akshayrevankar> ya.. thats true.. for now we will consider that user is sensible to not input negative :D
 [11:57:49] <akshayrevankar> fac(N) -> N*fac(N-1). I wrote this statement without any condition right?
 [11:58:02] <salman-bhai> Yes
+[11:58:28] <akshayrevankar> if i write this statement above fac(0)->1 , then the function will go into a infinite recursion
+[11:58:35] <akshayrevankar> #NOTE
