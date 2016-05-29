@@ -455,3 +455,5 @@
 [13:50:52] <akshayrevankar> ya see.. now in this you need the last two values for your next computation
 [13:50:54] <akshayrevankar> right?
 [13:51:05] <akshayrevankar> so your function call needs to keep in two values..
+[13:52:17] <akshayrevankar> you can write a trace and try to understand.. i know for one previous value tail recursion seemed easy.. but the more you practice you will get this..
+[13:52:38] <akshayrevankar> so salman. trace it out.. try to understand.. and then you can get back to me after the session is over..
