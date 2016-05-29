@@ -109,3 +109,5 @@
 [12:04:03] <salman-bhai> 2nd
 [12:04:17] <vilas_m> fac(N) when N>0 -> N*fac(N-1) ; fac(0) -> 1.
 [12:04:30] <salman-bhai> fac(N)->N*fac(N-1).*
+[12:04:38] <akshayrevankar> why would this be preferable @vilas
+[12:05:03] <akshayrevankar> dont you think in worst case there will be two pattern match and one condition checking?
