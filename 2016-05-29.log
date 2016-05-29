@@ -163,3 +163,4 @@
 [12:21:35] <akshayrevankar> a head and the rest or the tail and the rest..
 [12:22:29] <akshayrevankar> so what will be the pattern matching applicable to extract the head and the tail given as an input to the function length
 [12:22:53] <akshayrevankar> if i have length(input) , how can i get the head and tail BY PATTERN MATCHING?
+[12:23:22] <vilas_m> Write a list as say [ _ | L ]. And find the length of L
