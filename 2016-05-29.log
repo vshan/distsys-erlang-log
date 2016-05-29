@@ -174,3 +174,9 @@
 [12:26:27] <akshayrevankar> so our function is length([])->0; length([_|L])->1+length(L).
 [12:26:32] <akshayrevankar> so lets trace this..
 [12:26:47] <akshayrevankar> length([1,2,3,4]) = length([1 | [2,3,4])
+[12:27:16] <akshayrevankar>                = 1 + length([2 | [3,4]])
+[12:27:23] <akshayrevankar>                = 1 + 1 + length([3 | [4]])
+[12:27:27] <akshayrevankar>                = 1 + 1 + 1 + length([4 | []])
+[12:27:33] <akshayrevankar>                = 1 + 1 + 1 + 1 + length([])
+[12:27:37] <akshayrevankar>                = 1 + 1 + 1 + 1 + 0
+[12:27:41] <akshayrevankar>                = 1 + 1 + 1 + 1
