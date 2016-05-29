@@ -245,3 +245,5 @@
 [12:48:49] <akshayrevankar> tail_length(L) -> tail_length(L,0).
 [12:49:04] <akshayrevankar> tail_length([], past) -> past;
 [12:49:24] <akshayrevankar> tail_len([_|L], past) -> tail_len(L,past+1).
+[12:49:46] <akshayrevankar> tail_length([_|L], past) -> tail_length(L,past+1).      ***correct the len to length
+[12:50:07] <akshayrevankar> ok so now lets trace the function..
