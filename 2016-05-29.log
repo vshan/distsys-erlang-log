@@ -100,3 +100,4 @@
 [12:01:26] <akshayrevankar> and then
 [12:01:35] <akshayrevankar> fac(N)->N*fac(N-1);
 [12:01:43] <akshayrevankar> can you tell me which way is preferable and why?
+[12:02:45] <vilas_m> First one? Lesser number of statements executed?
