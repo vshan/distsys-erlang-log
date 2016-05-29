@@ -409,3 +409,5 @@
 [13:33:38] <akshayrevankar> fibonacci sequence: 0 1 1 2 3 5 8 13 21 ...
 [13:33:47] <akshayrevankar> so what's the base case
 [13:33:52] <aditya> fib(1)->0; fib(2)->1;
+[13:34:22] <salman-bhai> fib(1) -> 0; fib(1) -> 1;
+[13:34:27] <salman-bhai> fib(1) -> 0; fib(2) -> 1;
