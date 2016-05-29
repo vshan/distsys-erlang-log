@@ -154,3 +154,5 @@
 [12:19:03] <akshayrevankar> to*
 [12:19:22] <akshayrevankar> so we have the base case length([])->0;
 [12:19:51] <akshayrevankar> so now we need to break the list [1,2,3,4] into its smaller elements..
+[12:20:13] <akshayrevankar> how can we split the list into two lists, one with a single element and the rest into another
+[12:20:16] <akshayrevankar> ?
