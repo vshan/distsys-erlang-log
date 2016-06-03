@@ -151,3 +151,4 @@
 [10:11:24] <vinayb> AnonFunc("Trolled!").
 [10:12:25] <vilas_m_> Func 1 got called with password=abcdefgh as parameter!
 [10:12:34] <vilas_m_> Anon function called with Trolled! as param, and I also remember password=abcdefgh!
+[10:13:14] <vinayb> Right! so did you see WHEN exactly the anonymous function was called?
