@@ -175,3 +175,4 @@
 [10:22:16] <vinayb> let's see how we can use Higher Order Functions more
 [10:22:24] <vinayb> write this in your file:
 [10:22:41] <vinayb> map(_, []) -> [];
+[10:22:58] <vinayb> map(F, [H|T]) -> [F(H)|map(F,T)].
