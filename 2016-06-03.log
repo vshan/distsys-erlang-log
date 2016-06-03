@@ -245,3 +245,4 @@
 [10:49:45] <vinayb> did you compile and run this and test it?
 [10:49:51] <vilas_m> i removed the [ ] for the false case :P  enter this : erlang6:filter(fun (X) -> X rem 2 == 0 end, lists:seq(1,10)) and the output is [2,4,6,8,10].
 [10:49:53] <rakshith> i'll do
+[10:51:25] *** Quits: m_gautham (67f62a32@gateway/web/freenode/ip.103.246.42.50) (Quit: Page closed)
