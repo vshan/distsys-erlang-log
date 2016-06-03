@@ -262,3 +262,5 @@
 [10:58:30] <vinayb> alright, i'll give you guys a description of fold
 [10:59:14] <vinayb> fold(BinaryFunction, List, Accumulator) is a function which takes 3 parameters: a function that operates on two params, a list, and a starting value
 [10:59:43] <vinayb> eg:
+[11:00:16] <vinayb> fold(fun(X,Y) -> X + Y end, lists:seq(1,100), 0).
+[11:00:20] <vinayb> should give me 5060
