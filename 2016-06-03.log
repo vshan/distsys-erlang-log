@@ -93,3 +93,5 @@
 [09:52:29] <vinayb> whenever we want to pass functions as parameters, we have to specify fun module_name:function/arity
 [09:52:38] <vinayb> so that Erlang doesn't confuse it for an atom
 [09:52:57] <vinayb> Let's see how functions can return functions
+[09:53:03] <vinayb> type this:
+[09:53:23] <vinayb> Adder(N) ->
