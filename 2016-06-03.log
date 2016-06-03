@@ -196,3 +196,4 @@
 [10:29:42] <adarsh_> building the list and returning it with F(H)
 [10:30:17] <vilas_m> Recursively multiply each element by 5.
 [10:30:26] <vinayb> okay, from map(F, [1,2,3,4]), give me the trace
+[10:31:02] <vinayb> assume F = fun (X) -> X + 5 end.
