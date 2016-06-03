@@ -122,3 +122,5 @@
 [10:00:15] <vinayb> Add6 = module_name:adder(6).
 [10:00:20] <vinayb> Add6(1).
 [10:00:25] <vinayb> Add6(5).
+[10:00:48] <vilas_m_> 7 and 11
+[10:00:55] <vinayb> correct! so what's happening here?
