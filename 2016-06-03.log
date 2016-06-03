@@ -221,3 +221,5 @@
 [10:36:13] <rakshith> yeah
 [10:36:17] <rakshith> [F(1)|F(2)|F(3)|F(4)|[]]
 [10:37:20] <vinayb> Alright, now I'll give you a description of a function, and you guys have to tell me how the definition would look like
+[10:37:51] <vinayb> filter(F, List) should return a list for which the elements of the list are true given the predicate function F
+[10:38:09] <vinayb> a predicate function is a function which only returns boolean values
