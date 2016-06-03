@@ -295,3 +295,4 @@
 [11:10:32] <vinayb> so as you saw in the other defintion of filter, to build the output list, we use a seperate Acc parameter
 [11:10:59] <vinayb> i'll give you guys the first line of fold's definition, you must give me second :P 
 [11:11:07] <vinayb> yes, it can be defined in only two lines
+[11:12:29] <vinayb> fold(_, [], Acc) -> Acc;
