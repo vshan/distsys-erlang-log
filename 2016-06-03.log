@@ -102,3 +102,7 @@
 [09:55:23] <vinayb> Adder is a function that RETURS OTHER functions
 [09:55:25] <vinayb> let's see how
 [09:55:36] <vinayb> type this in the shell after loading:
+[09:55:54] <vinayb> Add2 = Adder(2).
+[09:56:04] <vinayb> Add2(4).
+[09:56:07] <vinayb> Add2(6).
+[09:56:09] <vinayb> what
