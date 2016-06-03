@@ -317,3 +317,5 @@
 [11:20:47] <vinayb> Anyways, that's all for today!
 [11:21:11] <vinayb> HW: Figure out fold2, and filter2 (filter using fold in the definition)!
 [11:21:12] <vilas_m> fold2 ( F, [H|T] ) -> fold ( F , T , F(H) ) ?
+[11:21:25] <vinayb> it's a binary function vilas_m 
+[11:21:39] <salman-bhai> Umm @vinayb can u explain function overloading once?
