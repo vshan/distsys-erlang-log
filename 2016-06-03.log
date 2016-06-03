@@ -64,3 +64,7 @@
 [09:42:50] <vilas_m_> No
 [09:42:53] <rakshith> no
 [09:43:08] <vinayb> Higher order functions are those functions that can take a function as a parameter and/or return a function
+[09:43:27] <vinayb> fire up your editors and shell and type this out:
+[09:43:29] *** Joins: adarsh_ (6ad8a300@gateway/web/freenode/ip.106.216.163.0)
+[09:43:43] <vinayb> five() -> 5.
+[09:43:46] <vinayb> six() -> 6.
