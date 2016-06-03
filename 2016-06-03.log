@@ -301,3 +301,7 @@
 [11:13:11] <vinayb> one line body
 [11:13:35] <vilas_m> fold(F, T, F(Acc,H)).
 [11:13:45] <vinayb> correct! 
+[11:14:17] <vinayb> so this is how, using fold, you can "distill" a list onto a single output
+[11:14:25] <vinayb> now, you see we used an accumulator
+[11:14:30] <vinayb> what if i did this:
+[11:14:36] <vinayb> fold2(F, List) 
