@@ -253,3 +253,6 @@
 [10:56:49] <vinayb> now let's move on to folds
 [10:56:49] <rakshith> I get it but in a wierd way
 [10:57:07] <rakshith> [[[2,[[4,[[6,[[8,["\n"]]]]]]]]]]
+[10:57:29] <salman-bhai> I'm sorryy still stuck
+[10:57:41] <vinayb> keep working on it! Note the approach you are gonna take to FOLDS and then think about filter ;)
+[10:57:42] <rakshith> filter(F,[H|T]) -> [begin Z=F(H), if Z==true -> [H|filter(F,T)] ; true -> filter(F,T) end end].
