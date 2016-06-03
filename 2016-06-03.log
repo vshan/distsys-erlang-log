@@ -256,3 +256,6 @@
 [10:57:29] <salman-bhai> I'm sorryy still stuck
 [10:57:41] <vinayb> keep working on it! Note the approach you are gonna take to FOLDS and then think about filter ;)
 [10:57:42] <rakshith> filter(F,[H|T]) -> [begin Z=F(H), if Z==true -> [H|filter(F,T)] ; true -> filter(F,T) end end].
+[10:57:48] <rakshith> I used that definition
+[10:58:13] <vinayb> keep this on hold. once you guys play around with Fold's definition, it will become clear
+[10:58:13] <rakshith> I'm getting nested lists..
