@@ -299,3 +299,4 @@
 [11:13:04] <vinayb> fold(F, [H|T], Acc) -> 
 [11:13:09] <vinayb> just fill out the rest
 [11:13:11] <vinayb> one line body
+[11:13:35] <vilas_m> fold(F, T, F(Acc,H)).
