@@ -73,3 +73,4 @@
 [09:44:22] <vinayb> save the file, and load the module into the shell
 [09:44:31] <vinayb> now tell me the output for these:
 [09:44:46] <vinayb> module_name:add(five,six).
+[09:44:54] <vinayb> module_name:add(5,6).
