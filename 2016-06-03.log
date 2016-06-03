@@ -127,3 +127,7 @@
 [10:01:38] <rakshith> when declaring Add2 we give the input to the outer function
 [10:01:47] <rakshith> in the next statement we call the inner function?
 [10:02:12] <vilas_m_> Basically a function calls another function to do the work.
+[10:02:24] <vinayb> when we call adder, it returns a function to us. It's NOT calling the other function
+[10:02:37] <vinayb> we are binding that function to a variable
+[10:02:42] <vinayb> THEN we call the variable
+[10:02:46] <vinayb> very important difference
