@@ -278,3 +278,7 @@
 [11:04:03] <vinayb>         true  -> filter(Pred, T, [H|Acc]);
 [11:04:05] <vinayb>         false -> filter(Pred, T, Acc)
 [11:04:08] <vinayb>     end.
+[11:04:31] <vinayb> we have two functions here filter/2 which calls interally filter/3
+[11:04:32] <rakshith> vinayb, this worked for me
+[11:04:32] <rakshith> filter(F,[H|T]) -> Z=F(H), if Z==true -> [H|filter(F,T)] ; true -> filter(F,T) end .
+[11:04:47] <vinayb> nice! good going rakshith !
