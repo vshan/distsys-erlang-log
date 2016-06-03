@@ -241,3 +241,4 @@
 [10:48:08] <vinayb> no copying!
 [10:48:38] <salman-bhai> OH okay
 [10:48:49] <rakshith> filter(F,[H|T]) -> [fun (H) -> Z=F(H), if Z==true -> [H|filter(F,T)] ; true -> [filter(F,T)] end]
+[10:49:13] <rakshith> filter(_,[]) -> [] in the begining
