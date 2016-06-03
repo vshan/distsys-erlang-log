@@ -227,3 +227,4 @@
 [10:39:09] <vinayb> eg: filter(fun (X) -> X rem 2 =:= 0 end, lists:seq(1,10)) should give me [2,4,6,8,10]
 [10:39:22] <vinayb> yes vilas_m ! flesh it out more
 [10:39:47] <vilas_m> filter( _ , [] ) -> [ ].
+[10:40:10] <vilas_m> filter( F, [H|T] ) -> case F(H) of
