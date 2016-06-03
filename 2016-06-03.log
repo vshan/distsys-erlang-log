@@ -327,3 +327,5 @@
 [11:23:46] <rakshith> what homework?
 [11:23:53] <salman-bhai> OKay
 [11:23:53] <vinayb> Go over my logs again, and ask me any doubts you have
+[11:24:06] <vinayb> HW: figure out how to implement fold2, and filter2
+[11:24:19] <vinayb> filter2 is filter but should use fold or fold2 in its' definition
