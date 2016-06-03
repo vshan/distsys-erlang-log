@@ -126,3 +126,4 @@
 [10:00:55] <vinayb> correct! so what's happening here?
 [10:01:38] <rakshith> when declaring Add2 we give the input to the outer function
 [10:01:47] <rakshith> in the next statement we call the inner function?
+[10:02:12] <vilas_m_> Basically a function calls another function to do the work.
