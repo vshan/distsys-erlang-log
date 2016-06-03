@@ -177,3 +177,4 @@
 [10:22:41] <vinayb> map(_, []) -> [];
 [10:22:58] <vinayb> map(F, [H|T]) -> [F(H)|map(F,T)].
 [10:23:40] <vinayb> now in the shell, try this:
+[10:24:05] <vinayb> module_name:map(fun(X) -> X + 5 end, [1,2,3,4,5,6,7,8,9,10]).
