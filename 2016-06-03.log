@@ -68,3 +68,5 @@
 [09:43:29] *** Joins: adarsh_ (6ad8a300@gateway/web/freenode/ip.106.216.163.0)
 [09:43:43] <vinayb> five() -> 5.
 [09:43:46] <vinayb> six() -> 6.
+[09:43:55] *** Joins: m_gautham_ (2d7d2657@gateway/web/freenode/ip.45.125.38.87)
+[09:44:04] <vinayb> add(A,B) -> A() + B().
