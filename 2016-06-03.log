@@ -166,3 +166,5 @@
 [10:19:20] <vinayb> because the anon function was CALLED outside the context of function1. You are using the String1 value (remember io:format("...", [String1, String2]) in anon func definition)
 [10:20:16] *** Quits: vilas_m_ (3b63c44f@gateway/web/freenode/ip.59.99.196.79) (Ping timeout: 250 seconds)
 [10:20:39] <vinayb> Only the function definition of anon func is in function1. When function1 returns anon func, anon func can be called and used wherever you wish
+[10:20:50] <rakshith> i get it..
+[10:21:12] <vinayb> any doubts?
