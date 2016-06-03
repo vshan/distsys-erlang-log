@@ -228,3 +228,4 @@
 [10:39:22] <vinayb> yes vilas_m ! flesh it out more
 [10:39:47] <vilas_m> filter( _ , [] ) -> [ ].
 [10:40:10] <vilas_m> filter( F, [H|T] ) -> case F(H) of
+[10:40:45] <vilas_m> true-> [ H | filter ( F, T ) ];
