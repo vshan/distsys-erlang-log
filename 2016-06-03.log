@@ -290,3 +290,4 @@
 [11:07:26] <vinayb> Yes, you could call it that. That's why we always mention the arity of a function we specify
 [11:08:44] <salman-bhai> Example?
 [11:09:01] <vinayb> when we export, we always mention the arity
+[11:09:21] <vinayb> remember: a function is specified by it's name as well as arity
