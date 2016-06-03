@@ -288,3 +288,5 @@
 [11:06:05] <salman-bhai> OKay.
 [11:06:45] <rakshith> is this some kind of function overloading?
 [11:07:26] <vinayb> Yes, you could call it that. That's why we always mention the arity of a function we specify
+[11:08:44] <salman-bhai> Example?
+[11:09:01] <vinayb> when we export, we always mention the arity
