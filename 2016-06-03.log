@@ -182,3 +182,4 @@
 [10:25:01] <salman-bhai> [6,7,8,9,10,11,12,13,14,15]
 [10:25:15] <vinayb> now try this:
 [10:25:53] <vinayb> module_name:map(fun(X) -> X*5 end, lists:seq(1,10)).
+[10:26:22] <salman-bhai> [5,10,15,20,25,30,35,40,45,50]
