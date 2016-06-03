@@ -113,3 +113,7 @@
 [09:58:36] <vinayb> and don't forget export and module
 [09:58:46] <vilas_m_> Yea now it works.
 [09:59:05] <vinayb> then in the shell, don't forget to prefix the module name when you call adder
+[09:59:16] <vinayb> Add2 = module_name:adder(2)>
+[09:59:24] <vinayb> Add2 = module_name.adder(2).
+[09:59:26] <vinayb> *
+[09:59:29] <vinayb> sorry about that
