@@ -322,3 +322,4 @@
 [11:22:26] <vinayb> don't think of it as function overloading. it's two seperate functions, whenever you call it with two parameters, Erlang knows which one to call, whenever you call with three parameters, Erlang knows the other to call
 [11:22:35] <salman-bhai> I've just dived into oo
 [11:22:40] <salman-bhai> oh okay
+[11:23:23] <vinayb> Anyways, your HW will be part of your upcoming assignment
