@@ -193,3 +193,4 @@
 [10:28:16] <vinayb> now let's go over the definition of map 
 [10:28:24] <vinayb> what's happening there?
 [10:29:22] <rakshith> recursively adding F(H) to the list
+[10:29:42] <adarsh_> building the list and returning it with F(H)
