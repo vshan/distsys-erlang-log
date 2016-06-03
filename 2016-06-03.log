@@ -223,3 +223,5 @@
 [10:37:20] <vinayb> Alright, now I'll give you a description of a function, and you guys have to tell me how the definition would look like
 [10:37:51] <vinayb> filter(F, List) should return a list for which the elements of the list are true given the predicate function F
 [10:38:09] <vinayb> a predicate function is a function which only returns boolean values
+[10:39:06] <vilas_m> Adding a case .... of expression ?
+[10:39:09] <vinayb> eg: filter(fun (X) -> X rem 2 =:= 0 end, lists:seq(1,10)) should give me [2,4,6,8,10]
