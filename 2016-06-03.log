@@ -268,3 +268,5 @@
 [11:01:02] <vinayb> it takes the Acc parameter, applies it with first element of list, takes their result, applies it to second element, takes THEIR result, applies it.. and son on
 [11:01:05] <vinayb> *so on
 [11:01:10] <vinayb> how would this be defined?
+[11:03:35] <salman-bhai> no idea
+[11:03:45] <vinayb> notice how you have to pass the accumulator through the recursion
