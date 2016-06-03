@@ -163,3 +163,4 @@
 [10:16:39] <vinayb> *function
 [10:17:21] <vinayb> This is why, Anonymous Functions are also called Closures, because they ENCLOSE the context in a function, and by nicely wrapping it up, you can use them wherever you want
 [10:17:47] <rakshith> Isn't the anon function technically in the scope of function1? How is it an advantage?
+[10:19:20] <vinayb> because the anon function was CALLED outside the context of function1. You are using the String1 value (remember io:format("...", [String1, String2]) in anon func definition)
