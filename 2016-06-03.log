@@ -119,3 +119,6 @@
 [09:59:29] <vinayb> sorry about that
 [09:59:58] <vilas_m_> Add2(4) is 6, Add2(6) is 8
 [10:00:06] <vinayb> correct! now try this:
+[10:00:15] <vinayb> Add6 = module_name:adder(6).
+[10:00:20] <vinayb> Add6(1).
+[10:00:25] <vinayb> Add6(5).
