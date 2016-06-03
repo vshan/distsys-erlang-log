@@ -87,3 +87,4 @@
 [09:50:11] <vinayb> You are getting exceptions because the function expects two other functions as it's parameters
 [09:50:14] <vinayb> now try this:
 [09:50:22] *** Quits: m_gautham_ (2d7d2657@gateway/web/freenode/ip.45.125.38.87) (Ping timeout: 250 seconds)
+[09:50:37] <vinayb> module_name:add(fun module_name:five/0, fun module_name:six/0).
