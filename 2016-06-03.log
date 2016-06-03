@@ -153,3 +153,4 @@
 [10:12:34] <vilas_m_> Anon function called with Trolled! as param, and I also remember password=abcdefgh!
 [10:13:14] <vinayb> Right! so did you see WHEN exactly the anonymous function was called?
 [10:13:59] <vilas_m_> When we call the function AnonFunc with another string.
+[10:14:35] <vinayb> Yes! So function1 only RETURNS a function to you. You can call it whenever you want to!
