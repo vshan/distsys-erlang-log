@@ -293,3 +293,5 @@
 [11:09:21] <vinayb> remember: a function is specified by it's name as well as arity
 [11:09:40] <vinayb> so to Erlang, filter/2 and filter/3 are different functions
 [11:10:32] <vinayb> so as you saw in the other defintion of filter, to build the output list, we use a seperate Acc parameter
+[11:10:59] <vinayb> i'll give you guys the first line of fold's definition, you must give me second :P 
+[11:11:07] <vinayb> yes, it can be defined in only two lines
