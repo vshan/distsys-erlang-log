@@ -96,3 +96,5 @@
 [09:53:03] <vinayb> type this:
 [09:53:23] <vinayb> Adder(N) ->
 [09:53:38] <vinayb>   fun (X) -> X + N end.
+[09:54:48] <vinayb> what we've done here is we've created an Anonymous Function
+[09:55:02] <vinayb> Anonymous function are functions that have no names
