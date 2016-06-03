@@ -181,3 +181,4 @@
 [10:24:41] <salman-bhai> 2> high:map(fun(X) -> X + 5 end, [1,2,3,4,5,6,7,8,9,10]). [6,7,8,9,10,11,12,13,14,15]
 [10:25:01] <salman-bhai> [6,7,8,9,10,11,12,13,14,15]
 [10:25:15] <vinayb> now try this:
+[10:25:53] <vinayb> module_name:map(fun(X) -> X*5 end, lists:seq(1,10)).
