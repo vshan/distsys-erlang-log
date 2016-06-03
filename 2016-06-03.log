@@ -154,3 +154,4 @@
 [10:13:14] <vinayb> Right! so did you see WHEN exactly the anonymous function was called?
 [10:13:59] <vilas_m_> When we call the function AnonFunc with another string.
 [10:14:35] <vinayb> Yes! So function1 only RETURNS a function to you. You can call it whenever you want to!
+[10:15:01] <vinayb> Now let's see a powerful benefit:
