@@ -270,3 +270,11 @@
 [11:01:10] <vinayb> how would this be defined?
 [11:03:35] <salman-bhai> no idea
 [11:03:45] <vinayb> notice how you have to pass the accumulator through the recursion
+[11:03:57] <vinayb> okay, i'll give you the definition of filter. we'll come to fold.
+[11:04:03] <vinayb> filter(Pred, L) -> lists:reverse(filter(Pred, L,[])).
+[11:04:03] <vinayb> filter(_, [], Acc) -> Acc;
+[11:04:03] <vinayb> filter(Pred, [H|T], Acc) ->
+[11:04:03] <vinayb>     case Pred(H) of
+[11:04:03] <vinayb>         true  -> filter(Pred, T, [H|Acc]);
+[11:04:05] <vinayb>         false -> filter(Pred, T, Acc)
+[11:04:08] <vinayb>     end.
