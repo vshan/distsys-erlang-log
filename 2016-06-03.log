@@ -117,3 +117,5 @@
 [09:59:24] <vinayb> Add2 = module_name.adder(2).
 [09:59:26] <vinayb> *
 [09:59:29] <vinayb> sorry about that
+[09:59:58] <vilas_m_> Add2(4) is 6, Add2(6) is 8
+[10:00:06] <vinayb> correct! now try this:
