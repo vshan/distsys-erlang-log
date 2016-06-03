@@ -95,3 +95,4 @@
 [09:52:57] <vinayb> Let's see how functions can return functions
 [09:53:03] <vinayb> type this:
 [09:53:23] <vinayb> Adder(N) ->
+[09:53:38] <vinayb>   fun (X) -> X + N end.
