@@ -309,3 +309,5 @@
 [11:15:31] <vinayb> how would the definition of fold2 look like?
 [11:16:57] <vilas_m> fold2( F, [A,B|T]) -> fold2( F, [F(A,B)|T ). ?
 [11:17:16] <vilas_m> ]*
+[11:17:37] <vinayb> don't forget the base case
+[11:17:40] <vinayb> :p
