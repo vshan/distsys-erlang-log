@@ -291,3 +291,4 @@
 [11:08:44] <salman-bhai> Example?
 [11:09:01] <vinayb> when we export, we always mention the arity
 [11:09:21] <vinayb> remember: a function is specified by it's name as well as arity
+[11:09:40] <vinayb> so to Erlang, filter/2 and filter/3 are different functions
