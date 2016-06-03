@@ -198,3 +198,5 @@
 [10:30:26] <vinayb> okay, from map(F, [1,2,3,4]), give me the trace
 [10:31:02] <vinayb> assume F = fun (X) -> X + 5 end.
 [10:31:39] <vilas_m> -> [ 1*5 , map(F, [2,3,4]) ]
+[10:32:05] <vinayb> no commas, use the cons operator ;)
+[10:32:05] <vilas_m> |* sorry
