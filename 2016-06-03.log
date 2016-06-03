@@ -70,3 +70,6 @@
 [09:43:46] <vinayb> six() -> 6.
 [09:43:55] *** Joins: m_gautham_ (2d7d2657@gateway/web/freenode/ip.45.125.38.87)
 [09:44:04] <vinayb> add(A,B) -> A() + B().
+[09:44:22] <vinayb> save the file, and load the module into the shell
+[09:44:31] <vinayb> now tell me the output for these:
+[09:44:46] <vinayb> module_name:add(five,six).
