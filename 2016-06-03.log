@@ -131,3 +131,4 @@
 [10:02:37] <vinayb> we are binding that function to a variable
 [10:02:42] <vinayb> THEN we call the variable
 [10:02:46] <vinayb> very important difference
+[10:03:09] <vinayb> so basically: adder is a function that returns another function to us
