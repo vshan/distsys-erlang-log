@@ -217,3 +217,6 @@
 [10:35:11] <rakshith> [F(1)|F(2)|F(3)|F(4)]
 [10:35:19] <salman-bhai> Aree it'll be like this
 [10:35:31] <salman-bhai> Yeah how Rakshith showed it , recursion.
+[10:36:07] <vinayb> rakshith: don't forget the empty list 
+[10:36:13] <rakshith> yeah
+[10:36:17] <rakshith> [F(1)|F(2)|F(3)|F(4)|[]]
