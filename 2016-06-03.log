@@ -187,3 +187,6 @@
 [10:26:59] <salman-bhai> It generates the sequence automatically
 [10:27:09] <salman-bhai> The list*
 [10:27:15] *** Joins: vilas_m (2d7d2482@gateway/web/freenode/ip.45.125.36.130)
+[10:27:32] <rakshith> mapping the members of the list with a function we provide
+[10:27:40] <vinayb> exactly!
+[10:27:53] <vinayb> it maps each x from the list to F(x)
