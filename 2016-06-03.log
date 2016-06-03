@@ -155,3 +155,4 @@
 [10:13:59] <vilas_m_> When we call the function AnonFunc with another string.
 [10:14:35] <vinayb> Yes! So function1 only RETURNS a function to you. You can call it whenever you want to!
 [10:15:01] <vinayb> Now let's see a powerful benefit:
+[10:15:29] <vinayb> in the definition of function1, would you agree that the scope of parameter String1 is limited to just the function?
