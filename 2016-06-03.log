@@ -190,3 +190,5 @@
 [10:27:32] <rakshith> mapping the members of the list with a function we provide
 [10:27:40] <vinayb> exactly!
 [10:27:53] <vinayb> it maps each x from the list to F(x)
+[10:28:16] <vinayb> now let's go over the definition of map 
+[10:28:24] <vinayb> what's happening there?
