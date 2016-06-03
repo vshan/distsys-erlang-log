@@ -229,3 +229,4 @@
 [10:39:47] <vilas_m> filter( _ , [] ) -> [ ].
 [10:40:10] <vilas_m> filter( F, [H|T] ) -> case F(H) of
 [10:40:45] <vilas_m> true-> [ H | filter ( F, T ) ];
+[10:41:01] <vilas_m> false-> [ filter ( F, T ) ] end.
