@@ -124,3 +124,5 @@
 [10:00:25] <vinayb> Add6(5).
 [10:00:48] <vilas_m_> 7 and 11
 [10:00:55] <vinayb> correct! so what's happening here?
+[10:01:38] <rakshith> when declaring Add2 we give the input to the outer function
+[10:01:47] <rakshith> in the next statement we call the inner function?
