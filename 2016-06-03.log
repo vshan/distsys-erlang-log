@@ -265,3 +265,6 @@
 [11:00:16] <vinayb> fold(fun(X,Y) -> X + Y end, lists:seq(1,100), 0).
 [11:00:20] <vinayb> should give me 5060
 [11:00:22] <vinayb> *5050
+[11:01:02] <vinayb> it takes the Acc parameter, applies it with first element of list, takes their result, applies it to second element, takes THEIR result, applies it.. and son on
+[11:01:05] <vinayb> *so on
+[11:01:10] <vinayb> how would this be defined?
