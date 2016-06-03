@@ -242,3 +242,6 @@
 [10:48:38] <salman-bhai> OH okay
 [10:48:49] <rakshith> filter(F,[H|T]) -> [fun (H) -> Z=F(H), if Z==true -> [H|filter(F,T)] ; true -> [filter(F,T)] end]
 [10:49:13] <rakshith> filter(_,[]) -> [] in the begining
+[10:49:45] <vinayb> did you compile and run this and test it?
+[10:49:51] <vilas_m> i removed the [ ] for the false case :P  enter this : erlang6:filter(fun (X) -> X rem 2 == 0 end, lists:seq(1,10)) and the output is [2,4,6,8,10].
+[10:49:53] <rakshith> i'll do
