@@ -305,3 +305,5 @@
 [11:14:25] <vinayb> now, you see we used an accumulator
 [11:14:30] <vinayb> what if i did this:
 [11:14:36] <vinayb> fold2(F, List) 
+[11:15:23] <vinayb> and instead of Acc and first element, it starts off with the first couple elements
+[11:15:31] <vinayb> how would the definition of fold2 look like?
