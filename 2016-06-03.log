@@ -145,3 +145,4 @@
 [10:09:02] <vinayb>   fun (String2) -> 
 [10:09:02] <vinayb>     io:format("Anon function called with ~s as param, and I also remember ~s!~n", [String2, String1])
 [10:09:05] <vinayb>   end.
+[10:10:40] <vinayb> now type this in shell:
