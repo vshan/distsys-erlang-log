@@ -149,3 +149,4 @@
 [10:11:06] *** Joins: m_gautham (67f62a32@gateway/web/freenode/ip.103.246.42.50)
 [10:11:17] <vinayb> AnonFunc = module_name:function1("password=abcdefgh").
 [10:11:24] <vinayb> AnonFunc("Trolled!").
+[10:12:25] <vilas_m_> Func 1 got called with password=abcdefgh as parameter!
