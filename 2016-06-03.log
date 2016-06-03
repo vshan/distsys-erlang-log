@@ -315,3 +315,5 @@
 [11:19:42] <vilas_m> I'm confused about the base case :P
 [11:20:07] <vinayb> can you think of a way to do this by overloading fold2? ;)
 [11:20:47] <vinayb> Anyways, that's all for today!
+[11:21:11] <vinayb> HW: Figure out fold2, and filter2 (filter using fold in the definition)!
+[11:21:12] <vilas_m> fold2 ( F, [H|T] ) -> fold ( F , T , F(H) ) ?
