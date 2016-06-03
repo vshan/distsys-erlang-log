@@ -282,3 +282,4 @@
 [11:04:32] <rakshith> vinayb, this worked for me
 [11:04:32] <rakshith> filter(F,[H|T]) -> Z=F(H), if Z==true -> [H|filter(F,T)] ; true -> filter(F,T) end .
 [11:04:47] <vinayb> nice! good going rakshith !
+[11:05:04] <vinayb> have a look at the other definition too :)
