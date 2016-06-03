@@ -239,3 +239,5 @@
 [10:47:51] <vinayb> hint: you might need another parameter to pass the values during Recursino
 [10:48:00] <vinayb> salman-bhai: i want you to try your own solution!
 [10:48:08] <vinayb> no copying!
+[10:48:38] <salman-bhai> OH okay
+[10:48:49] <rakshith> filter(F,[H|T]) -> [fun (H) -> Z=F(H), if Z==true -> [H|filter(F,T)] ; true -> [filter(F,T)] end]
