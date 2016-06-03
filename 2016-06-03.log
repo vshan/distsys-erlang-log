@@ -98,3 +98,7 @@
 [09:53:38] <vinayb>   fun (X) -> X + N end.
 [09:54:48] <vinayb> what we've done here is we've created an Anonymous Function
 [09:55:02] <vinayb> Anonymous function are functions that have no names
+[09:55:11] <vinayb> They are created on the fly
+[09:55:23] <vinayb> Adder is a function that RETURS OTHER functions
+[09:55:25] <vinayb> let's see how
+[09:55:36] <vinayb> type this in the shell after loading:
