@@ -158,3 +158,6 @@
 [10:15:29] <vinayb> in the definition of function1, would you agree that the scope of parameter String1 is limited to just the function?
 [10:15:50] <vilas_m_> Yup.
 [10:16:00] <vinayb> what I mean is, if you try accessing String1 outside the function, you'll get an error!
+[10:16:13] <vinayb> Because it's only in the scope of function1
+[10:16:32] <vinayb> but we see how using an anonymous functions, we can preserve the value of the parameter
+[10:16:39] <vinayb> *function
