@@ -319,3 +319,4 @@
 [11:21:12] <vilas_m> fold2 ( F, [H|T] ) -> fold ( F , T , F(H) ) ?
 [11:21:25] <vinayb> it's a binary function vilas_m 
 [11:21:39] <salman-bhai> Umm @vinayb can u explain function overloading once?
+[11:22:26] <vinayb> don't think of it as function overloading. it's two seperate functions, whenever you call it with two parameters, Erlang knows which one to call, whenever you call with three parameters, Erlang knows the other to call
