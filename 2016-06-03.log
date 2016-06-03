@@ -140,3 +140,8 @@
 [10:07:16] *** Quits: m_gautham__ (75c67091@gateway/web/freenode/ip.117.198.112.145) (Ping timeout: 250 seconds)
 [10:08:29] <vinayb> That is the reperesentation of an anon function. The numbers are just an ID
 [10:08:34] <vinayb> now type this onto your file:
+[10:09:02] <vinayb> function1(String1) ->
+[10:09:02] <vinayb>   io:format("Func 1 got called with ~s as parameter!~n", [String1]),
+[10:09:02] <vinayb>   fun (String2) -> 
+[10:09:02] <vinayb>     io:format("Anon function called with ~s as param, and I also remember ~s!~n", [String2, String1])
+[10:09:05] <vinayb>   end.
