@@ -314,3 +314,4 @@
 [11:19:16] <vilas_m> fold2( F, [ A | [ ] ] ) ->  A ?
 [11:19:42] <vilas_m> I'm confused about the base case :P
 [11:20:07] <vinayb> can you think of a way to do this by overloading fold2? ;)
+[11:20:47] <vinayb> Anyways, that's all for today!
