@@ -210,3 +210,6 @@
 [10:33:36] <salman-bhai> map(F, [3,4]) -> [3 + 5| map(F, [3,4]) ].
 [10:33:47] <salman-bhai> map(F, [3,4]) -> [3 + 5| map(F, [4]) ].*
 [10:34:07] <salman-bhai> map(F, [4]) -> [4 + 5| map(F, []) ].
+[10:34:22] <salman-bhai> map(F, []) -> [ ].
+[10:34:30] <vinayb> and how do the returned values build to the final solution?
+[10:34:45] <rakshith> normal recursion
