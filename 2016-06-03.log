@@ -146,3 +146,6 @@
 [10:09:02] <vinayb>     io:format("Anon function called with ~s as param, and I also remember ~s!~n", [String2, String1])
 [10:09:05] <vinayb>   end.
 [10:10:40] <vinayb> now type this in shell:
+[10:11:06] *** Joins: m_gautham (67f62a32@gateway/web/freenode/ip.103.246.42.50)
+[10:11:17] <vinayb> AnonFunc = module_name:function1("password=abcdefgh").
+[10:11:24] <vinayb> AnonFunc("Trolled!").
