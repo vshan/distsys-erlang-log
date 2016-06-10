@@ -42,3 +42,4 @@
 [11:56:43] <akshayrevankar> i would like all of you to open your erlang console
 [11:58:25] <akshayrevankar> so firstly can anyone just tell an erlang statement to sort a list [1,2,3,4].
 [11:58:30] <m_gautham> done
+[11:59:17] <vilas_m> lists:sort(L).
