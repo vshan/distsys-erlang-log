@@ -170,3 +170,6 @@
 [12:50:14] <akshayrevankar> uh.. doesnt error raise an exception?
 [12:50:34] <akshayrevankar> [21:55] ME: the default catch is a throw which means if u dont specify the typeoferror, it will be a throw
 [12:50:45] <rakshith> ah..
+[12:51:20] <akshayrevankar> thats why error is not caught..
+[12:51:23] <rakshith> was having dinner at that time :P
+[12:51:44] <m_gautham> i think the second one returned exit
