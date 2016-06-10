@@ -156,3 +156,8 @@
 [12:45:30] <akshayrevankar>  -compile(export_all).
 [12:45:35] <akshayrevankar>  throws(F) -> try F() of
 [12:45:40] <akshayrevankar> _ -> ok
+[12:45:53] <akshayrevankar> catch
+[12:45:56] <akshayrevankar> Throw -> {throw, caught, Throw};
+[12:46:01] <akshayrevankar> error:Error -> {error, caught, Error};
+[12:46:04] <akshayrevankar> exit:Exit -> {exit, caught, Exit}
+[12:46:05] <akshayrevankar> end.
