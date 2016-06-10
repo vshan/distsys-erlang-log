@@ -79,3 +79,4 @@
 [12:13:32] <akshayrevankar> abc:random([1,2,3]). This would be a undefined error
 [12:13:45] <akshayrevankar> as there is no function defined by you or inbuilt in erlang
 [12:14:10] <akshayrevankar> its unlikely that it would be a runtime error unless u forget to include the file
+[12:14:42] <akshayrevankar> so these are a few exceptions in erlang
