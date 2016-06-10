@@ -46,3 +46,5 @@
 [11:59:32] <akshayrevankar> ya correct...
 [11:59:45] <akshayrevankar> now what happens if my L is '1234' ?
 [12:00:09] <akshayrevankar> or say '4572' (we are using the sort function :P )
+[12:00:32] <vilas_m> Pattern matching error?
+[12:00:46] <akshayrevankar> ya.. its an error
