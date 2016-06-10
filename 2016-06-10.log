@@ -78,3 +78,4 @@
 [12:12:59] <akshayrevankar> [X,Y] = {4,5}. this is a error as theres no match on both sides
 [12:13:32] <akshayrevankar> abc:random([1,2,3]). This would be a undefined error
 [12:13:45] <akshayrevankar> as there is no function defined by you or inbuilt in erlang
+[12:14:10] <akshayrevankar> its unlikely that it would be a runtime error unless u forget to include the file
