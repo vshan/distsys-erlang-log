@@ -81,3 +81,5 @@
 [12:14:10] <akshayrevankar> its unlikely that it would be a runtime error unless u forget to include the file
 [12:14:42] <akshayrevankar> so these are a few exceptions in erlang
 [12:15:07] <akshayrevankar> when u have function with arity 1 and call that with 2 parameters..
+[12:15:32] <akshayrevankar> these erlang errors have their own meanings and are fixed for certain kind of errors
+[12:15:38] <akshayrevankar> if u want to raise an error:
