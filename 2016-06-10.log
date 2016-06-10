@@ -267,3 +267,7 @@
 [13:12:01] <akshayrevankar> catch 4.
 [13:12:16] <akshayrevankar> sorry..
 [13:12:23] <akshayrevankar> catch return.
+[13:12:57] <akshayrevankar> and catch throw(return).
+[13:12:57] <akshayrevankar> whats the output?
+[13:13:09] <akshayrevankar> catch 4.
+[13:13:14] <akshayrevankar> catch throw(4).
