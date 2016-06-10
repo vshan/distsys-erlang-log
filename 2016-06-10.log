@@ -145,3 +145,7 @@
 [12:41:41] <m_gautham> btw whats that ok??
 [12:42:22] <akshayrevankar> what ok?
 [12:42:48] <m_gautham> _->ok
+[12:43:08] <rakshith> atom
+[12:43:22] <akshayrevankar> haha. ya ok is an atom alright..
+[12:43:29] <akshayrevankar> if u type:
+[12:43:31] <akshayrevankar> exceptions:throws(fun() -> hi end).
