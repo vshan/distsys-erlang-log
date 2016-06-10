@@ -35,3 +35,4 @@
 [11:54:14] <vilas_m> Then you said it's better to use the inbuilt function..
 [11:54:28] <akshayrevankar> I would prefer to use the BIF lists:sort rather than writing my own, because it is more optimised and erlang doesnt follow just one algorithm to sort.. it uses the best algorithm to sort..
 [11:54:52] <akshayrevankar> atleast thats what the programmers think :P
+[11:55:42] <akshayrevankar> so if you have a BIF, do prefer it.. but nonetheless , you should know basics of different algorithms.. so we will be discussing quick sort using recursion..
