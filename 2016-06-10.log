@@ -202,3 +202,4 @@
 [12:56:59] <akshayrevankar> end.
 [12:57:10] <akshayrevankar> the expression in the after block is always executed...
 [12:57:20] *** Quits: m_gautham (75dd6b77@gateway/web/freenode/ip.117.221.107.119) (Ping timeout: 250 seconds)
+[12:58:07] <rakshith> isn't there something like try-catch-else like in python? else being executed only if no exception was raised..?
