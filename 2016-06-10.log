@@ -65,3 +65,5 @@
 [12:08:18] <aditya> ** exception error: no case clause matching "some random"
 [12:08:41] <akshayrevankar> ohk cool..
 [12:09:09] <akshayrevankar> ya so theres no clause matching
+[12:09:20] <akshayrevankar> so imagine you are running a c code..
+[12:09:28] <akshayrevankar> and because there is no case matching..
