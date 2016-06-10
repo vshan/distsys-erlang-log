@@ -70,3 +70,5 @@
 [12:09:47] <akshayrevankar> you wont expect it to stop ur code..
 [12:10:39] <akshayrevankar> in erlang it would lead to an error..
 [12:11:01] <akshayrevankar> so.. you either need to take care of it to tell it to do something...
+[12:11:29] <akshayrevankar> its the same with a if statement
+[12:11:40] <akshayrevankar>  if 2 > 4 -> hiee;
