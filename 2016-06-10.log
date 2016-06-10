@@ -209,3 +209,8 @@
 [12:59:25] <akshayrevankar> it will excute
 [12:59:32] <rakshith> no no. i'm asking isn't there an equivalent in erlang..
 [12:59:33] <akshayrevankar> ###but this block cant return any value
+[13:00:10] <akshayrevankar> now instead of always having a try catch..
+[13:00:17] <akshayrevankar> you can just have a catch statement..
+[13:00:21] <akshayrevankar> like catch 2/2.
+[13:00:31] <akshayrevankar> catch 2/2.
+[13:00:34] <akshayrevankar> whats the output
