@@ -246,3 +246,4 @@
 [13:07:02] <akshayrevankar>  {'EXIT', {badarith,_}} -> "I say it's Infinite";
 [13:07:08] <akshayrevankar> N -> N
 [13:07:09] <akshayrevankar> end.
+[13:07:44] <akshayrevankar> you know it will return {'EXIT',{badarith,...}}
