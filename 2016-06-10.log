@@ -118,3 +118,8 @@
 [12:28:46] <akshayrevankar> ok lets make a module exceptions
 [12:28:51] <akshayrevankar> -module(exceptions).
 [12:29:41] <akshayrevankar> -compile(export_all).
+[12:29:47] <akshayrevankar>   throws(F) -> try F() of
+[12:29:52] <akshayrevankar> _ -> ok
+[12:30:01] <akshayrevankar> catch
+[12:30:04] <akshayrevankar> Throw -> {throw, caught, Throw}
+[12:30:06] <akshayrevankar> end.
