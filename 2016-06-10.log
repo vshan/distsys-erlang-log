@@ -80,3 +80,4 @@
 [12:13:45] <akshayrevankar> as there is no function defined by you or inbuilt in erlang
 [12:14:10] <akshayrevankar> its unlikely that it would be a runtime error unless u forget to include the file
 [12:14:42] <akshayrevankar> so these are a few exceptions in erlang
+[12:15:07] <akshayrevankar> when u have function with arity 1 and call that with 2 parameters..
