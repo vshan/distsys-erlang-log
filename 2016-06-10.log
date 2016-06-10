@@ -45,3 +45,4 @@
 [11:59:17] <vilas_m> lists:sort(L).
 [11:59:32] <akshayrevankar> ya correct...
 [11:59:45] <akshayrevankar> now what happens if my L is '1234' ?
+[12:00:09] <akshayrevankar> or say '4572' (we are using the sort function :P )
