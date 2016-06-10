@@ -108,3 +108,5 @@
 [12:23:19] <akshayrevankar> just => change to ->          (used to ruby :D)
 [12:23:39] <akshayrevankar> so..
 [12:23:43] <akshayrevankar> we will start with an example
+[12:25:17] <akshayrevankar> ya before that.. the default catch is a throw which means if u dont specify the typeoferror, it will be a throw
+[12:25:34] <akshayrevankar> Throw:  is intended to be used for non-local returns and does not generate an error unless it is not caught ..
