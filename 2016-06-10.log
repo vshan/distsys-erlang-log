@@ -40,3 +40,5 @@
 [11:56:14] *** Quits: salman_ (b63a2e08@gateway/web/freenode/ip.182.58.46.8) (Ping timeout: 250 seconds)
 [11:56:16] <akshayrevankar> so we will start with Errors and Exceptions..
 [11:56:43] <akshayrevankar> i would like all of you to open your erlang console
+[11:58:25] <akshayrevankar> so firstly can anyone just tell an erlang statement to sort a list [1,2,3,4].
+[11:58:30] <m_gautham> done
