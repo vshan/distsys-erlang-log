@@ -183,3 +183,4 @@
 [12:53:26] <akshayrevankar> thats what try and catch is meant to do
 [12:53:42] <akshayrevankar> now in cath you can have statements like:
 [12:54:19] <akshayrevankar> error:crap -> "Harm can come to a young lad like that!";
+[12:54:28] <akshayrevankar> so it will match error(crap)
