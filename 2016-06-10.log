@@ -222,3 +222,9 @@
 [13:02:59] <akshayrevankar> good
 [13:03:13] <akshayrevankar> so you see. .no error.. it just outputs the answer
 [13:03:18] <akshayrevankar> now try catch 2/0.
+[13:03:50] <rakshith> {'EXIT',{badarith,[{erlang,'/',[2,0],[]},
+[13:03:51] <rakshith>                    {erl_eval,do_apply,6,[{file,"erl_eval.erl"},{line,673}]},
+[13:03:51] <rakshith>                    {erl_eval,expr,5,[{file,"erl_eval.erl"},{line,431}]},
+[13:03:51] <rakshith>                    {shell,exprs,7,[{file,"shell.erl"},{line,686}]},
+[13:03:51] <rakshith>                    {shell,eval_exprs,7,[{file,"shell.erl"},{line,641}]},
+[13:03:51] <rakshith>                    {shell,eval_loop,3,[{file,"shell.erl"},{line,626}]}]}}
