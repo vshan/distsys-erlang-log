@@ -124,3 +124,5 @@
 [12:30:04] <akshayrevankar> Throw -> {throw, caught, Throw}
 [12:30:06] <akshayrevankar> end.
 [12:30:51] <akshayrevankar> c(exceptions).
+[12:31:55] <akshayrevankar> exceptions:throws(fun() -> throw(lol) end).
+[12:32:06] <akshayrevankar> exceptions:throws(fun() -> erlang:error(pang) end).
