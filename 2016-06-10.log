@@ -43,3 +43,5 @@
 [11:58:25] <akshayrevankar> so firstly can anyone just tell an erlang statement to sort a list [1,2,3,4].
 [11:58:30] <m_gautham> done
 [11:59:17] <vilas_m> lists:sort(L).
+[11:59:32] <akshayrevankar> ya correct...
+[11:59:45] <akshayrevankar> now what happens if my L is '1234' ?
