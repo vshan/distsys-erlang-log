@@ -112,3 +112,4 @@
 [12:25:34] <akshayrevankar> Throw:  is intended to be used for non-local returns and does not generate an error unless it is not caught ..
 [12:25:42] *** Joins: adarsh_h (6ad886a3@gateway/web/freenode/ip.106.216.134.163)
 [12:26:02] <adarsh_h> sorry am late..just came back home
+[12:26:19] <akshayrevankar> Error:  is generated when the system detects an error. You can explicitly generate an error using error/1. as you did before using erlang:error('Why am I here?').
