@@ -51,3 +51,5 @@
 [12:00:58] <akshayrevankar> because these are defined to operate on a list.
 [12:01:40] <akshayrevankar> so assume you have a code snippet running and you pass '4572'.. it would be an error..
 [12:02:05] <akshayrevankar> an error here is equivalent to telling.. i cant handle it.. you stop doing everything else..
+[12:02:33] <akshayrevankar> so this is a function-clause error
+[12:02:51] <akshayrevankar> where your function parameters couldnt match any clause
