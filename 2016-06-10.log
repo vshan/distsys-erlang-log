@@ -48,3 +48,4 @@
 [12:00:09] <akshayrevankar> or say '4572' (we are using the sort function :P )
 [12:00:32] <vilas_m> Pattern matching error?
 [12:00:46] <akshayrevankar> ya.. its an error
+[12:00:58] <akshayrevankar> because these are defined to operate on a list.
