@@ -149,3 +149,4 @@
 [12:43:22] <akshayrevankar> haha. ya ok is an atom alright..
 [12:43:29] <akshayrevankar> if u type:
 [12:43:31] <akshayrevankar> exceptions:throws(fun() -> hi end).
+[12:43:41] <akshayrevankar> there is no exception being sent.. so it will return ok..
