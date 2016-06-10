@@ -98,3 +98,7 @@
 [12:20:51] <akshayrevankar> its exactly the same here..
 [12:20:56] <akshayrevankar> but erlang style
 [12:21:19] <akshayrevankar> its:
+[12:21:32] <akshayrevankar> try expr of
+[12:21:47] <akshayrevankar> correctpattern1 [guards] -> exp1;
+[12:21:57] <akshayrevankar> correctpattern2 [guard] ->exp2
+[12:22:00] <akshayrevankar> catch
