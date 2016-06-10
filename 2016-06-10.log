@@ -255,3 +255,6 @@
 [13:09:05] <rakshith> yeah
 [13:09:43] <m_gautham> yes
 [13:09:49] <aditya> yes
+[13:09:59] <akshayrevankar> though there are some complications with catch
+[13:10:01] <akshayrevankar> example:
+[13:10:17] <akshayrevankar> X=catch 4+2.
