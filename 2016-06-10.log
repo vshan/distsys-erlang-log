@@ -176,3 +176,7 @@
 [12:52:18] <akshayrevankar> ok..
 [12:52:33] <akshayrevankar> it would return an error handled..
 [12:52:38] <akshayrevankar> it wouldnt exit
+[12:52:51] <m_gautham> ok
+[12:53:04] <akshayrevankar> because it is made to handle the exception..
+[12:53:12] <akshayrevankar> error, throw , exit are all exception..
+[12:53:20] <akshayrevankar> if there is an exception.. dont do it.. do something else..
