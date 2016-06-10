@@ -251,3 +251,5 @@
 [13:08:13] <akshayrevankar> else if its not that.. just output the same..
 [13:08:31] <akshayrevankar> which is shown as if case is N, output N..
 [13:08:47] <akshayrevankar> where N can be anything other than {'EXIT',{'badarith,...}}
+[13:08:50] <akshayrevankar> got it?
+[13:09:05] <rakshith> yeah
