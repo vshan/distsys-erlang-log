@@ -174,3 +174,5 @@
 [12:51:23] <rakshith> was having dinner at that time :P
 [12:51:44] <m_gautham> i think the second one returned exit
 [12:52:18] <akshayrevankar> ok..
+[12:52:33] <akshayrevankar> it would return an error handled..
+[12:52:38] <akshayrevankar> it wouldnt exit
