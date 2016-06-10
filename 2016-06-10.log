@@ -263,3 +263,7 @@
 [13:11:00] <akshayrevankar> ya.. theres an issue with precedence..
 [13:11:13] <akshayrevankar> so u need to do X= (catch 4+2.)
 [13:11:36] <akshayrevankar> X= (catch 4+2).
+[13:11:55] <akshayrevankar> then for example..
+[13:12:01] <akshayrevankar> catch 4.
+[13:12:16] <akshayrevankar> sorry..
+[13:12:23] <akshayrevankar> catch return.
