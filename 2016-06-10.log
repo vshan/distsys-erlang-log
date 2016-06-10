@@ -92,3 +92,8 @@
 [12:19:35] <akshayrevankar> can someone tell me in a C like language
 [12:19:42] <akshayrevankar> hoow would u handle
 [12:20:25] <akshayrevankar> if u use C++, python, java etc...
+[12:20:34] <rakshith> try catch clause
+[12:20:37] <akshayrevankar> C doesn't have exception handling
+[12:20:43] <akshayrevankar> ya.. try catch clause..
+[12:20:51] <akshayrevankar> its exactly the same here..
+[12:20:56] <akshayrevankar> but erlang style
