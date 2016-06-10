@@ -235,3 +235,4 @@
 [13:04:46] <akshayrevankar> the code goes on..
 [13:04:58] *** Joins: vilas_m (2d7d2557@gateway/web/freenode/ip.45.125.37.87)
 [13:05:10] <akshayrevankar> but imagine.. for a divide by 0 you wan to explicitly output an Inf or Nan
+[13:05:19] <akshayrevankar> then we can do it in the catch block
