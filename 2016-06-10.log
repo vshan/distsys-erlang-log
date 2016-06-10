@@ -117,3 +117,4 @@
 [12:27:42] <akshayrevankar> Exit: is generated using exit/1 and is intended to signal that this process is to die.
 [12:28:46] <akshayrevankar> ok lets make a module exceptions
 [12:28:51] <akshayrevankar> -module(exceptions).
+[12:29:41] <akshayrevankar> -compile(export_all).
