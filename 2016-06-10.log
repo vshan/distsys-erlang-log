@@ -83,3 +83,5 @@
 [12:15:07] <akshayrevankar> when u have function with arity 1 and call that with 2 parameters..
 [12:15:32] <akshayrevankar> these erlang errors have their own meanings and are fixed for certain kind of errors
 [12:15:38] <akshayrevankar> if u want to raise an error:
+[12:16:00] <akshayrevankar> erlang:error('Why am I Here?').
+[12:16:21] <akshayrevankar> or something similar where you want to tell the user explicitly what might have gone wrong.
