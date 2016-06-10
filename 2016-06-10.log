@@ -228,3 +228,6 @@
 [13:03:51] <rakshith>                    {shell,exprs,7,[{file,"shell.erl"},{line,686}]},
 [13:03:51] <rakshith>                    {shell,eval_exprs,7,[{file,"shell.erl"},{line,641}]},
 [13:03:51] <rakshith>                    {shell,eval_loop,3,[{file,"shell.erl"},{line,626}]}]}}
+[13:04:25] <akshayrevankar> oh god.. good good..
+[13:04:26] <akshayrevankar> :D
+[13:04:40] <akshayrevankar> basically it returned some value..
