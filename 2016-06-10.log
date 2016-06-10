@@ -53,3 +53,5 @@
 [12:02:05] <akshayrevankar> an error here is equivalent to telling.. i cant handle it.. you stop doing everything else..
 [12:02:33] <akshayrevankar> so this is a function-clause error
 [12:02:51] <akshayrevankar> where your function parameters couldnt match any clause
+[12:03:16] <akshayrevankar> we will be discussing runtime errors for a while.. may be boring.. deal with it :P
+[12:03:29] <akshayrevankar> ok now lets say a case statement
