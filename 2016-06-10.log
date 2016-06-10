@@ -68,3 +68,4 @@
 [12:09:20] <akshayrevankar> so imagine you are running a c code..
 [12:09:28] <akshayrevankar> and because there is no case matching..
 [12:09:47] <akshayrevankar> you wont expect it to stop ur code..
+[12:10:39] <akshayrevankar> in erlang it would lead to an error..
