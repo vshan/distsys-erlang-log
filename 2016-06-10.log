@@ -162,3 +162,4 @@
 [12:46:04] <akshayrevankar> exit:Exit -> {exit, caught, Exit}
 [12:46:05] <akshayrevankar> end.
 [12:46:28] <akshayrevankar> now try the two statements as before
+[12:47:56] <rakshith> Error is also being caught now
