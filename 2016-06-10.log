@@ -151,3 +151,8 @@
 [12:43:31] <akshayrevankar> exceptions:throws(fun() -> hi end).
 [12:43:41] <akshayrevankar> there is no exception being sent.. so it will return ok..
 [12:45:04] <akshayrevankar> got it?
+[12:45:18] <m_gautham> yes
+[12:45:27] <akshayrevankar> -module(exceptions).
+[12:45:30] <akshayrevankar>  -compile(export_all).
+[12:45:35] <akshayrevankar>  throws(F) -> try F() of
+[12:45:40] <akshayrevankar> _ -> ok
