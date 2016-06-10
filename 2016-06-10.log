@@ -273,3 +273,5 @@
 [13:13:14] <akshayrevankar> catch throw(4).
 [13:13:52] <rakshith> 4
 [13:14:04] <aditya> return
+[13:14:31] <akshayrevankar> ya.. so its not possible to distinguish the throw catch with the correct value without throw sometimes..
+[13:14:52] <akshayrevankar> so guys.. this is all about basics of exception..
