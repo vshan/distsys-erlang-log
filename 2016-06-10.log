@@ -127,3 +127,4 @@
 [12:31:55] <akshayrevankar> exceptions:throws(fun() -> throw(lol) end).
 [12:32:06] <akshayrevankar> exceptions:throws(fun() -> erlang:error(pang) end).
 [12:32:22] <akshayrevankar> ok can some tell and try to explain the output
+[12:35:56] <akshayrevankar> ...
