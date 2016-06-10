@@ -240,3 +240,6 @@
 [13:05:48] *** Quits: vilas_m (2d7d2557@gateway/web/freenode/ip.45.125.37.87) (Client Quit)
 [13:05:51] *** Joins: vilas_m__ (2d7d2557@gateway/web/freenode/ip.45.125.37.87)
 [13:05:57] *** Quits: vilas_m_ (2d7d2557@gateway/web/freenode/ip.45.125.37.87) (Quit: Page closed)
+[13:06:15] <akshayrevankar> if u just dont care about handling the error.. just use catch expr..
+[13:06:37] <akshayrevankar> you can also do this instead of try catch..
+[13:06:42] <akshayrevankar> case catch X/Y of
