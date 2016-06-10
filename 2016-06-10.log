@@ -166,3 +166,4 @@
 [12:48:24] <akshayrevankar> ya so what was the point that i mentioned before?
 [12:48:31] <akshayrevankar> why error was not getting caught?
 [12:48:35] <akshayrevankar> why only throw
+[12:49:43] <rakshith> throw raises an exception. Only exceptions are caught?
