@@ -207,3 +207,5 @@
 [12:59:14] <akshayrevankar> but this is not like else..
 [12:59:23] <akshayrevankar> in after irrespective of error or not..
 [12:59:25] <akshayrevankar> it will excute
+[12:59:32] <rakshith> no no. i'm asking isn't there an equivalent in erlang..
+[12:59:33] <akshayrevankar> ###but this block cant return any value
