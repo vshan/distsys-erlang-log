@@ -204,3 +204,6 @@
 [12:57:20] *** Quits: m_gautham (75dd6b77@gateway/web/freenode/ip.117.221.107.119) (Ping timeout: 250 seconds)
 [12:58:07] <rakshith> isn't there something like try-catch-else like in python? else being executed only if no exception was raised..?
 [12:58:45] <akshayrevankar> ya agreed
+[12:59:14] <akshayrevankar> but this is not like else..
+[12:59:23] <akshayrevankar> in after irrespective of error or not..
+[12:59:25] <akshayrevankar> it will excute
