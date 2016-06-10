@@ -243,3 +243,6 @@
 [13:06:15] <akshayrevankar> if u just dont care about handling the error.. just use catch expr..
 [13:06:37] <akshayrevankar> you can also do this instead of try catch..
 [13:06:42] <akshayrevankar> case catch X/Y of
+[13:07:02] <akshayrevankar>  {'EXIT', {badarith,_}} -> "I say it's Infinite";
+[13:07:08] <akshayrevankar> N -> N
+[13:07:09] <akshayrevankar> end.
