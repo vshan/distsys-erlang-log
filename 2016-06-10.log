@@ -72,3 +72,5 @@
 [12:11:01] <akshayrevankar> so.. you either need to take care of it to tell it to do something...
 [12:11:29] <akshayrevankar> its the same with a if statement
 [12:11:40] <akshayrevankar>  if 2 > 4 -> hiee;
+[12:11:48] <akshayrevankar>  0 > 1 -> whatever
+[12:11:50] <akshayrevankar> end.
