@@ -258,3 +258,5 @@
 [13:09:59] <akshayrevankar> though there are some complications with catch
 [13:10:01] <akshayrevankar> example:
 [13:10:17] <akshayrevankar> X=catch 4+2.
+[13:10:22] <akshayrevankar> whats the output
+[13:10:37] <rakshith> syntax error
