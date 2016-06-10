@@ -180,3 +180,5 @@
 [12:53:04] <akshayrevankar> because it is made to handle the exception..
 [12:53:12] <akshayrevankar> error, throw , exit are all exception..
 [12:53:20] <akshayrevankar> if there is an exception.. dont do it.. do something else..
+[12:53:26] <akshayrevankar> thats what try and catch is meant to do
+[12:53:42] <akshayrevankar> now in cath you can have statements like:
