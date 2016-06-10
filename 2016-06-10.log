@@ -115,3 +115,5 @@
 [12:26:19] <akshayrevankar> Error:  is generated when the system detects an error. You can explicitly generate an error using error/1. as you did before using erlang:error('Why am I here?').
 [12:26:53] <akshayrevankar> you can do the same for Throw as erlang:throw('Just throw me').
 [12:27:42] <akshayrevankar> Exit: is generated using exit/1 and is intended to signal that this process is to die.
+[12:28:46] <akshayrevankar> ok lets make a module exceptions
+[12:28:51] <akshayrevankar> -module(exceptions).
