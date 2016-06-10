@@ -62,3 +62,5 @@
 [12:04:29] <akshayrevankar> what would this result in
 [12:06:35] <aditya> error! No true statement
 [12:07:02] <akshayrevankar> ok is that the exact line you get in erlang?
+[12:08:18] <aditya> ** exception error: no case clause matching "some random"
+[12:08:41] <akshayrevankar> ohk cool..
