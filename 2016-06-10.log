@@ -76,3 +76,5 @@
 [12:11:50] <akshayrevankar> end.
 [12:12:34] <akshayrevankar> so even here that's :\
 [12:12:59] <akshayrevankar> [X,Y] = {4,5}. this is a error as theres no match on both sides
+[12:13:32] <akshayrevankar> abc:random([1,2,3]). This would be a undefined error
+[12:13:45] <akshayrevankar> as there is no function defined by you or inbuilt in erlang
