@@ -49,3 +49,4 @@
 [12:00:32] <vilas_m> Pattern matching error?
 [12:00:46] <akshayrevankar> ya.. its an error
 [12:00:58] <akshayrevankar> because these are defined to operate on a list.
+[12:01:40] <akshayrevankar> so assume you have a code snippet running and you pass '4572'.. it would be an error..
