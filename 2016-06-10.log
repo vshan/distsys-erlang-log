@@ -55,3 +55,8 @@
 [12:02:51] <akshayrevankar> where your function parameters couldnt match any clause
 [12:03:16] <akshayrevankar> we will be discussing runtime errors for a while.. may be boring.. deal with it :P
 [12:03:29] <akshayrevankar> ok now lets say a case statement
+[12:04:03] <akshayrevankar> case "some random thingy" of
+[12:04:10] <akshayrevankar> expected_value -> ok;
+[12:04:18] <akshayrevankar>  other_expected_value -> 'still ok'
+[12:04:24] <akshayrevankar> end.
+[12:04:29] <akshayrevankar> what would this result in
