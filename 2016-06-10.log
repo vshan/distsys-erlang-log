@@ -260,3 +260,5 @@
 [13:10:17] <akshayrevankar> X=catch 4+2.
 [13:10:22] <akshayrevankar> whats the output
 [13:10:37] <rakshith> syntax error
+[13:11:00] <akshayrevankar> ya.. theres an issue with precedence..
+[13:11:13] <akshayrevankar> so u need to do X= (catch 4+2.)
