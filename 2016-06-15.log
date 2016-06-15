@@ -54,3 +54,5 @@
 [11:46:39] <vinayb> run it:
 [11:46:40] <vinayb> c(records).
 [11:46:50] <vinayb> records:car_factory("Jokeswagen").
+[11:47:58] <vinayb> what's the output?
+[11:48:14] <vilas_m> #robot{name = "Jokeswagen",type = industrial,        hobbies = "building cars",details = []}
