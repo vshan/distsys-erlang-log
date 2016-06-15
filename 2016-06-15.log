@@ -109,3 +109,4 @@
 [12:07:38] <vilas_m> no
 [12:07:44] <aditya_a> No
 [12:08:48] <vinayb> The following function illustrates how to update a record (they wouldn't be very useful otherwise):
+[12:09:14] <vinayb> repairman(Rob) -> Details = Rob#robot.details, NewRob = Rob#robot{details=["Repaired by repairman"|Details]}, {repaired, NewRob}.
