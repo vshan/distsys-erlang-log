@@ -53,3 +53,4 @@
 [11:45:58] <vinayb> car_factory(CorpName) -> #robot{name=CorpName, hobbies="building cars"}.
 [11:46:39] <vinayb> run it:
 [11:46:40] <vinayb> c(records).
+[11:46:50] <vinayb> records:car_factory("Jokeswagen").
