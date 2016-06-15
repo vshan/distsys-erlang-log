@@ -133,3 +133,4 @@
 [12:16:39] *** Joins: rakshith (~hehaichi@103.194.22.43)
 [12:17:06] <vinayb> can anyone guess what the file extension might be? ;)
 [12:17:35] <adarsh_h> .beam?
+[12:18:35] <vinayb> not quite, .beam are the files generated when your Erlang code gets converted to bytecode. Then the bytecode runs on the Erlang virtual machine
