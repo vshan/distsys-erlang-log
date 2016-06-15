@@ -112,3 +112,4 @@
 [12:09:14] <vinayb> repairman(Rob) -> Details = Rob#robot.details, NewRob = Rob#robot{details=["Repaired by repairman"|Details]}, {repaired, NewRob}.
 [12:09:39] <vinayb> and then:
 [12:09:43] <vinayb> c(records).
+[12:10:10] <vinayb> records:repairman(#robot{name="Bor", hobbies=["trying to have feelings"]}).
