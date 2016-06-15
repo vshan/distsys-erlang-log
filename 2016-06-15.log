@@ -119,3 +119,4 @@
 [12:11:23] <adarsh_h>  details = ["Repaired by repairman"]}}
 [12:12:01] <vinayb> right! the syntax to update records is a bit special here, gotta get used to it
 [12:12:32] <vinayb> so guys, in C we have two types of files yes? .h and .c, why is that?
+[12:13:36] *** Parts: m_gautham (75c67580@gateway/web/freenode/ip.117.198.117.128) ()
