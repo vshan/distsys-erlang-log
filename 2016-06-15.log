@@ -130,3 +130,4 @@
 [12:15:23] <vinayb> so similarly 
 [12:15:28] <vinayb> we have Erlang header files also
 [12:16:07] <vinayb> they're similar to their C counterpart in that, they just get added to the module as if it were written there in the first place
+[12:16:39] *** Joins: rakshith (~hehaichi@103.194.22.43)
