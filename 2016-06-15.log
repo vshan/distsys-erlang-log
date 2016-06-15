@@ -118,3 +118,4 @@
 [12:11:16] <adarsh_h> hobbies = ["trying to have feelings"],
 [12:11:23] <adarsh_h>  details = ["Repaired by repairman"]}}
 [12:12:01] <vinayb> right! the syntax to update records is a bit special here, gotta get used to it
+[12:12:32] <vinayb> so guys, in C we have two types of files yes? .h and .c, why is that?
