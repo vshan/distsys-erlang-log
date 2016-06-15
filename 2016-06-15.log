@@ -68,3 +68,4 @@
 [11:52:14] <vinayb> right! so you can see how we can extract values from a record. Yes, the syntax is pretty ugly. Even though techincally you shouldn't need to specify the 'robot' keyword, it's just the way it is
 [11:52:42] <vinayb> nested records get even uglier:
 [11:52:50] <vinayb> NestedBot = #robot{details=#robot{name="erNest"}}.
+[11:52:59] <vinayb> (NestedBot#robot.details)#robot.name.
