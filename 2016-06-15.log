@@ -19,3 +19,4 @@
 [11:36:01] <vinayb> -module(records).
 [11:36:01] <vinayb> -compile(export_all).
 [11:36:04] <vinayb> -record(robot, {name, type=industrial, hobbies, details=[]}).
+[11:36:40] <vinayb> btw, if you're tired of passing each function signature to the compile attribute, then you can just use export_all
