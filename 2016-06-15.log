@@ -93,3 +93,6 @@
 [11:59:53] <vinayb> and tell me the output to these expressions:
 [12:00:11] <vinayb> don't foget to c(records). and then rr(records).
 [12:00:36] <vinayb> records:admin_panel(#user{id=1, name="rohit", group=admin, age=96}).
+[12:00:45] <vinayb> records:admin_panel(#user{id=2, name="you", group=users, age=66}).
+[12:00:56] *** Joins: m_gautham (75c67580@gateway/web/freenode/ip.117.198.117.128)
+[12:01:10] <vinayb> records:adult_section(#user{id=21, name="rahul", group=users, age=72}).
