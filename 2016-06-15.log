@@ -28,3 +28,8 @@
 [11:39:06] <vinayb> Please don't confuse yourself when I say "record of the type robot" and has a "field called type"
 [11:39:17] <vinayb> any doubts?
 [11:39:22] <vilas_m> No
+[11:39:40] <vinayb> alright, go ahead and define this function in the same file:
+[11:39:52] <vinayb> first_robot() ->
+[11:39:53] <vinayb>     #robot{name="Mechatron",
+[11:39:53] <vinayb>            type=handmade, 
+[11:39:55] <vinayb>            details=["Moved by a small man inside"]}.
