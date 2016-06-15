@@ -144,3 +144,7 @@
 [12:22:36] <vinayb> make sure both files are in same directory
 [12:22:53] <vinayb> then you can define a function to try it out:
 [12:22:58] <vinayb> included() -> #included{some_field="Some value"}.
+[12:23:35] <vinayb> now, try it out as usual:
+[12:23:38] <vinayb> c(records).
+[12:23:41] <vinayb> rr(records).
+[12:23:50] <vinayb> records:included().
