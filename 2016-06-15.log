@@ -47,3 +47,5 @@
 [11:43:57] <vinayb> rr(records).
 [11:44:04] <vinayb> records:first_robot(). 
 [11:44:20] <vinayb> what's the output?
+[11:44:54] <vilas_m> #robot{name = "Mechatron",type = handmade,        hobbies = undefined,        details = ["Moved by a small man inside"]}
+[11:45:09] <vinayb> right! so here the output explicitly shows us that it is a record
