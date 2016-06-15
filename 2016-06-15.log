@@ -37,3 +37,5 @@
 [11:40:34] <vinayb> and call the function
 [11:40:41] <vinayb> records:first_robot()
 [11:40:44] <vinayb> what's the output?
+[11:42:20] <vilas_m> {robot,"Mechatron",handmade,undefined,        ["Moved by a small man inside"]}
+[11:42:34] *** Joins: adarsh_h (6ace8120@gateway/web/freenode/ip.106.206.129.32)
