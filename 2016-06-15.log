@@ -25,3 +25,6 @@
 [11:37:51] *** Joins: m_gautham (67fd8231@gateway/web/freenode/ip.103.253.130.49)
 [11:38:15] <vinayb> in the third line, we just defined a record of the type robot, with fields, name, type, hobbies and details
 [11:38:35] <vinayb> and we have given default value of industrial to type and empty list to details
+[11:39:06] <vinayb> Please don't confuse yourself when I say "record of the type robot" and has a "field called type"
+[11:39:17] <vinayb> any doubts?
+[11:39:22] <vilas_m> No
