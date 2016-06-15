@@ -159,3 +159,5 @@
 [12:28:12] <adarsh_h> corrected it
 [12:28:28] <adarsh_h> #included{some_field = "Some_value",some_default = "yeah!",
 [12:28:35] <adarsh_h> unimaginative_name = undefined}
+[12:29:03] <vinayb> right! so that's all there is pretty much to records. They're like structs in C, useful to structure data with
+[12:29:07] <vinayb> any doubts?
