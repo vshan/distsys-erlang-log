@@ -85,3 +85,7 @@
 [11:56:49] <vinayb> adult_section(_) ->
 [11:56:58] <vinayb>     forbidden.
 [11:57:53] <vinayb> so you can see how you can use variables to bind to any field of a record
+[11:58:37] <vinayb> you can also bind the entire record to a variable by doing Var = #record{}
+[11:58:40] *** Joins: m_gautham (75c67580@gateway/web/freenode/ip.117.198.117.128)
+[11:58:48] <vinayb> like in the adult_section definition :P
+[11:58:55] *** Parts: m_gautham (75c67580@gateway/web/freenode/ip.117.198.117.128) ()
