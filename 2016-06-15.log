@@ -51,3 +51,5 @@
 [11:45:09] <vinayb> right! so here the output explicitly shows us that it is a record
 [11:45:42] <vinayb> To see the behavior of the defaults we set in the robot definition, let's compile the following function:
 [11:45:58] <vinayb> car_factory(CorpName) -> #robot{name=CorpName, hobbies="building cars"}.
+[11:46:39] <vinayb> run it:
+[11:46:40] <vinayb> c(records).
