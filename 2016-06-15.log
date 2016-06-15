@@ -16,3 +16,6 @@
 [11:35:21] <vinayb> Pretty useful whenever you have a small data structure where you want to access the attributes by name directly
 [11:35:40] <vinayb> Alright, open up a records.erl file
 [11:35:43] <vinayb> and type this:
+[11:36:01] <vinayb> -module(records).
+[11:36:01] <vinayb> -compile(export_all).
+[11:36:04] <vinayb> -record(robot, {name, type=industrial, hobbies, details=[]}).
