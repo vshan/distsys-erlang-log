@@ -103,3 +103,5 @@
 [12:05:45] <vinayb> right! so you can see the benefits of records over tuples
 [12:06:04] <vinayb> . If we were to use a normal tuple, the function definition might need to look a bit like function({record, _, _, ICareAboutThis, _, _}) -> .... 
 [12:06:34] <vinayb> then if somebody changes the number of elements in tuples, then that would ruin the code
+[12:06:52] <vinayb> hence, you can use records, and make decisions on one field, while not caring about other fiels
+[12:06:55] <vinayb> *fields
