@@ -151,3 +151,6 @@
 [12:24:01] <vinayb> what's the output?
 [12:26:15] <vinayb> you guys dozed off or something? :p
 [12:26:32] <adarsh_h> am getting an exception error
+[12:26:58] <vilas_m> Sorry. The shell is stuck for some reason :P
+[12:27:04] <vinayb> what does the error say?
+[12:27:24] <adarsh_h> undefined function/0
