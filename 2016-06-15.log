@@ -122,3 +122,8 @@
 [12:13:36] *** Parts: m_gautham (75c67580@gateway/web/freenode/ip.117.198.117.128) ()
 [12:14:09] <vilas_m> .h is for the files containing only function definitions and .c makes use of .h files and contains the main program?
 [12:14:31] <vinayb> correct! why do we seperate these two things?
+[12:14:46] <vinayb> function definitions and struct defintions
+[12:14:52] <vinayb> both in .h files
+[12:14:58] <adarsh_h> lesser code to type and more reuse of code?
+[12:14:58] <vinayb> implementation of functions in .c files
+[12:15:04] <vinayb> exactly adarsh_h !
