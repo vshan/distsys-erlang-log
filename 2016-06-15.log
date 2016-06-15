@@ -49,3 +49,4 @@
 [11:44:20] <vinayb> what's the output?
 [11:44:54] <vilas_m> #robot{name = "Mechatron",type = handmade,        hobbies = undefined,        details = ["Moved by a small man inside"]}
 [11:45:09] <vinayb> right! so here the output explicitly shows us that it is a record
+[11:45:42] <vinayb> To see the behavior of the defaults we set in the robot definition, let's compile the following function:
