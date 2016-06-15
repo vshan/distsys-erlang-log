@@ -114,3 +114,6 @@
 [12:09:43] <vinayb> c(records).
 [12:10:10] <vinayb> records:repairman(#robot{name="Bor", hobbies=["trying to have feelings"]}).
 [12:10:35] <vinayb> what's the output?
+[12:11:11] <adarsh_h> {repaired,#robot{name = "Bor",type = industrial,
+[12:11:16] <adarsh_h> hobbies = ["trying to have feelings"],
+[12:11:23] <adarsh_h>  details = ["Repaired by repairman"]}}
