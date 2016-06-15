@@ -135,3 +135,4 @@
 [12:17:35] <adarsh_h> .beam?
 [12:18:35] <vinayb> not quite, .beam are the files generated when your Erlang code gets converted to bytecode. Then the bytecode runs on the Erlang virtual machine
 [12:19:15] <adarsh_h> oh okay
+[12:20:09] <vinayb> so the file extension for erlang header files is .hrl
