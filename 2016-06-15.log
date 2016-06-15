@@ -59,3 +59,6 @@
 [11:48:39] <vinayb> yeah, so you can see that when we didn't specify the type and details, the defaults got used
 [11:48:42] *** Quits: m_gautham (67fd8231@gateway/web/freenode/ip.103.253.130.49) (Ping timeout: 250 seconds)
 [11:49:03] <vinayb> Writing records alone won't do much. We need a way to extract values from them. There are basically two ways to do this. The first one is with a special 'dot syntax'
+[11:49:34] <vinayb> run this:
+[11:49:35] <vinayb> Crusher = #robot{name="Crusher", hobbies=["Crushing people","petting cats"]}. 
+[11:49:42] <vinayb> in the shell
