@@ -84,3 +84,4 @@
 [11:56:44] <vinayb>     allowed;
 [11:56:49] <vinayb> adult_section(_) ->
 [11:56:58] <vinayb>     forbidden.
+[11:57:53] <vinayb> so you can see how you can use variables to bind to any field of a record
