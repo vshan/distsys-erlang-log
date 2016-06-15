@@ -56,3 +56,5 @@
 [11:46:50] <vinayb> records:car_factory("Jokeswagen").
 [11:47:58] <vinayb> what's the output?
 [11:48:14] <vilas_m> #robot{name = "Jokeswagen",type = industrial,        hobbies = "building cars",details = []}
+[11:48:39] <vinayb> yeah, so you can see that when we didn't specify the type and details, the defaults got used
+[11:48:42] *** Quits: m_gautham (67fd8231@gateway/web/freenode/ip.103.253.130.49) (Ping timeout: 250 seconds)
