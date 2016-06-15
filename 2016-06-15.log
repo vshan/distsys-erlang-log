@@ -33,3 +33,7 @@
 [11:39:53] <vinayb>     #robot{name="Mechatron",
 [11:39:53] <vinayb>            type=handmade, 
 [11:39:55] <vinayb>            details=["Moved by a small man inside"]}.
+[11:40:31] <vinayb> and then run the code
+[11:40:34] <vinayb> and call the function
+[11:40:41] <vinayb> records:first_robot()
+[11:40:44] <vinayb> what's the output?
