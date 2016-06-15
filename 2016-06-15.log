@@ -69,3 +69,4 @@
 [11:52:42] <vinayb> nested records get even uglier:
 [11:52:50] <vinayb> NestedBot = #robot{details=#robot{name="erNest"}}.
 [11:52:59] <vinayb> (NestedBot#robot.details)#robot.name.
+[11:54:09] <vinayb> And yes, the parentheses are mandatory.
