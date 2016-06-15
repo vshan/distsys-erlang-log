@@ -136,3 +136,6 @@
 [12:18:35] <vinayb> not quite, .beam are the files generated when your Erlang code gets converted to bytecode. Then the bytecode runs on the Erlang virtual machine
 [12:19:15] <adarsh_h> oh okay
 [12:20:09] <vinayb> so the file extension for erlang header files is .hrl
+[12:20:52] <vinayb> create a file named records.hrl with the following content:
+[12:21:04] <vinayb> %% this is a .hrl (header) file.
+[12:21:06] <vinayb> -record(included, {some_field, some_default = "yeah!", unimaginative_name}).
