@@ -127,3 +127,5 @@
 [12:14:58] <adarsh_h> lesser code to type and more reuse of code?
 [12:14:58] <vinayb> implementation of functions in .c files
 [12:15:04] <vinayb> exactly adarsh_h !
+[12:15:23] <vinayb> so similarly 
+[12:15:28] <vinayb> we have Erlang header files also
