@@ -77,3 +77,5 @@
 [11:55:16] <vinayb> Name ++ " is allowed!";
 [11:55:16] <vinayb> admin_panel(#user{name=Name}) ->
 [11:55:17] <vinayb> Name ++ " is not allowed".
+[11:56:10] <vinayb> adult_section(U = #user{}) when U#user.age >= 18 -> %% Show stuff that can't be written in such a text allowed;
+[11:56:13] <vinayb> adult_section(_) -> %% redirect to pogo website forbidden.
