@@ -139,3 +139,4 @@
 [12:20:52] <vinayb> create a file named records.hrl with the following content:
 [12:21:04] <vinayb> %% this is a .hrl (header) file.
 [12:21:06] <vinayb> -record(included, {some_field, some_default = "yeah!", unimaginative_name}).
+[12:22:15] <vinayb> to include it in records.erl, just add the following line to the module:
