@@ -157,3 +157,5 @@
 [12:27:31] <adarsh_h> sorry wait..
 [12:27:40] <adarsh_h> undefined function records:included/0
 [12:28:12] <adarsh_h> corrected it
+[12:28:28] <adarsh_h> #included{some_field = "Some_value",some_default = "yeah!",
+[12:28:35] <adarsh_h> unimaginative_name = undefined}
