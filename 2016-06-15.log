@@ -40,3 +40,5 @@
 [11:42:20] <vilas_m> {robot,"Mechatron",handmade,undefined,        ["Moved by a small man inside"]}
 [11:42:34] *** Joins: adarsh_h (6ace8120@gateway/web/freenode/ip.106.206.129.32)
 [11:42:55] <vinayb> Right! so you can see how the output is like a tuple
+[11:43:20] <vinayb> in fact, records are nothing but some additional syntax (what we call syntactic sugar) on top of tuples
+[11:43:28] <vinayb> Fortunately, there's a way to make it better
