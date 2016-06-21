@@ -8,3 +8,5 @@
 [11:34:19] *** Joins: vilas_m (2befa942@gateway/web/freenode/ip.43.239.169.66)
 [11:37:12] <vinayb> Alright, we'll start now
 [11:37:33] <vinayb> So today we are going to be starting off with concurrency in detail in Erlang
+[11:37:52] <vinayb> We have covered the functional aspects and you know to play around with it
+[11:38:02] <vinayb> Now we'll see the concurrent aspects
