@@ -46,3 +46,4 @@
 [11:52:17] <vinayb> i'll focus on scaling first
 [11:53:26] <vinayb> so in the telecom system, users would be represented as processes which only reacted upon certain events 
 [11:53:42] <vinayb> ie, receiving a call, hanging up, etc
+[11:54:08] <vinayb> so an ideal system would support processes doing small computations, switching between them very quickly as events came through
