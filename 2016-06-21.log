@@ -241,3 +241,5 @@
 [13:11:37] <vinayb> c(module_name).
 [13:11:56] <vinayb> Dolphin2 = spawn(module_name, dolphin2, []).
 [13:12:09] <vinayb> Dolphin2 ! {self(), do_a_flip}.
+[13:12:21] <vinayb> flush().
+[13:12:24] <vinayb> what's the output?
