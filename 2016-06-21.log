@@ -239,3 +239,5 @@
 [13:11:30] <vinayb>     end.
 [13:11:33] <vinayb> run this in shell:
 [13:11:37] <vinayb> c(module_name).
+[13:11:56] <vinayb> Dolphin2 = spawn(module_name, dolphin2, []).
+[13:12:09] <vinayb> Dolphin2 ! {self(), do_a_flip}.
