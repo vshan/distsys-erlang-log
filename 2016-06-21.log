@@ -225,3 +225,4 @@
 [13:08:31] <vinayb> what's the output?
 [13:08:50] <vilas_m> So long and thanks for all the fish!  fish
 [13:09:11] <vinayb> Right! so this time it works
+[13:10:06] <vinayb> now wouldn't it be nice to receive a reply from the dolphin rather than having to use io:format/2 ? Of course! So let's see how to send a reply
