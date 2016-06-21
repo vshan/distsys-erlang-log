@@ -98,3 +98,4 @@
 [12:16:07] <vilas_m> no.
 [12:16:11] <aditya> no
 [12:17:04] <vinayb> Now i'll talk a bit about Linear Scaling
+[12:18:19] <vinayb> So, it is very easy to come to the conclusion that, the more parallelism we add to our programs, that they'll scale linearly to that
