@@ -72,3 +72,4 @@
 [12:01:28] <vinayb> you can try to prevent bugs all you want, but most of the time some of them will still happen
 [12:01:44] <vinayb> and other than software bugs, there can be hardware failures too
 [12:02:25] <vinayb> the idea is thus to find good ways to handle errors and problems than trying to prevent them all
+[12:03:53] <vinayb> so the design of having lightweight processes where it is trivial to shutdown and start processes
