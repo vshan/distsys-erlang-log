@@ -84,3 +84,4 @@
 [12:08:52] <vinayb> this is the *Actor model* of Erlang
 [12:09:15] <vinayb> every process has a mailbox
 [12:09:32] <rakshith> asynchronous here means non-blocking?
+[12:10:15] <vinayb> yeah, asynchronous means non-blocking. Good question, let me elaborate more on this
