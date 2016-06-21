@@ -168,3 +168,5 @@
 [12:46:50] <vinayb> the term is then sent to the process represented by the pid, which can access it
 [12:46:59] <rakshith> like a pipe?
 [12:47:23] <rakshith> rather in the reverse order
+[12:47:58] <vinayb> yes, in some ways
+[12:48:06] <vinayb> self() ! self() ! double.
