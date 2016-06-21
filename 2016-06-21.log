@@ -51,3 +51,5 @@
 [11:55:08] <vinayb> having them lightweight was mandatory to achieve this
 [11:55:26] <vinayb> it was also mandatory because you didn't want to have things like process pools (a fixed amount of processes you split the work between.)
 [11:55:44] <vinayb> instead, it would be much easier to design programs that could use as many processes as they need.
+[11:56:30] <vinayb> another important aspect of scalability is to be able to bypass your hardware
+[11:56:39] <vinayb> or hardware's limitations rather
