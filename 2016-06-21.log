@@ -108,3 +108,4 @@
 [12:21:52] <vinayb> can Erlang be used to program a GPU (which have thousands of cores?), or any number crunching problem? No.
 [12:22:24] <vinayb> all these problems are usually numerical algorithms which benefit from direct hardware access
 [12:22:53] <vinayb> and hence this is called low level parallelism
+[12:23:06] <vinayb> C is de facto language used for such proclivities 
