@@ -57,3 +57,7 @@
 [11:57:28] <vinayb> as you might have heard, Moore's law is kinda about to fail... so don't expect cheap better hardware anytime soon. So only option is to add more hardware
 [11:57:46] <vinayb> This is where distribution is so useful
 [11:58:25] <vinayb> so because telephony applications needed a lot of reliability, it was decided that the cleanest way to do things was to forbid processes from sharing memory
+[11:58:55] <vinayb> instead, processes should communicate by sending messages where all the data is copied
+[11:59:07] <vinayb> a little slower, but MUCH MUCH sager
+[11:59:10] <vinayb> *safer
+[11:59:21] <rakshith> and also resource intensive?
