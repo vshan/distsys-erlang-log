@@ -93,3 +93,4 @@
 [12:13:24] <vinayb> To illustrate just how lightweight Erlang processes are, Erlang processes take about 600 bytes of memory each and can be created in a matter of microseconds
 [12:13:44] <vinayb> not something doable on major OS's these days
 [12:13:55] <vinayb> so all of these processes sit on top of the Erlang VM
+[12:15:45] <vinayb> any doubts?
