@@ -245,3 +245,6 @@
 [13:12:24] <vinayb> what's the output?
 [13:13:37] *** Quits: rakshith (~hehaichi@117.216.132.196) (Quit: Leaving)
 [13:14:11] <aditya> Shell got "How about no?"
+[13:14:54] <vinayb> right! so that's how we can reply to a received message
+[13:15:06] <vinayb> now let's deal with one final problem
+[13:15:21] <vinayb> how do we ensure that the process doesn't stop?
