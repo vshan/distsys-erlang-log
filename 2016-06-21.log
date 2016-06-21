@@ -82,3 +82,5 @@
 [12:08:04] <vinayb> Erlang has lightweight processes with asynchronous message passing model
 [12:08:31] <vinayb> here messages are sent from one process to second one and stored in a *mailbox* inside the receiving process until they are taken out to be read
 [12:08:52] <vinayb> this is the *Actor model* of Erlang
+[12:09:15] <vinayb> every process has a mailbox
+[12:09:32] <rakshith> asynchronous here means non-blocking?
