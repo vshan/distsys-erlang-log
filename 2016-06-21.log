@@ -24,3 +24,4 @@
 [11:43:12] <vinayb> for eg, you might have a variable x which both threads in a program try to access at one point. that is a critical section
 [11:43:28] <vinayb> so that critical section is surrounded by a software lock
 [11:43:48] <vinayb> by using this lock, only one thread can go over the critical section area at a time
+[11:43:57] <vinayb> so this is the shared memory approach
