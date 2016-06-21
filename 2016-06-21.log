@@ -209,3 +209,4 @@
 [13:01:15] <aditya> fish
 [13:02:03] <vinayb> right! somethings to note:
 [13:02:15] <vinayb> we saw a new way to use spawn function
+[13:02:32] <vinayb> rather than taking a single function, spawn/3 takes the module, function and its arguments as its own arguments
