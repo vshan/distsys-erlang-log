@@ -85,3 +85,6 @@
 [12:09:15] <vinayb> every process has a mailbox
 [12:09:32] <rakshith> asynchronous here means non-blocking?
 [12:10:15] <vinayb> yeah, asynchronous means non-blocking. Good question, let me elaborate more on this
+[12:10:46] <rakshith> in that case, there is a possibility that the message might not be delivered?
+[12:10:53] <vinayb> In blocking, or synchronous message passing, what happens is that when you send something, it would block until other process would call "receive" 
+[12:11:01] <vinayb> and vice-versa
