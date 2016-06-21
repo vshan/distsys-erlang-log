@@ -115,3 +115,5 @@
 [12:24:43] <vinayb> which benefit from Actor model
 [12:24:59] <vinayb> these problems can be solved efficiently with close-to-linear scaling
 [12:25:20] <vinayb> and Erlang is tremendously good at this
+[12:25:42] <vinayb> One major realization is: your parallel program only goes as fast as its slowest sequential part
+[12:26:05] <vinayb> example: Hundreds of people can be shopping at once, rarely interfering with each other. Then once it's time to pay, queues form as soon as there are fewer cashiers than there are customers ready to leave.
