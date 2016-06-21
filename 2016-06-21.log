@@ -151,3 +151,4 @@
 [12:41:07] <vinayb> The order is completely arbitrary! Welcome to parallelism
 [12:41:10] <rakshith> the're happening parallely
 [12:41:24] <vinayb> yes, at the same time
+[12:42:01] <vinayb> what we did here was spawn 10 processes real quick and pause each of them for a while with the help of timer:sleep/1 which takes an integer value N and waits for N ms before resuming code
