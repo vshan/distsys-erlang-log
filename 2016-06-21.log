@@ -136,3 +136,5 @@
 [12:35:05] <vilas_m> <0.36.0>
 [12:35:24] <vinayb> right! the result of spawn/1 is called a Process Identifier, or pid
 [12:36:17] <vinayb> it's just an arbitrary value used to identiy the process distinctly
+[12:36:56] <vinayb> you'll notice that we can't see the result of the function F. we only got the pid. that's because processes do not return anything
+[12:37:19] <vinayb> how can we see the result of F then? two ways. first one:
