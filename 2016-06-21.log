@@ -111,3 +111,4 @@
 [12:23:06] <vinayb> C is de facto language used for such proclivities 
 [12:23:32] <vinayb> So what is parallelism which benefit from parallelism?
 [12:23:38] <vinayb> *high level parallelism
+[12:24:23] <vinayb> Concepts such as chat servers, phone switches, web servers, message queues, web crawlers or any other application where the work done can be represented as independent logical entities 
