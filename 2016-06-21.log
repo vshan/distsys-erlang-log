@@ -27,3 +27,4 @@
 [11:43:57] <vinayb> so this is the shared memory approach
 [11:44:40] <vinayb> but these usually lead to bugs which are very hard to debug. 
 [11:44:50] <vinayb> can anyone guess why that might be so?
+[11:46:25] <vinayb> okay, so basically it can lead to what we call "race conditions"
