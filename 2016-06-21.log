@@ -172,3 +172,5 @@
 [12:48:06] <vinayb> self() ! self() ! double.
 [12:48:36] <aditya> double
 [12:48:50] <vinayb> one major difference, of course, is pipes are blocking, and this is non-blocking
+[12:49:17] <rakshith> ah..
+[12:49:27] <vinayb> right! so the returned value of (self() ! double) can itself be sent again to self()
