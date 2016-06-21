@@ -181,3 +181,8 @@
 [12:53:02] <vinayb> to see the contents of the current mailbox, you can use flush() command while in the shell:
 [12:53:05] <vinayb> flush().
 [12:53:07] <vinayb> what's the output?
+[12:53:35] <aditya> Shell got double Shell got double ok
+[12:53:40] <rakshith>  Shell got hello
+[12:53:40] <rakshith> Shell got double
+[12:53:40] <rakshith> Shell got double
+[12:53:40] <rakshith> ok
