@@ -118,3 +118,4 @@
 [12:25:42] <vinayb> One major realization is: your parallel program only goes as fast as its slowest sequential part
 [12:26:05] <vinayb> example: Hundreds of people can be shopping at once, rarely interfering with each other. Then once it's time to pay, queues form as soon as there are fewer cashiers than there are customers ready to leave.
 [12:27:18] <vinayb> A generalization of this principle is called *Amdahl* 's law
+[12:27:40] <vinayb> According to Amdahl's law, code that is 50% parallel can never get faster than twice what it was before, and code that is 95% parallel can theoretically be expected to be about 20 times faster if you add enough processors. 
