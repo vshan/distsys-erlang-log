@@ -112,3 +112,5 @@
 [12:23:32] <vinayb> So what is parallelism which benefit from parallelism?
 [12:23:38] <vinayb> *high level parallelism
 [12:24:23] <vinayb> Concepts such as chat servers, phone switches, web servers, message queues, web crawlers or any other application where the work done can be represented as independent logical entities 
+[12:24:43] <vinayb> which benefit from Actor model
+[12:24:59] <vinayb> these problems can be solved efficiently with close-to-linear scaling
