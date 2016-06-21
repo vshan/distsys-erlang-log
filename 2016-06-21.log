@@ -138,3 +138,4 @@
 [12:36:17] <vinayb> it's just an arbitrary value used to identiy the process distinctly
 [12:36:56] <vinayb> you'll notice that we can't see the result of the function F. we only got the pid. that's because processes do not return anything
 [12:37:19] <vinayb> how can we see the result of F then? two ways. first one:
+[12:37:42] <vinayb> spawn(fun() -> io:format("~p~n", [2+2]) end).
