@@ -158,3 +158,4 @@
 [12:44:12] <vilas_m> No
 [12:44:12] <aditya> no
 [12:44:15] <gautham_> no
+[12:44:39] <vinayb> even the shell is a process: you can run self(). to get its' pid
