@@ -167,3 +167,4 @@
 [12:46:33] <vinayb> on the LHS, it takes a PID, on the RHS it takes any Erlang term
 [12:46:50] <vinayb> the term is then sent to the process represented by the pid, which can access it
 [12:46:59] <rakshith> like a pipe?
+[12:47:23] <rakshith> rather in the reverse order
