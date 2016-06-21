@@ -174,3 +174,6 @@
 [12:48:50] <vinayb> one major difference, of course, is pipes are blocking, and this is non-blocking
 [12:49:17] <rakshith> ah..
 [12:49:27] <vinayb> right! so the returned value of (self() ! double) can itself be sent again to self()
+[12:49:55] <vinayb> okay i am going to tone down my excitement here lest you guys confuse that with the bang operator.. :P
+[12:50:11] <rakshith> lol
+[12:50:13] <vilas_m> xD
