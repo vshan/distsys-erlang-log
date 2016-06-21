@@ -44,3 +44,5 @@
 [11:51:57] <vinayb> okay, so the two main goals for Erlang: Scalability, Fault-tolerance
 [11:52:08] <vinayb> let's focus on them for a bit
 [11:52:17] <vinayb> i'll focus on scaling first
+[11:53:26] <vinayb> so in the telecom system, users would be represented as processes which only reacted upon certain events 
+[11:53:42] <vinayb> ie, receiving a call, hanging up, etc
