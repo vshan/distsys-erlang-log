@@ -105,3 +105,4 @@
 [12:19:11] <vinayb> It is not due to the language itself, but rather to the nature of the problems to solve
 [12:19:56] <vinayb> problems that scale very well are far and few in between: ray-tracing (a method to create 3D graphics), brute-forceing searches in cryptography, etc
 [12:21:20] <vinayb> So, there are two kinds of parallelism: high level and low level
+[12:21:52] <vinayb> can Erlang be used to program a GPU (which have thousands of cores?), or any number crunching problem? No.
