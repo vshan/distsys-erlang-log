@@ -36,3 +36,4 @@
 [11:49:35] <vinayb> Erlang inherited this approach from PLEX, a language created earlier at Ericsson, for a telecom switch developed with it
 [11:50:16] <vinayb> so let's see what the goals for Erlang were (and you can actually see how from those goals, WHY exactly Erlang is used for WhatsApp and Facebook messenger):
 [11:50:30] <vinayb> The main ones were being able to scale up and support many thousands of users across many switches, and then to achieve high reliability—to the point of never stopping the code.
+[11:51:01] <vinayb> any doubts?
