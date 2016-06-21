@@ -11,3 +11,6 @@
 [11:37:52] <vinayb> We have covered the functional aspects and you know to play around with it
 [11:38:02] <vinayb> Now we'll see the concurrent aspects
 [11:38:30] <vinayb> and we'll also go over a bit of history of Erlang, to see why the things are implemented or designed the way they are
+[11:38:46] <vinayb> by the way, before we proceed, any doubts from ANY of the previous sessions?
+[11:39:05] <vilas_m> No
+[11:39:09] <aditya> no
