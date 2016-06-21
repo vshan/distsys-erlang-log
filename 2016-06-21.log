@@ -77,3 +77,4 @@
 [12:04:23] <vinayb> rather that letting it propogate
 [12:05:13] <vinayb> keep in mind that there are many ways for a system to terminate: two of which are clean shutdowns and crashes (unexpected errors)
 [12:06:18] <vinayb> so how do we ensure that crashes and shutdowns become equivalent? by ensuring the message-passign and functional design, and keeping side-effects down and purity high
+[12:07:36] <vinayb> so it brings us to modern Erlang"
