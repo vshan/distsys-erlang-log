@@ -125,3 +125,7 @@
 [12:31:03] <vinayb> okay enough of theory!
 [12:31:11] <vinayb> let's revv up our shells!
 [12:33:26] <vinayb> So what exactly is a process? It's nothing but a function. That's it. It runs a function and once it's done, it disappears. There is some hidden state like mailbox, but functions are enough for now
+[12:33:56] <vinayb> to start a new process, Erlang provides the function spawn/1 which takes a single function and runs it
+[12:33:59] <vinayb> type this:
+[12:34:11] <vinayb> F = fun() -> 2 + 2 end.
+[12:34:16] <vinayb> spawn(F).
