@@ -32,3 +32,4 @@
 [11:47:10] <vinayb> so it is pretty hard to debug these systems
 [11:47:38] <vinayb> Erlang however, uses the message passing approach
 [11:48:23] <vinayb> in the message passing approach, there is no shared memory-- threads or processes have their own memory, which cannot be accessed by any other thread / process
+[11:48:37] <vinayb> only way of synchronization or communication is through sending messages
