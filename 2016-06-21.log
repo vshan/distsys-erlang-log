@@ -228,3 +228,14 @@
 [13:10:06] <vinayb> now wouldn't it be nice to receive a reply from the dolphin rather than having to use io:format/2 ? Of course! So let's see how to send a reply
 [13:11:01] <vinayb> what we can do is, when we send a message, let's package it a tuple like this: {Pid, Message}.
 [13:11:06] <vinayb> now create a new function:
+[13:11:17] <vinayb> dolphin2() ->
+[13:11:17] <vinayb>     receive
+[13:11:17] <vinayb>         {From, do_a_flip} ->
+[13:11:17] <vinayb>             From ! "How about no?";
+[13:11:20] <vinayb>         {From, fish} ->
+[13:11:22] <vinayb>             From ! "So long and thanks for all the fish!";
+[13:11:25] <vinayb>         _ ->
+[13:11:27] <vinayb>             io:format("Heh, we're smarter than you humans.~n")
+[13:11:30] <vinayb>     end.
+[13:11:33] <vinayb> run this in shell:
+[13:11:37] <vinayb> c(module_name).
