@@ -124,3 +124,4 @@
 [12:29:50] <vilas_m> No..
 [12:31:03] <vinayb> okay enough of theory!
 [12:31:11] <vinayb> let's revv up our shells!
+[12:33:26] <vinayb> So what exactly is a process? It's nothing but a function. That's it. It runs a function and once it's done, it disappears. There is some hidden state like mailbox, but functions are enough for now
