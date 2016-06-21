@@ -199,3 +199,4 @@
 [12:56:19] <vinayb>             io:format("Heh, we're smarter than you humans.~n")
 [12:56:22] <vinayb>     end.
 [12:56:35] <vinayb> do the usual module and compile declarations earlier
+[12:57:26] <vinayb> alright, also note the fact how similar it is to case expressions
