@@ -22,3 +22,5 @@
 [11:42:09] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
 [11:42:40] <vinayb> that region of code is code that accesses memory that is SHARED between various different threads / processes
 [11:43:12] <vinayb> for eg, you might have a variable x which both threads in a program try to access at one point. that is a critical section
+[11:43:28] <vinayb> so that critical section is surrounded by a software lock
+[11:43:48] <vinayb> by using this lock, only one thread can go over the critical section area at a time
