@@ -29,3 +29,4 @@
 [11:44:50] <vinayb> can anyone guess why that might be so?
 [11:46:25] <vinayb> okay, so basically it can lead to what we call "race conditions"
 [11:46:46] <vinayb> basically, bugs where due to the order of which thread goes, some bug happens
+[11:47:10] <vinayb> so it is pretty hard to debug these systems
