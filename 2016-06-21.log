@@ -88,3 +88,5 @@
 [12:10:46] <rakshith> in that case, there is a possibility that the message might not be delivered?
 [12:10:53] <vinayb> In blocking, or synchronous message passing, what happens is that when you send something, it would block until other process would call "receive" 
 [12:11:01] <vinayb> and vice-versa
+[12:11:19] <vinayb> yes rakshith , very good observation!
+[12:11:33] <vinayb> if you need to have a confirmation of delivery, you have to send a second message as a reply to the original process
