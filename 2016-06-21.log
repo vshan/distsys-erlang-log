@@ -56,3 +56,4 @@
 [11:56:54] <vinayb> you can either make hardware better, or add more hardware
 [11:57:28] <vinayb> as you might have heard, Moore's law is kinda about to fail... so don't expect cheap better hardware anytime soon. So only option is to add more hardware
 [11:57:46] <vinayb> This is where distribution is so useful
+[11:58:25] <vinayb> so because telephony applications needed a lot of reliability, it was decided that the cleanest way to do things was to forbid processes from sharing memory
