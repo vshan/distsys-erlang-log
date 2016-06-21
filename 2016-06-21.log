@@ -130,3 +130,7 @@
 [12:34:11] <vinayb> F = fun() -> 2 + 2 end.
 [12:34:16] <vinayb> spawn(F).
 [12:34:19] <vinayb> what's the output?
+[12:34:49] <rakshith> <0
+[12:34:55] <rakshith> <0.37.0>
+[12:35:04] <rakshith> is that the pid?
+[12:35:05] <vilas_m> <0.36.0>
