@@ -94,3 +94,6 @@
 [12:13:44] <vinayb> not something doable on major OS's these days
 [12:13:55] <vinayb> so all of these processes sit on top of the Erlang VM
 [12:15:45] <vinayb> any doubts?
+[12:15:58] <rakshith> no
+[12:16:07] <vilas_m> no.
+[12:16:11] <aditya> no
