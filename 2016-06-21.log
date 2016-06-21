@@ -266,3 +266,6 @@
 [13:17:43] <vilas_m> No
 [13:17:47] <aditya> no
 [13:18:39] <vinayb> okay then, that's it for today. we saw the core primitives for concurrency in Erlang. we'll see some more in next sessions to truly build reliable and scalable applications. 
+[13:19:51] <vilas_m> Thanks for the session :)
+[13:19:52] <vinayb> so if you guys have no doubts, i guess we'll call it a night!
+[13:19:56] *** Parts: vilas_m (2befa942@gateway/web/freenode/ip.43.239.169.66) ()
