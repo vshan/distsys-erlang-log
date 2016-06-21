@@ -54,3 +54,5 @@
 [11:56:30] <vinayb> another important aspect of scalability is to be able to bypass your hardware
 [11:56:39] <vinayb> or hardware's limitations rather
 [11:56:54] <vinayb> you can either make hardware better, or add more hardware
+[11:57:28] <vinayb> as you might have heard, Moore's law is kinda about to fail... so don't expect cheap better hardware anytime soon. So only option is to add more hardware
+[11:57:46] <vinayb> This is where distribution is so useful
