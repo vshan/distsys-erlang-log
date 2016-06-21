@@ -210,3 +210,4 @@
 [13:02:03] <vinayb> right! somethings to note:
 [13:02:15] <vinayb> we saw a new way to use spawn function
 [13:02:32] <vinayb> rather than taking a single function, spawn/3 takes the module, function and its arguments as its own arguments
+[13:03:10] <vinayb> once the function is running, the following events take place:
