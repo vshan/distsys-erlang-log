@@ -47,3 +47,5 @@
 [11:53:26] <vinayb> so in the telecom system, users would be represented as processes which only reacted upon certain events 
 [11:53:42] <vinayb> ie, receiving a call, hanging up, etc
 [11:54:08] <vinayb> so an ideal system would support processes doing small computations, switching between them very quickly as events came through
+[11:54:51] <vinayb> to make it efficient, it made sense for processes to be started very quickly, to be destroyed very quickly and to be able to switch them very fast
+[11:55:08] <vinayb> having them lightweight was mandatory to achieve this
