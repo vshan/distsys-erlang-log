@@ -134,3 +134,4 @@
 [12:34:55] <rakshith> <0.37.0>
 [12:35:04] <rakshith> is that the pid?
 [12:35:05] <vilas_m> <0.36.0>
+[12:35:24] <vinayb> right! the result of spawn/1 is called a Process Identifier, or pid
