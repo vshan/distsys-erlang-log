@@ -102,3 +102,4 @@
 [12:18:35] <vinayb> for eg: by doubling cores, we can get 2x performance
 [12:18:40] <vinayb> that is Linear Scaling
 [12:18:51] <vinayb> However, getting that kind of performance is very hard
+[12:19:11] <vinayb> It is not due to the language itself, but rather to the nature of the problems to solve
