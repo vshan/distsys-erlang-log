@@ -261,3 +261,4 @@
 [13:16:09] <vinayb>             io:format("Heh, we're smarter than you humans.~n"),
 [13:16:12] <vinayb>             dolphin3()
 [13:16:14] <vinayb>     end.
+[13:16:28] <vinayb> here the catch-all clause and the do_a_flip clause both loop with the help of dolphin3/0. Note that the function will not blow the stack because it is tail recursive. As long as only these messages are sent, the dolphin process will loop indefinitely. However, if we send the fish message, the process will stop
