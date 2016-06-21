@@ -189,3 +189,12 @@
 [12:53:52] <vinayb> Right! This function is just a shortcut that outputs received messages. This means we still can't bind the result of a process to a variable, but at least we know how to send it from a process to another one and check if it's been received.
 [12:55:02] <vinayb> now let's see the receive statement
 [12:55:13] <vinayb> open up your editor, and type this up:
+[12:56:12] <vinayb> dolphin1() ->
+[12:56:12] <vinayb>     receive
+[12:56:12] <vinayb>         do_a_flip ->
+[12:56:12] <vinayb>             io:format("How about no?~n");
+[12:56:12] <vinayb>         fish ->
+[12:56:14] <vinayb>             io:format("So long and thanks for all the fish!~n");
+[12:56:17] <vinayb>         _ ->
+[12:56:19] <vinayb>             io:format("Heh, we're smarter than you humans.~n")
+[12:56:22] <vinayb>     end.
