@@ -153,3 +153,8 @@
 [12:41:24] <vinayb> yes, at the same time
 [12:42:01] <vinayb> what we did here was spawn 10 processes real quick and pause each of them for a while with the help of timer:sleep/1 which takes an integer value N and waits for N ms before resuming code
 [12:43:25] <vinayb>  because the processes are running at the same time, the ordering of events isn't guaranteed anymore. that's because the Erlang VM uses many tricks to decide when to run a process or another one, making sure each gets a good share of time
+[12:44:03] <vinayb> any doubts?
+[12:44:09] <rakshith> no
+[12:44:12] <vilas_m> No
+[12:44:12] <aditya> no
+[12:44:15] <gautham_> no
