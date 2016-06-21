@@ -171,3 +171,4 @@
 [12:47:58] <vinayb> yes, in some ways
 [12:48:06] <vinayb> self() ! self() ! double.
 [12:48:36] <aditya> double
+[12:48:50] <vinayb> one major difference, of course, is pipes are blocking, and this is non-blocking
