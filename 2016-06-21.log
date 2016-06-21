@@ -18,3 +18,5 @@
 [11:40:37] <vinayb> Okay, so our discipline -- Programming -- or Computer Science, for that matter, has always wondered how to go about running things at the same time in a program
 [11:41:17] <vinayb> The most widely used approach is either shared memory based or message passing based. Does anyone here have an idea of what shared memory approach might be?
 [11:41:33] <vilas_m> Nope.
+[11:42:04] <vinayb> okay, so the shared memory approach is one where we define a small region of code as a "critical section"
+[11:42:09] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
