@@ -177,3 +177,4 @@
 [12:49:55] <vinayb> okay i am going to tone down my excitement here lest you guys confuse that with the bang operator.. :P
 [12:50:11] <rakshith> lol
 [12:50:13] <vilas_m> xD
+[12:52:07] <vinayb> also, note that the messages a process' mailbox receives are kept in the order they are recieved
