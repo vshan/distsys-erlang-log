@@ -163,3 +163,5 @@
 [12:45:37] <vinayb> run this:
 [12:45:41] <vinayb> self() ! hello.
 [12:46:02] <rakshith> hello
+[12:46:16] <vinayb> right! the "!" is the bang operator
+[12:46:33] <vinayb> on the LHS, it takes a PID, on the RHS it takes any Erlang term
