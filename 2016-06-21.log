@@ -25,3 +25,5 @@
 [11:43:28] <vinayb> so that critical section is surrounded by a software lock
 [11:43:48] <vinayb> by using this lock, only one thread can go over the critical section area at a time
 [11:43:57] <vinayb> so this is the shared memory approach
+[11:44:40] <vinayb> but these usually lead to bugs which are very hard to debug. 
+[11:44:50] <vinayb> can anyone guess why that might be so?
