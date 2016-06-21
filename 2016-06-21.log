@@ -205,3 +205,5 @@
 [12:58:19] <vinayb> Dolphin = spawn(module_name, dolphin1, []).
 [12:58:34] <vinayb> Dolphin ! "oh, hello dolphin!".
 [12:58:44] <vinayb> Dolphin ! fish.
+[13:01:02] <aditya> Heh, we're smarter than you humans. "oh, hello dolphin!"
+[13:01:15] <aditya> fish
