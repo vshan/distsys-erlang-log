@@ -62,3 +62,8 @@
 [11:59:10] <vinayb> *safer
 [11:59:21] <rakshith> and also resource intensive?
 [11:59:32] <vinayb> now let's talk a bit about fault-tolerance
+[11:59:59] <vinayb> yes rakshith, that too. But then again, that's very much dependent of how the implementation is done
+[12:00:04] <vinayb> any doubts?
+[12:00:10] <rakshith> no
+[12:00:16] <aditya> no
+[12:00:20] <vilas_m> no
