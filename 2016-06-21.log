@@ -120,3 +120,4 @@
 [12:27:18] <vinayb> A generalization of this principle is called *Amdahl* 's law
 [12:27:40] <vinayb> According to Amdahl's law, code that is 50% parallel can never get faster than twice what it was before, and code that is 95% parallel can theoretically be expected to be about 20 times faster if you add enough processors. 
 [12:28:41] <vinayb> any doubts?
+[12:29:04] <rakshith> no
