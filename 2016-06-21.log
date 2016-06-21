@@ -141,3 +141,7 @@
 [12:37:42] <vinayb> spawn(fun() -> io:format("~p~n", [2+2]) end).
 [12:37:59] <vinayb> what's the output?
 [12:38:09] <aditya> 4 <0.38.0>
+[12:38:37] <vinayb> now run this:
+[12:38:39] <vinayb> G = fun(X) -> timer:sleep(10), io:format("~p~n", [X]) end.
+[12:38:49] <vinayb> [spawn(fun() -> G(X) end) || X <- lists:seq(1,10)].
+[12:38:53] <vinayb> what's the output?
