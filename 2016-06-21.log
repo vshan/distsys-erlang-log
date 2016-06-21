@@ -129,3 +129,4 @@
 [12:33:59] <vinayb> type this:
 [12:34:11] <vinayb> F = fun() -> 2 + 2 end.
 [12:34:16] <vinayb> spawn(F).
+[12:34:19] <vinayb> what's the output?
