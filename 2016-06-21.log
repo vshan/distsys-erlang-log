@@ -220,3 +220,6 @@
 [13:07:48] <vinayb> that is because once our function gave the output "Heh, we're smarter than you humans.", it terminated and so did the process
 [13:07:56] <vinayb> We'll need to restart it:
 [13:08:08] <vinayb> f(Dolphin).
+[13:08:22] <vinayb> Dolphin = spawn(module_name, dolphin1, []).
+[13:08:28] <vinayb> Dolphin ! fish.
+[13:08:31] <vinayb> what's the output?
