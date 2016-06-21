@@ -160,3 +160,6 @@
 [12:44:15] <gautham_> no
 [12:44:39] <vinayb> even the shell is a process: you can run self(). to get its' pid
 [12:45:33] <vinayb> alright, let's see how we can send messages to processes!
+[12:45:37] <vinayb> run this:
+[12:45:41] <vinayb> self() ! hello.
+[12:46:02] <rakshith> hello
