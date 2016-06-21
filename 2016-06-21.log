@@ -265,3 +265,4 @@
 [13:17:23] <vinayb> any doubts?
 [13:17:43] <vilas_m> No
 [13:17:47] <aditya> no
+[13:18:39] <vinayb> okay then, that's it for today. we saw the core primitives for concurrency in Erlang. we'll see some more in next sessions to truly build reliable and scalable applications. 
