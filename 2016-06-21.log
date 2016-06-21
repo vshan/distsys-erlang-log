@@ -248,3 +248,5 @@
 [13:14:54] <vinayb> right! so that's how we can reply to a received message
 [13:15:06] <vinayb> now let's deal with one final problem
 [13:15:21] <vinayb> how do we ensure that the process doesn't stop?
+[13:15:37] <vinayb> Well, recursion to the rescue!
+[13:15:47] <vinayb> here's another function which shows it:
