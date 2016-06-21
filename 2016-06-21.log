@@ -187,3 +187,5 @@
 [12:53:40] <rakshith> Shell got double
 [12:53:40] <rakshith> ok
 [12:53:52] <vinayb> Right! This function is just a shortcut that outputs received messages. This means we still can't bind the result of a process to a variable, but at least we know how to send it from a process to another one and check if it's been received.
+[12:55:02] <vinayb> now let's see the receive statement
+[12:55:13] <vinayb> open up your editor, and type this up:
