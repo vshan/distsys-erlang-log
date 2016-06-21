@@ -73,3 +73,5 @@
 [12:01:44] <vinayb> and other than software bugs, there can be hardware failures too
 [12:02:25] <vinayb> the idea is thus to find good ways to handle errors and problems than trying to prevent them all
 [12:03:53] <vinayb> so the design of having lightweight processes where it is trivial to shutdown and start processes
+[12:04:13] <vinayb> is helpful as wherever an error occurs, that process can be shut down
+[12:04:23] <vinayb> rather that letting it propogate
