@@ -18,3 +18,14 @@
 [08:40:52] <vinayb> we should be able to store food in the fridge, and take out food from the fridge
 [08:41:07] <vinayb> it should only be possible to take food that has been stored beforehand
 [08:41:24] <vinayb> type up this in the new file:
+[08:42:09] <vinayb> -module(kitchen).
+[08:42:10] <vinayb> -compile(export_all).
+[08:42:10] <vinayb> fridge1() ->
+[08:42:10] <vinayb>     receive
+[08:42:10] <vinayb>         {From, {store, _Food}} ->
+[08:42:12] <vinayb>             From ! {self(), ok},
+[08:42:14] <vinayb>             fridge1();
+[08:42:17] <vinayb>         {From, {take, _Food}} ->
+[08:42:19] <vinayb>             %% uh....
+[08:42:22] <vinayb>             From ! {self(), not_found},
+[08:42:25] <vinayb>             fridge1();
