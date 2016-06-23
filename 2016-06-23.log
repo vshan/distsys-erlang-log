@@ -137,3 +137,4 @@
 [09:16:54] <vinayb> 3. The unknown process either doesn't exist or doesn't expect such a message and does nothing with it;
 [09:17:01] <vinayb> 4. Your shell process is stuck in receive mode.
 [09:17:26] <vinayb> that's annoying, especially because there is no error handling possible here. Nothing illegal happened, the program is just waiting. 
+[09:18:11] <vinayb> In general, anything dealing with asynchronous operations (which is how message passing is done in Erlang) needs a way to give up after a certain period of time if it gets no sign of receiving data
