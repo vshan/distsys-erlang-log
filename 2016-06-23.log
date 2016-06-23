@@ -36,3 +36,6 @@
 [08:43:19] <vinayb> does it meet our requirements?
 [08:45:34] <aditya_>  'take'  food doesnt make sense ? from where?
 [08:46:09] <vinayb> exactly! we are not storing food anywhere. so it's kinda impossible to take it
+[08:46:31] <vinayb> basically, we need to maintain state 
+[08:46:38] <vinayb> so we can use recursion
+[08:46:58] <vinayb> then, the state to a process can be held entirely in the parameters of the function 
