@@ -213,3 +213,6 @@
 [09:36:25] <vinayb> type all that up
 [09:36:28] <vinayb> then in the shell:
 [09:36:32] <vinayb> c(module_name).
+[09:37:04] <vinayb> self() ! {15, high}, self() ! {7, low}, self() ! {1, low}, self() ! {17, high}.
+[09:37:12] <vinayb> module_name:important().
+[09:37:16] <vinayb> what's the output?
