@@ -143,3 +143,4 @@
 [09:19:59] <vinayb> receive Match -> Expression1
 [09:19:59] <vinayb> after Delay -> Expression2
 [09:20:00] <vinayb> end.
+[09:20:32] <vinayb> The part in between receive and after is exactly the same that we already know. The after part will be triggered if as much time as Delay (an integer representing milliseconds) has been spent without receiving a message that matches the Match pattern. When this happens, Expression2 is executed.
