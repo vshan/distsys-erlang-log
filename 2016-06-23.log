@@ -138,3 +138,4 @@
 [09:17:01] <vinayb> 4. Your shell process is stuck in receive mode.
 [09:17:26] <vinayb> that's annoying, especially because there is no error handling possible here. Nothing illegal happened, the program is just waiting. 
 [09:18:11] <vinayb> In general, anything dealing with asynchronous operations (which is how message passing is done in Erlang) needs a way to give up after a certain period of time if it gets no sign of receiving data
+[09:19:04] <vinayb> A web browser does it when a page or image takes too long to load, you do it when someone takes too long before answering the phone or is late at a meeting.
