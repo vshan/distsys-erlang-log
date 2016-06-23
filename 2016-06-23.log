@@ -3,3 +3,4 @@
 [08:26:32] *** Joins: aditya_ (3d031751@gateway/web/freenode/ip.61.3.23.81)
 [08:27:37] *** vinayb changes topic to 'Distributed Systems Programming with Erlang | Today's log: https://goo.gl/oXe00J'
 [08:30:41] <aditya_> Wat r u going to teach today?
+[08:31:11] <vinayb> passing around state between processes, selectively receiving certain messages, time delays etc
