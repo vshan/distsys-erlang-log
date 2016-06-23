@@ -254,3 +254,7 @@
 [09:53:58] <vinayb> if we just sent one, say
 [09:54:06] <vinayb> self() ! {15, high}
 [09:54:15] <vinayb> then directly after not matching, it will go to 'after' part
+[09:54:37] <vinayb> ONLY BECAUSE we are sending them together, like self() ! {15, high}, self() ! {7, low}, .. etc
+[09:54:41] <vinayb> this happens
+[09:54:45] <vinayb> clear?
+[09:54:47] <aditya_> ok understood!
