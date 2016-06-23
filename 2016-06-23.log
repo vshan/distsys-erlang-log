@@ -103,3 +103,4 @@
 [09:03:31] <vinayb> kitchen:take(Pid, juice).
 [09:03:41] <vinayb> what's the output?
 [09:04:33] <aditya_> ok {ok,water}  not_found
+[09:05:15] <vinayb> right! aditya_ is your doubt cleared now? did you notice how by using receive..end expression in our helper functions we showed the msg without using flush()?
