@@ -113,3 +113,5 @@
 [09:08:48] <vinayb> let's see this function put to use:
 [09:08:51] <vinayb> f().
 [09:08:54] <vinayb> c(kitchen).
+[09:09:20] <vinayb> Pid = kitchen:start([dairy_milk, oreos, lays]).
+[09:09:29] <vinayb> kitchen:take(Pid, oreos).
