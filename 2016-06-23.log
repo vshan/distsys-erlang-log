@@ -218,3 +218,5 @@
 [09:37:16] <vinayb> what's the output?
 [09:38:58] <aditya_> [high,high,low,low]
 [09:40:04] <vinayb> Right! Because I used the after 0 bit, every message will be obtained until none is left, but the process will try to grab all those with a priority above 10 before even considering the other messages, which are accumulated in the normal/0 call.
+[09:41:12] <vinayb> any doubts?
+[09:41:18] <aditya_> I didnt understand how it works!
