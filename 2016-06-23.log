@@ -195,3 +195,10 @@
 [09:33:46] <rakshith> no
 [09:34:34] <vinayb> ok now we'll see the concept of Selective receives
 [09:35:00] <vinayb> This 'flushing' concept makes it possible to implement a selective receive which can give a priority to the messages you receive by nesting calls:
+[09:35:23] <vinayb> important() ->
+[09:35:23] <vinayb>     receive
+[09:35:23] <vinayb>         {Priority, Message} when Priority > 10 ->
+[09:35:23] <vinayb>             [Message | important()]
+[09:35:23] <vinayb>     after 0 ->
+[09:35:26] <vinayb>         normal()
+[09:35:28] <vinayb>     end.
