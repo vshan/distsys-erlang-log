@@ -117,3 +117,4 @@
 [09:09:29] <vinayb> kitchen:take(Pid, oreos).
 [09:09:38] <vinayb> kitchen:take(Pid, oreos).
 [09:09:46] <vinayb> what's the output?
+[09:10:15] <aditya_> <0.128.0>  {ok,oreos}  not_found
