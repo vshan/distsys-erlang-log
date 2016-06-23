@@ -115,3 +115,5 @@
 [09:08:54] <vinayb> c(kitchen).
 [09:09:20] <vinayb> Pid = kitchen:start([dairy_milk, oreos, lays]).
 [09:09:29] <vinayb> kitchen:take(Pid, oreos).
+[09:09:38] <vinayb> kitchen:take(Pid, oreos).
+[09:09:46] <vinayb> what's the output?
