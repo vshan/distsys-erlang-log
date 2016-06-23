@@ -29,3 +29,6 @@
 [08:42:19] <vinayb>             %% uh....
 [08:42:22] <vinayb>             From ! {self(), not_found},
 [08:42:25] <vinayb>             fridge1();
+[08:42:27] <vinayb>         terminate ->
+[08:42:30] <vinayb>             ok
+[08:42:32] <vinayb>     end.
