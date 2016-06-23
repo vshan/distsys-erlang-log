@@ -283,3 +283,6 @@
 [10:04:14] <vinayb>         io:format("unexpected message ~p~n", [Unexpected])
 [10:04:16] <vinayb> end.
 [10:04:23] <vinayb> What this does is make sure any message will match at least one clause. The Unexpected variable will match anything, take the unexpected message out of the mailbox and show a warning
+[10:05:09] <vinayb> and that's pretty much there is to say about selective receives 
+[10:05:19] <vinayb> so that's it for today guys :)
+[10:05:30] <vinayb> you can ask me if you have any doubts
