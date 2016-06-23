@@ -192,3 +192,4 @@
 [09:32:39] <vinayb> When that happens, the Erlang VM will try and find a message that fits one of the available patterns. In the case above, anything matches. As long as there are messages, the flush/0 function will recursively call itself until the mailbox is empty. Once this is done, the after 0 -> ok part of the code is executed and the function returns.
 [09:33:06] <vinayb> any doubts?
 [09:33:35] <aditya_> nope
+[09:33:46] <rakshith> no
