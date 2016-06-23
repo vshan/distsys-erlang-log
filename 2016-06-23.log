@@ -234,3 +234,6 @@
 [09:46:27] <vinayb> THE moment the next matches, the ones from save queue get added back to mailbox
 [09:46:57] <vinayb> okay, i'll give you a proper example
 [09:47:21] <vinayb> say there are N messages where the order in which they came was 1 first, then 2, then 3, etc..
+[09:47:41] <vinayb> so we try to match MSG1
+[09:47:45] <vinayb> say it matches!
+[09:47:56] <vinayb> then we recurse, try to match with MSG2
