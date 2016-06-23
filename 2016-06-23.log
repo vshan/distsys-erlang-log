@@ -46,3 +46,15 @@
 [08:48:35] <vinayb>         {From, {store, Food}} ->
 [08:48:35] <vinayb>             From ! {self(), ok},
 [08:48:35] <vinayb>             fridge2([Food|FoodList]);
+[08:48:37] <vinayb>         {From, {take, Food}} ->
+[08:48:40] <vinayb>             case lists:member(Food, FoodList) of
+[08:48:42] <vinayb>                 true ->
+[08:48:45] <vinayb>                     From ! {self(), {ok, Food}},
+[08:48:47] <vinayb>                     fridge2(lists:delete(Food, FoodList));
+[08:48:50] <vinayb>                 false ->
+[08:48:52] <vinayb>                     From ! {self(), not_found},
+[08:48:55] <vinayb>                     fridge2(FoodList)
+[08:48:57] <vinayb>             end;
+[08:49:00] <vinayb>         terminate ->
+[08:49:02] <vinayb>             ok
+[08:49:05] <vinayb>     end.
