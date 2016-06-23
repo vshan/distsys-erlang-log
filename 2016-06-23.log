@@ -144,3 +144,4 @@
 [09:19:59] <vinayb> after Delay -> Expression2
 [09:20:00] <vinayb> end.
 [09:20:32] <vinayb> The part in between receive and after is exactly the same that we already know. The after part will be triggered if as much time as Delay (an integer representing milliseconds) has been spent without receiving a message that matches the Match pattern. When this happens, Expression2 is executed.
+[09:22:41] <vinayb> We'll write two new interface functions, store2/2 and take2/2, which will act exactly like store/2 and take/2 with the exception that they will stop waiting after 3 seconds:
