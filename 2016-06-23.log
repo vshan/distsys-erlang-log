@@ -210,3 +210,6 @@
 [09:35:53] <vinayb>         []
 [09:35:55] <vinayb>     end.
 [09:36:15] <vinayb> This function will build a list of all messages with those with a priority above 10 coming first:
+[09:36:25] <vinayb> type all that up
+[09:36:28] <vinayb> then in the shell:
+[09:36:32] <vinayb> c(module_name).
