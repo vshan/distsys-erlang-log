@@ -35,3 +35,4 @@
 [08:43:12] <vinayb> can anyone notice any issue with this function?
 [08:43:19] <vinayb> does it meet our requirements?
 [08:45:34] <aditya_>  'take'  food doesnt make sense ? from where?
+[08:46:09] <vinayb> exactly! we are not storing food anywhere. so it's kinda impossible to take it
