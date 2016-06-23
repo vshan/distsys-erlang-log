@@ -94,3 +94,6 @@
 [09:01:44] <vinayb>     receive
 [09:01:46] <vinayb>         {Pid, Msg} -> Msg
 [09:01:49] <vinayb>     end.
+[09:02:44] <vinayb> now the interaction with the process is much cleaner:
+[09:02:48] <vinayb> c(kitchen).
+[09:02:51] <vinayb> f().
