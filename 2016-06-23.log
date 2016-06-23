@@ -140,3 +140,6 @@
 [09:18:11] <vinayb> In general, anything dealing with asynchronous operations (which is how message passing is done in Erlang) needs a way to give up after a certain period of time if it gets no sign of receiving data
 [09:19:04] <vinayb> A web browser does it when a page or image takes too long to load, you do it when someone takes too long before answering the phone or is late at a meeting.
 [09:19:44] <vinayb> Erlang certainly has an appropriate mechanism for that, and it's part of the receive construct:
+[09:19:59] <vinayb> receive Match -> Expression1
+[09:19:59] <vinayb> after Delay -> Expression2
+[09:20:00] <vinayb> end.
