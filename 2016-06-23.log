@@ -107,3 +107,5 @@
 [09:05:49] <aditya_> yes!
 [09:07:05] <vinayb> alright. now, the one thing left to do would be to hide that whole part about needing to spawn a process. so we can add the following start/1 function:
 [09:07:22] <vinayb> start(FoodList) -> spawn(?MODULE, fridge2, [FoodList]).
+[09:07:37] <vinayb> Here, ?MODULE is a macro returning the current module's name
+[09:07:48] <vinayb> Erlang macros are just like C macros
