@@ -126,3 +126,7 @@
 [09:13:54] <vinayb> run this. what happens when you try this out?
 [09:15:14] <aditya_> no output!
 [09:15:26] <vinayb> yep, the shell freezes!
+[09:15:46] <vinayb> to understand what's going on, let's revise what happens in the normal case when we call take/2
+[09:15:53] <vinayb> 1. A message to take food is sent from you (the shell) to the fridge process;
+[09:16:00] <vinayb> 2. Your process switches to receive mode and waits for a new message;
+[09:16:08] <vinayb> 3. The fridge removes the item and sends it to your process;
