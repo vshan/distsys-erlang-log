@@ -130,3 +130,6 @@
 [09:15:53] <vinayb> 1. A message to take food is sent from you (the shell) to the fridge process;
 [09:16:00] <vinayb> 2. Your process switches to receive mode and waits for a new message;
 [09:16:08] <vinayb> 3. The fridge removes the item and sends it to your process;
+[09:16:22] <vinayb> 4. Your process receives it and moves on with its life.
+[09:16:33] <vinayb> And here's what happens when the shell freezes:
+[09:16:39] <vinayb> 1. A message to take food is sent from you (the shell) to an unknown process;
