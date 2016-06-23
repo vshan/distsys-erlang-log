@@ -82,3 +82,4 @@
 [08:59:16] <vinayb> okay, it is because of recursion
 [08:59:24] <vinayb> since we call the function again
 [09:00:15] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
+[09:01:15] <vinayb> okay, now something annoying is that the person using the fridge needs to know the protocol that's been invented for that process. That's a burden, we can simplify things. Also, note that we had to call flush() to get all the received messages. Let's see how we can change that
