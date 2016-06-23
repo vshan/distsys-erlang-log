@@ -109,3 +109,7 @@
 [09:07:22] <vinayb> start(FoodList) -> spawn(?MODULE, fridge2, [FoodList]).
 [09:07:37] <vinayb> Here, ?MODULE is a macro returning the current module's name
 [09:07:48] <vinayb> Erlang macros are just like C macros
+[09:08:39] <vinayb> okay, so now everything to do with the fridge process is now handled in the kitchen module
+[09:08:48] <vinayb> let's see this function put to use:
+[09:08:51] <vinayb> f().
+[09:08:54] <vinayb> c(kitchen).
