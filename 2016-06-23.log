@@ -58,3 +58,7 @@
 [08:49:00] <vinayb>         terminate ->
 [08:49:02] <vinayb>             ok
 [08:49:05] <vinayb>     end.
+[08:50:08] <vinayb> now type this in the shell:
+[08:50:08] <vinayb> c(kitchen).
+[08:50:24] <vinayb> Pid = spawn(kitchen, fridge2, [[baking_soda]]).
+[08:50:36] <vinayb> Pid ! {self(), {store, milk}}.
