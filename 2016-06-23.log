@@ -273,3 +273,13 @@
 [10:01:54] <aditya_> yes!
 [10:02:52] <vinayb> so this is how selective receives work in Erlang :)
 [10:03:50] <vinayb> Because of the risks of having useless messages polluting a process' mailbox, Erlang programmers sometimes take a defensive measure against such events. A standard way to do it might look like this:
+[10:04:06] <vinayb> receive
+[10:04:07] <vinayb>     Pattern1 -> Expression1;
+[10:04:07] <vinayb>     Pattern2 -> Expression2;
+[10:04:07] <vinayb>     Pattern3 -> Expression3;
+[10:04:07] <vinayb>     ...
+[10:04:09] <vinayb>     PatternN -> ExpressionN;
+[10:04:11] <vinayb>     Unexpected ->
+[10:04:14] <vinayb>         io:format("unexpected message ~p~n", [Unexpected])
+[10:04:16] <vinayb> end.
+[10:04:23] <vinayb> What this does is make sure any message will match at least one clause. The Unexpected variable will match anything, take the unexpected message out of the mailbox and show a warning
