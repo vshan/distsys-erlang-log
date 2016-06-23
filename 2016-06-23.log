@@ -232,3 +232,4 @@
 [09:45:28] <vinayb> basically, we try to match the messages.. one by one in order. if it matches? great. if it doesn't? then it gets put in a seperate SAVE QUEUE
 [09:45:46] <vinayb> and then next message is tried
 [09:46:27] <vinayb> THE moment the next matches, the ones from save queue get added back to mailbox
+[09:46:57] <vinayb> okay, i'll give you a proper example
