@@ -248,3 +248,4 @@
 [09:50:37] <vinayb> so we take them from save queue, and put them back to mailbox
 [09:51:15] <vinayb> and as MSG4 matches, and MSG2, MSG3 get added to mailbox behind MSG N, we continue to next one, MSG5
 [09:51:30] <vinayb> is this clear? 
+[09:51:52] <aditya_> yes but wat happens when they r tried again?
