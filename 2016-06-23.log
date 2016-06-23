@@ -183,3 +183,9 @@
 [09:30:24] <vinayb>   end.
 [09:30:40] <vinayb> In this specific case, no message will ever be matched in the receive part of the construct because there is no pattern. Instead, the after part of the construct will be called once the delay T has passed.
 [09:31:39] <vinayb> Another special case is when the timeout is at 0:
+[09:31:53] <vinayb> flush() ->
+[09:31:54] <vinayb>     receive
+[09:31:54] <vinayb>         _ -> flush()
+[09:31:54] <vinayb>     after 0 ->
+[09:31:54] <vinayb>         ok
+[09:31:56] <vinayb>     end.
