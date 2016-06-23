@@ -244,3 +244,5 @@
 [09:48:58] <vinayb> put MSG3 in save queue
 [09:49:39] <vinayb> now try to match with MSG4
 [09:49:43] <vinayb> say it matches!
+[09:50:24] <vinayb> AT THIS POINT, MSG2 and MSG3 get added to mailbox behind MSG N (so they will be tried again AFTER all N are processed)
+[09:50:37] <vinayb> so we take them from save queue, and put them back to mailbox
