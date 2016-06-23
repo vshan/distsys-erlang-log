@@ -176,3 +176,9 @@
 [09:27:02] <vinayb> what's the output?
 [09:29:34] <aditya_> timeout
 [09:29:43] <vinayb> right! so that's how it works
+[09:30:11] <vinayb> the timer:sleep/1 function we used earlier is implemented this way:
+[09:30:16] <vinayb> sleep(T) ->
+[09:30:19] <vinayb>   receieve 
+[09:30:22] <vinayb>   after T -> ok
+[09:30:24] <vinayb>   end.
+[09:30:40] <vinayb> In this specific case, no message will ever be matched in the receive part of the construct because there is no pattern. Instead, the after part of the construct will be called once the delay T has passed.
