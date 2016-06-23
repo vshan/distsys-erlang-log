@@ -249,3 +249,5 @@
 [09:51:15] <vinayb> and as MSG4 matches, and MSG2, MSG3 get added to mailbox behind MSG N, we continue to next one, MSG5
 [09:51:30] <vinayb> is this clear? 
 [09:51:52] <aditya_> yes but wat happens when they r tried again?
+[09:53:16] <vinayb> this time when there's no match, Erlang will go to the 'after' part
+[09:53:46] <vinayb> IMPORTANT POINT: All of this is happening only because there are multiple messages in mailbox
