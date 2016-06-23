@@ -230,3 +230,4 @@
 [09:44:32] <vinayb> hen it does, the message is removed from the mailbox and the code for the process executes normally until the next receive. 
 [09:44:36] <vinayb> *then
 [09:45:28] <vinayb> basically, we try to match the messages.. one by one in order. if it matches? great. if it doesn't? then it gets put in a seperate SAVE QUEUE
+[09:45:46] <vinayb> and then next message is tried
