@@ -268,3 +268,4 @@
 [09:59:48] <vinayb> that's the philosophy
 [10:00:16] <vinayb> because say there are 100 msgs which won't match, and only 101st msg matches
 [10:00:47] <vinayb> so if Erlang waited one by one, it would take 4000 seconds before 101st msg got processed
+[10:00:57] <vinayb> get it?
