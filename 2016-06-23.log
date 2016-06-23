@@ -226,3 +226,6 @@
 [09:43:29] <vinayb> this means every time you match a message, it begins by the oldest one
 [09:44:03] <vinayb> that oldest message is then tried against every pattern of the receive until one of them matches.
 [09:44:11] <aditya_> So d order is 15 7 1 17?
+[09:44:31] <vinayb> hold on, i'll explain
+[09:44:32] <vinayb> hen it does, the message is removed from the mailbox and the code for the process executes normally until the next receive. 
+[09:44:36] <vinayb> *then
