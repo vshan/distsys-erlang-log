@@ -4,3 +4,4 @@
 [08:27:37] *** vinayb changes topic to 'Distributed Systems Programming with Erlang | Today's log: https://goo.gl/oXe00J'
 [08:30:41] <aditya_> Wat r u going to teach today?
 [08:31:11] <vinayb> passing around state between processes, selectively receiving certain messages, time delays etc
+[08:31:41] <vinayb> and i'll also show you some code that'll clarify your flush doubt
