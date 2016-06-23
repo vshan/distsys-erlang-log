@@ -251,3 +251,6 @@
 [09:51:52] <aditya_> yes but wat happens when they r tried again?
 [09:53:16] <vinayb> this time when there's no match, Erlang will go to the 'after' part
 [09:53:46] <vinayb> IMPORTANT POINT: All of this is happening only because there are multiple messages in mailbox
+[09:53:58] <vinayb> if we just sent one, say
+[09:54:06] <vinayb> self() ! {15, high}
+[09:54:15] <vinayb> then directly after not matching, it will go to 'after' part
