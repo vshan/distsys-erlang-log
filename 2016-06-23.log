@@ -12,3 +12,4 @@
 [08:36:53] <vinayb> we'll start now
 [08:38:37] <vinayb> so now we've seen how to pass around simple messages between processes
 [08:38:45] *** Joins: rakshith (~hehaichi@103.194.12.98)
+[08:39:53] <vinayb> let's see how we can maintain state in a process, or rather how to store values which persist between repeated invocations of the process
