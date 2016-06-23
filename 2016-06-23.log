@@ -15,3 +15,5 @@
 [08:39:53] <vinayb> let's see how we can maintain state in a process, or rather how to store values which persist between repeated invocations of the process
 [08:40:22] <vinayb> let's first create a function in a new kitchen.erl module that will let a process act like a fridge :P
 [08:40:32] <vinayb> Here are the requirements: 
+[08:40:52] <vinayb> we should be able to store food in the fridge, and take out food from the fridge
+[08:41:07] <vinayb> it should only be possible to take food that has been stored beforehand
