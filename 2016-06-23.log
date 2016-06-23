@@ -133,3 +133,6 @@
 [09:16:22] <vinayb> 4. Your process receives it and moves on with its life.
 [09:16:33] <vinayb> And here's what happens when the shell freezes:
 [09:16:39] <vinayb> 1. A message to take food is sent from you (the shell) to an unknown process;
+[09:16:47] <vinayb> 2. Your process switches to receive mode and waits for a new message;
+[09:16:54] <vinayb> 3. The unknown process either doesn't exist or doesn't expect such a message and does nothing with it;
+[09:17:01] <vinayb> 4. Your shell process is stuck in receive mode.
