@@ -77,3 +77,5 @@
 [08:55:22] <vinayb> any doubts?
 [08:55:47] <aditya_> no
 [08:55:51] <rakshith> no
+[08:56:31] <vinayb> so tell how does storing in the parameter work? why is it not "vanishing" after we spawn the process and call it once/
+[08:56:34] <vinayb> *?
