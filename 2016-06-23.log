@@ -263,3 +263,4 @@
 [09:57:25] <vinayb> got it?
 [09:57:41] <aditya_> Does it go to d normal() func after 0ms still?
 [09:58:23] <vinayb> yes, after all the initial high priority matchings are done
+[09:58:55] <vinayb> basically, imagine this: there was 'after 40000' in the function
