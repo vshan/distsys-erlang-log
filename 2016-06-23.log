@@ -169,3 +169,7 @@
 [09:25:17] <vinayb>     after 3000 ->
 [09:25:20] <vinayb>         timeout
 [09:25:22] <vinayb>     end.
+[09:26:32] <vinayb> you can now unfreeze the shell with Ctrl+G
+[09:26:37] <vinayb> and try the new functions
+[09:26:43] <vinayb> c(kitchen).
+[09:26:57] <vinayb> kitchen:take2(pid(0,250,0), dog).
