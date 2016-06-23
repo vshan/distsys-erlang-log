@@ -150,3 +150,8 @@
 [09:24:16] <vinayb> func() ->
 [09:24:18] <vinayb>   receive
 [09:24:22] <vinayb> after T -> ok
+[09:24:26] <vinayb>   end.
+[09:24:40] <vinayb> i'll show you an example of this type
+[09:24:42] <vinayb> but before that
+[09:24:52] <aditya_> ok
+[09:24:55] <vinayb> let's see store and take
