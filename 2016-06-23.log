@@ -73,3 +73,5 @@
 [08:53:40] <rakshith> Shell got {<0.61.0>,{ok,chocolate}}
 [08:53:40] <rakshith> Shell got {<0.61.0>,not_found}
 [08:53:40] <rakshith> ok
+[08:55:17] <vinayb> right! so basically what we are doing in this process is that we are storing the entire list in the parameter, and appending to it whenever we have to "store" something. When we have to take out something, we check if it is there in the list or not, if it is, we remove it, if not, we return not_found
+[08:55:22] <vinayb> any doubts?
