@@ -83,3 +83,14 @@
 [08:59:24] <vinayb> since we call the function again
 [09:00:15] *** Joins: akshayrevankar (67157d53@gateway/web/freenode/ip.103.21.125.83)
 [09:01:15] <vinayb> okay, now something annoying is that the person using the fridge needs to know the protocol that's been invented for that process. That's a burden, we can simplify things. Also, note that we had to call flush() to get all the received messages. Let's see how we can change that
+[09:01:26] <vinayb> type this up:
+[09:01:36] <vinayb> store(Pid, Food) ->
+[09:01:37] <vinayb>     Pid ! {self(), {store, Food}},
+[09:01:37] <vinayb>     receive
+[09:01:37] <vinayb>         {Pid, Msg} -> Msg
+[09:01:37] <vinayb>     end.
+[09:01:39] <vinayb> take(Pid, Food) ->
+[09:01:41] <vinayb>     Pid ! {self(), {take, Food}},
+[09:01:44] <vinayb>     receive
+[09:01:46] <vinayb>         {Pid, Msg} -> Msg
+[09:01:49] <vinayb>     end.
