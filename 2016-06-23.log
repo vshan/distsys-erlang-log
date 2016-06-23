@@ -69,3 +69,7 @@
 [08:52:27] <vinayb> Pid ! {self(), {take, bread}}.
 [08:52:29] <vinayb> flush().
 [08:52:36] <vinayb> what are the outputs for these too?
+[08:53:39] <rakshith> Shell got {<0.61.0>,ok}
+[08:53:40] <rakshith> Shell got {<0.61.0>,{ok,chocolate}}
+[08:53:40] <rakshith> Shell got {<0.61.0>,not_found}
+[08:53:40] <rakshith> ok
