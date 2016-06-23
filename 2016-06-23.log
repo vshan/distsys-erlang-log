@@ -202,3 +202,11 @@
 [09:35:23] <vinayb>     after 0 ->
 [09:35:26] <vinayb>         normal()
 [09:35:28] <vinayb>     end.
+[09:35:50] <vinayb> normal() ->
+[09:35:51] <vinayb>     receive
+[09:35:51] <vinayb>         {_, Message} ->
+[09:35:51] <vinayb>             [Message | normal()]
+[09:35:51] <vinayb>     after 0 ->
+[09:35:53] <vinayb>         []
+[09:35:55] <vinayb>     end.
+[09:36:15] <vinayb> This function will build a list of all messages with those with a priority above 10 coming first:
