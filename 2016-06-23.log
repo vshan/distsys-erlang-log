@@ -121,3 +121,4 @@
 [09:11:18] <vinayb> right! now that the oreos are out of the fridge, our abstraction is complete
 [09:12:25] <vinayb> alright, let's try a little something with the help of the command pid(A,B,C)
 [09:12:41] <vinayb> this command lets us change the 3 integers A, B and C into a pid
+[09:13:28] <vinayb> here we'll deliberately feed kitchen:take/2 a fake one:
