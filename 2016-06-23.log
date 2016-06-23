@@ -100,3 +100,5 @@
 [09:03:04] <vinayb> Pid = spawn(kitchen, fridge2, [[baking_soda]]).
 [09:03:13] <vinayb> kitchen:store(Pid, water).
 [09:03:20] <vinayb> kitchen:take(Pid, water).
+[09:03:31] <vinayb> kitchen:take(Pid, juice).
+[09:03:41] <vinayb> what's the output?
