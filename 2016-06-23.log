@@ -64,3 +64,4 @@
 [08:50:36] <vinayb> Pid ! {self(), {store, milk}}.
 [08:50:42] <vinayb> flush().
 [08:50:52] <vinayb> what's the output?
+[08:52:04] <vinayb> Pid ! {self(), {store, chocolate}}.
