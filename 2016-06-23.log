@@ -124,3 +124,5 @@
 [09:13:28] <vinayb> here we'll deliberately feed kitchen:take/2 a fake one:
 [09:13:42] <vinayb> kitchen:take(pid(0,250,0), oreos).
 [09:13:54] <vinayb> run this. what happens when you try this out?
+[09:15:14] <aditya_> no output!
+[09:15:26] <vinayb> yep, the shell freezes!
