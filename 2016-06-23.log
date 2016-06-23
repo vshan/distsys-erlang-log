@@ -65,3 +65,7 @@
 [08:50:42] <vinayb> flush().
 [08:50:52] <vinayb> what's the output?
 [08:52:04] <vinayb> Pid ! {self(), {store, chocolate}}.
+[08:52:14] <vinayb> Pid ! {self(), {take, chocolate}}.
+[08:52:27] <vinayb> Pid ! {self(), {take, bread}}.
+[08:52:29] <vinayb> flush().
+[08:52:36] <vinayb> what are the outputs for these too?
