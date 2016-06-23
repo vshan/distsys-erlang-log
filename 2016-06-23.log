@@ -223,3 +223,4 @@
 [09:42:56] <vinayb> basically what happens is that
 [09:43:09] <vinayb> when messages are sent to a process, they're stored in the mailbox until the process reads them and they match a pattern there
 [09:43:21] <vinayb> the messages are stored in the order they were received
+[09:43:29] <vinayb> this means every time you match a message, it begins by the oldest one
