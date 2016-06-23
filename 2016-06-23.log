@@ -41,3 +41,8 @@
 [08:46:58] <vinayb> then, the state to a process can be held entirely in the parameters of the function 
 [08:47:40] <vinayb> in the case of our fridge process, a possibility would be to store all the food as a list, and then look in that list when someone needs to eat something:
 [08:47:43] <vinayb> so type this up:
+[08:48:35] <vinayb> fridge2(FoodList) ->
+[08:48:35] <vinayb>     receive
+[08:48:35] <vinayb>         {From, {store, Food}} ->
+[08:48:35] <vinayb>             From ! {self(), ok},
+[08:48:35] <vinayb>             fridge2([Food|FoodList]);
