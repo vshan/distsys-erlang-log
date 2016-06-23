@@ -175,3 +175,4 @@
 [09:26:57] <vinayb> kitchen:take2(pid(0,250,0), dog).
 [09:27:02] <vinayb> what's the output?
 [09:29:34] <aditya_> timeout
+[09:29:43] <vinayb> right! so that's how it works
