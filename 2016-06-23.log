@@ -105,3 +105,5 @@
 [09:04:33] <aditya_> ok {ok,water}  not_found
 [09:05:15] <vinayb> right! aditya_ is your doubt cleared now? did you notice how by using receive..end expression in our helper functions we showed the msg without using flush()?
 [09:05:49] <aditya_> yes!
+[09:07:05] <vinayb> alright. now, the one thing left to do would be to hide that whole part about needing to spawn a process. so we can add the following start/1 function:
+[09:07:22] <vinayb> start(FoodList) -> spawn(?MODULE, fridge2, [FoodList]).
