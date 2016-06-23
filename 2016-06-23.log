@@ -155,3 +155,17 @@
 [09:24:42] <vinayb> but before that
 [09:24:52] <aditya_> ok
 [09:24:55] <vinayb> let's see store and take
+[09:25:00] <vinayb> store2(Pid, Food) ->
+[09:25:00] <vinayb>     Pid ! {self(), {store, Food}},
+[09:25:00] <vinayb>     receive
+[09:25:00] <vinayb>         {Pid, Msg} -> Msg
+[09:25:00] <vinayb>     after 3000 ->
+[09:25:02] <vinayb>         timeout
+[09:25:05] <vinayb>     end.
+[09:25:07] <vinayb> take2(Pid, Food) ->
+[09:25:10] <vinayb>     Pid ! {self(), {take, Food}},
+[09:25:12] <vinayb>     receive
+[09:25:15] <vinayb>         {Pid, Msg} -> Msg
+[09:25:17] <vinayb>     after 3000 ->
+[09:25:20] <vinayb>         timeout
+[09:25:22] <vinayb>     end.
