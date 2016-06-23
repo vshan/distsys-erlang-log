@@ -136,3 +136,4 @@
 [09:16:47] <vinayb> 2. Your process switches to receive mode and waits for a new message;
 [09:16:54] <vinayb> 3. The unknown process either doesn't exist or doesn't expect such a message and does nothing with it;
 [09:17:01] <vinayb> 4. Your shell process is stuck in receive mode.
+[09:17:26] <vinayb> that's annoying, especially because there is no error handling possible here. Nothing illegal happened, the program is just waiting. 
