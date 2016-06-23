@@ -262,3 +262,4 @@
 [09:56:50] <vinayb> no, it still holds value. If there was no after 0 part, then it would have just thrown away those less priority ones. Here, we want to process all the higher priority ones FIRST, THEN deal with low priority ones
 [09:57:25] <vinayb> got it?
 [09:57:41] <aditya_> Does it go to d normal() func after 0ms still?
+[09:58:23] <vinayb> yes, after all the initial high priority matchings are done
