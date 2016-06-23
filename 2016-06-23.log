@@ -194,3 +194,4 @@
 [09:33:35] <aditya_> nope
 [09:33:46] <rakshith> no
 [09:34:34] <vinayb> ok now we'll see the concept of Selective receives
+[09:35:00] <vinayb> This 'flushing' concept makes it possible to implement a selective receive which can give a priority to the messages you receive by nesting calls:
